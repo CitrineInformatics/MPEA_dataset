@@ -1,6 +1,13 @@
 # Expanded dataset of mechanical properties and observed phases of multi-principal element alloys
 
-This repositoy contains data and processing scripts to generate a dataset of mechanical properties of MPEAs.
+This repository contains data and processing scripts to generate a dataset of mechanical properties of MPEAs.
+
+To run the Jupyter notebooks contained in this repository, a [requirements file](requirements.txt) has been included.
+
+`conda create --name myenv python` 
+
+`pip install -r requirements.txt`
+
 
 1. [2018 data](/2018_data/2018_data.csv)
 This file was generated from previous reviews ([Gorsse2018](https://doi.org/10.1016/j.dib.2018.11.111), [Couzinine2018](https://doi.org/10.1016/j.dib.2018.10.071)).
