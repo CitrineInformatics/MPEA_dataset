@@ -1,0 +1,6 @@
+os
+re
+numpy
+pandas
+pymatgen
+plotly
