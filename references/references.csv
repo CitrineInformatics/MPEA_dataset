@@ -46,7 +46,7 @@ IDENTIFIER: Reference ID,REFERENCE: title,REFERENCE: year,REFERENCE: doi,REFEREN
 45,"Mechanical properties of low-density, refractory multi-principal element alloys of the Cr–Nb–Ti–V–Zr system",2013,10.1016/j.msea.2012.12.018,http://dx.doi.org/10.1016/j.msea.2012.12.018
 46,Effects of Nb additions on the microstructure and mechanical property of CoCrFeNi high-entropy alloys,2015,10.1016/j.intermet.2015.01.004,http://dx.doi.org/10.1016/j.intermet.2015.01.004
 47,Microstructure and mechanical properties of in-situ MC-carbide particulates-reinforced refractory high-entropy Mo0.5NbHf0.5ZrTi matrix alloy composite,2016,10.1016/j.intermet.2015.09.011,http://dx.doi.org/10.1016/j.intermet.2015.09.011
-48,Solution strengthening of ductile refractory HfMoxNbTaTiZr high-entropy alloys,2016,10.1016/j. matlet.2016.03.133,https://doi.org/10.1016/j.matlet.2016.03.133
+48,Solution strengthening of ductile refractory HfMoxNbTaTiZr high-entropy alloys,2016,10.1016/j.matlet.2016.03.133,https://doi.org/10.1016/j.matlet.2016.03.133
 49,Enhanced mechanical properties of HfMoTaTiZr and HfMoNbTaTiZr refractory high-entropy alloys,2015,10.1016/j.intermet.2015.03.013,http://dx.doi.org/10.1016/j.intermet.2015.03.013
 50,Microstructure and mechanical properties of refractory MoNbHfZrTi high-entropy alloy,2015,10.1016/j.matdes.2015.05.019,http://dx.doi.org/10.1016/j.matdes.2015.05.019
 51,Microstructure and mechanical properties of a refractory HfNbTiVSi0.5 high-entropy alloy composite,2016,10.1016/j.matlet.2016.03.092,http://dx.doi.org/10.1016/j.matlet.2016.03.092
@@ -73,192 +73,201 @@ IDENTIFIER: Reference ID,REFERENCE: title,REFERENCE: year,REFERENCE: doi,REFEREN
 72,Plastic deformation properties of Zr–Nb–Ti–Ta–Hf high-entropy alloys,2015,10.1080/14786435.2015.1028506,http://dx.doi.org/10.1080/14786435.2015.1028506
 73,Microstructure and mechanical properties of refractory high entropy (Mo 0.5 NbHf 0.5 ZrTi) BCC /M 5 Si 3 in-situ compound,2016,10.1016/j.jallcom.2015.11.091,http://dx.doi.org/10.1016/j.jallcom.2015.11.091
 74,Mechanical properties and thermally activated plasticity of the Ti30Zr25Hf15Nb20Ta10 high entropy alloy at temperatures 4.2–350 K,2018,10.1016/j.msea.2017.10.073,http://dx.doi.org/10.1016/j.msea.2017.10.073
-75,Solution strengthening of ductile refractory HfMo x NbTaTiZr high-entropy alloys,2016,10.1016/j.matlet.2016.03.133,http://dx.doi.org/10.1016/j.matlet.2016.03.133
-76,Microstructure and mechanical properties of refractory HfMo0.5NbTiV0.5Six high-entropy composites,2017,10.1016/j.jallcom.2016.10.014,http://dx.doi.org/10.1016/j.jallcom.2016.10.014
-77,Design and tensile properties of a bcc Ti-rich high-entropy alloy with transformation-induced plasticity,2016,10.1080/21663831.2016.1221861,http://dx.doi.org/10.1080/21663831.2016.1221861
-78,Compositional variation effects on the microstructure and properties of a refractory high-entropy superalloy AlMo0.5NbTa0.5TiZr,2018,10.1016/j.matdes.2017.11.033,http://dx.doi.org/10.1016/j.matdes.2017.11.033
-79,Microstructure and Mechanical Properties of a New Refractory HfNbSi<sub>0.5</sub>TiVZr High Entropy Alloy,2016,10.4028/www.scientific.net/MSF.849.76,http://dx.doi.org/10.4028/www.scientific.net/msf.849.76
-80,"Thermodynamic instability of a nanocrystalline, single-phase TiZrNbHfTa alloy and its impact on the mechanical properties",2018,10.1016/j.actamat.2017.09.035,http://dx.doi.org/10.1016/j.actamat.2017.09.035
-81,Microstructure and properties of a refractory high-entropy alloy after cold working,2015,10.1016/j.jallcom.2015.07.209,http://dx.doi.org/10.1016/j.jallcom.2015.07.209
-82,Simultaneously increasing the strength and ductility of a refractory high-entropy alloy via grain refining,2016,10.1016/j.matlet.2016.08.060,http://dx.doi.org/10.1016/j.matlet.2016.08.060
-83,Study of a bcc multi-principal element alloy: Tensile and simple shear properties and underlying deformation mechanisms,2018,10.1016/j.actamat.2017.09.062,http://dx.doi.org/10.1016/j.actamat.2017.09.062
-84,Microstructure and room temperature properties of a high-entropy TaNbHfZrTi alloy,2011,10.1016/j.jallcom.2011.02.171,http://dx.doi.org/10.1016/j.jallcom.2011.02.171
-85,On the room temperature deformation mechanisms of a TiZrHfNbTa refractory high-entropy alloy,2015,10.1016/j.msea.2015.08.024,http://dx.doi.org/10.1016/j.msea.2015.08.024
-86,Mechanical behavior and microstructure of Ti20Hf20Zr20Ta20Nb20 high-entropy alloy loaded under quasi-static and dynamic compression conditions,2016,10.1016/j.matchar.2015.11.018,http://dx.doi.org/10.1016/j.matchar.2015.11.018
-87,Elastic and plastic properties of as-cast equimolar TiHfZrTaNb high-entropy alloy,2016,10.1016/j.msea.2015.12.017,http://dx.doi.org/10.1016/j.msea.2015.12.017
-88,Microstructure and Mechanical Properties of VTaTiMoAl<sub>x</sub> Refractory High Entropy Alloys,2017,10.4028/www.scientific.net/MSF.898.638,http://dx.doi.org/10.4028/www.scientific.net/msf.898.638
-89,Structural-disorder and its effect on mechanical properties in single-phase TaNbHfZr high-entropy alloy,2016,10.1016/j.actamat.2016.01.018,http://dx.doi.org/10.1016/j.actamat.2016.01.018
-90,Phase-Transformation Ductilization of Brittle High-Entropy Alloys via Metastability Engineering,2017,10.1002/adma.201701678,http://dx.doi.org/10.1002/adma.201701678
-91,Microstructures and mechanical properties of Ti NbMoTaW refractory high-entropy alloys,2018,10.1016/j.msea.2017.12.004,http://dx.doi.org/10.1016/j.msea.2017.12.004
-92,Mechanical properties of refractory high-entropy alloys: Experiments and modeling,2017,10.1016/j.jallcom.2016.11.188,http://dx.doi.org/10.1016/j.jallcom.2016.11.188
-93,Effect of Ti additions on mechanical properties of NbMoTaW and VNbMoTaW refractory high entropy alloys,2017,10.1016/j.intermet.2017.01.007,http://dx.doi.org/10.1016/j.intermet.2017.01.007
-94,TiZrNbTaMo high-entropy alloy designed for orthopedic implants: As-cast microstructure and mechanical properties,2017,10.1016/j.msec.2016.12.057,http://dx.doi.org/10.1016/j.msec.2016.12.057
-95,Novel TiNbTaZrMo high-entropy alloys for metallic biomaterials,2017,10.1016/j.scriptamat.2016.10.028,http://dx.doi.org/10.1016/j.scriptamat.2016.10.028
-96,Ultra-high strength WNbMoTaV high-entropy alloys with fine grain structure fabricated by powder metallurgical process,2018,10.1016/j.msea.2017.12.021,http://dx.doi.org/10.1016/j.msea.2017.12.021
-97,"NbTaV-(Ti,W) refractory high-entropy alloys: Experiments and modeling",2016,10.1016/j.msea.2016.07.102,http://dx.doi.org/10.1016/j.msea.2016.07.102
-98,Precipitation-strengthened refractory Al 0.5 CrNbTi 2 V 0.5 high entropy alloy,2017,10.1016/j.matlet.2016.11.030,http://dx.doi.org/10.1016/j.matlet.2016.11.030
-99,"Structure and mechanical properties of the AlCrxNbTiV (x = 0, 0.5, 1, 1.5) high entropy alloys",2015,10.1016/j.jallcom.2015.08.224,http://dx.doi.org/10.1016/j.jallcom.2015.08.224
-100,Achieving ultra-high strength and ductility in equiatomic CrCoNi with partially recrystallized microstructures,2019,10.1016/j.actamat.2018.12.015,http://dx.doi.org/10.1016/j.actamat.2018.12.015
-101,The microstructure and mechanical properties of novel Al-Cr-Fe-Mn-Ni high-entropy alloys with trimodal distributions of coherent B2 precipitates,2019,10.1016/j.msea.2019.04.104,http://dx.doi.org/10.1016/j.msea.2019.04.104
-102,A novel FeCoNiCr0.2Si0.2 high entropy alloy with an excellent balance of mechanical and soft magnetic properties,2019,10.1016/j.jmmm.2019.01.096,http://dx.doi.org/10.1016/j.jmmm.2019.01.096
-103,"Design, Microstructure and Mechanical Properties of Cast Medium Entropy Aluminium Alloys",2019,10.1038/s41598-019-43329-w,http://dx.doi.org/10.1038/s41598-019-43329-w
-104,Effects of Annealing on Microstructure and Mechanical Properties of Metastable Powder Metallurgy CoCrFeNiMo0.2 High Entropy Alloy,2019,10.3390/e21050448,http://dx.doi.org/10.3390/e21050448
-105,Novel Ultralight-Weight Complex Concentrated Alloys with High Strength,2019,10.3390/ma12071136,http://dx.doi.org/10.3390/ma12071136
-106,Effect of Mn Addition on the Microstructures and Mechanical Properties of CoCrFeNiPd High Entropy Alloy,2019,10.3390/e21030288,http://dx.doi.org/10.3390/e21030288
-107,Enhanced strength–ductility synergy in ultrafine-grained eutectic high-entropy alloys by inheriting microstructural lamellae,2019,10.1038/s41467-019-08460-2,http://dx.doi.org/10.1038/s41467-019-08460-2
-108,Strengthening of Al0.3CoCrFeMnNi-based ODS high entropy alloys with incremental changes in the concentration of Y2O3,2019,10.1016/j.scriptamat.2018.12.021,http://dx.doi.org/10.1016/j.scriptamat.2018.12.021
-109,Effects of titanium addition on microstructure and mechanical properties of CrFeNiTix (x = 0.2–0.6) compositionally complex alloys,2019,10.1557/jmr.2019.40,http://dx.doi.org/10.1557/jmr.2019.40
-110,"Materials-structure-property correlation study of spark plasma sintered AlCuCrFeMnWx (x = 0, 0.05, 0.1, 0.5) high-entropy alloys",2019,10.1557/jmr.2019.18,http://dx.doi.org/10.1557/jmr.2019.18
-111,Effect of niobium addition in FeCoNiCuNbx high-entropy alloys,2019,10.1557/jmr.2019.36,http://dx.doi.org/10.1557/jmr.2019.36
-112,"The effect of boron content on the microstructure and mechanical properties of Fe50-XMn30Co10Cr10BX (x = 0, 0.3, 0.6 and 1.7 wt%) multi-component alloys prepared by arc-melting",2019,10.1016/j.msea.2019.01.088,http://dx.doi.org/10.1016/j.msea.2019.01.088
-113,The effects of carbon on the phase stability and mechanical properties of heat-treated FeNiMnCrAl high entropy alloys,2019,10.1016/j.msea.2019.01.083,http://dx.doi.org/10.1016/j.msea.2019.01.083
-114,Effect of Sc and Y addition on the microstructure and properties of HCP-structured high-entropy alloys,2019,10.1007/s00339-019-2484-1,http://dx.doi.org/10.1007/s00339-019-2484-1
-115,The effect of cooling rate on the microstructure and mechanical properties of NiCoFeCrGa high-entropy alloy,2018,10.1007/s10853-018-03196-8,http://dx.doi.org/10.1007/s10853-018-03196-8
-116,Enhancing the mechanical properties of casting eutectic high entropy alloys with Mo addition,2019,10.1007/s00339-019-2506-z,http://dx.doi.org/10.1007/s00339-019-2506-z
-117,Annealing-induced abnormal hardening in a cold rolled CrMnFeCoNi high entropy alloy,2019,10.1016/j.scriptamat.2018.11.042,http://dx.doi.org/10.1016/j.scriptamat.2018.11.042
-118,Gradient Distribution of Microstructures and Mechanical Properties in a FeCoCrNiMo High-Entropy Alloy during Spark Plasma Sintering,2019,10.3390/met9030351,http://dx.doi.org/10.3390/met9030351
-119,Improvement of Microstructure and Mechanical Properties of CoCrCuFeNi High-Entropy Alloys By V Addition,2019,10.1007/s11665-018-3837-1,http://dx.doi.org/10.1007/s11665-018-3837-1
-120,"Phases, Microstructures and Mechanical Properties of CoCrNiCuZn High-Entropy Alloy Prepared by Mechanical Alloying and Spark Plasma Sintering",2019,10.3390/e21020122,http://dx.doi.org/10.3390/e21020122
-121,Microstructure and Room Temperature Mechanical Properties of Different 3 and 4 Element Medium Entropy Alloys from HfNbTaTiZr System,2019,10.3390/e21020114,http://dx.doi.org/10.3390/e21020114
-122,Microstructural characterization and mechanical behavior of an AgAlNbTiZn complex composition alloy produced using powder metallurgy (P/M),2019,10.1016/j.msea.2018.12.020,http://dx.doi.org/10.1016/j.msea.2018.12.020
-123,Effect of Heat Treatment and Titanium Addition on the Microstructure and Mechanical Properties of Cast Fe31Mn28 Ni15Al24.5Tix High-Entropy Alloys,2019,10.1155/2019/2157592,http://dx.doi.org/10.1155/2019/2157592
-124,Microstructural evolution and mechanical properties of AlCrFeNiCoC high entropy alloy produced via spark plasma sintering,2019,10.1080/00325899.2019.1576389,http://dx.doi.org/10.1080/00325899.2019.1576389
-125,"The Influence of Synthesis Conditions on the Phase Composition, Structure, and Properties of the High-Entropy Ti–Cr–Fe–Ni–Cu Alloy",2019,10.1007/s11106-019-00012-z,http://dx.doi.org/10.1007/s11106-019-00012-z
-126,Microstructure and properties of CrMnFeCoNi high-entropy alloy prepared by mechanical alloying and spark plasma sintering,2018,10.1080/00325899.2018.1554834,http://dx.doi.org/10.1080/00325899.2018.1554834
-127,Microstructures and mechanical properties of ductile NbTaTiV refractory high entropy alloy prepared by powder metallurgy,2019,10.1016/j.jallcom.2018.10.230,http://dx.doi.org/10.1016/j.jallcom.2018.10.230
-128,Effect of Cold Deformation and Heat Treatment on the Microstructure and Mechanical Behavior of High Entropy Alloy CuCrFeNi2Al0.5,2018,10.1007/s11665-018-3822-8,http://dx.doi.org/10.1007/s11665-018-3822-8
-129,"Effects of Mo, Nb, Ta, Ti, and Zr on Mechanical Properties of Equiatomic Hf-Mo-Nb-Ta-Ti-Zr Alloys",2018,10.3390/e21010015,http://dx.doi.org/10.3390/e21010015
-130,Microstructure and Properties of CoCrFeNi(WC) High-Entropy Alloy Coatings Prepared Using Mechanical Alloying and Hot Pressing Sintering,2018,10.3390/coatings9010016,http://dx.doi.org/10.3390/coatings9010016
-131,Enhancement of Mechanical Properties and Corrosion Resistance of Ultra-Fine Grain Al0.4FeCrCo1.5NiTi0.3 High-Entropy Alloy by MA and SPS Technologies,2019,10.5755/j01.ms.25.3.19452,http://dx.doi.org/10.5755/j01.ms.25.3.19452
-132,Effect of Cold Deformation and Annealing on the Microstructure and Tensile Properties of a HfNbTaTiZr Refractory High Entropy Alloy,2018,10.1007/s11661-018-4646-8,http://dx.doi.org/10.1007/s11661-018-4646-8
-133,Microstructure and mechanical properties of a novel refractory AlNbTiZr high-entropy alloy,2018,10.1080/02670836.2018.1446267,http://dx.doi.org/10.1080/02670836.2018.1446267
-134,An AlNbTiVZr0.5 high-entropy alloy combining high specific strength and good ductility,2015,10.1016/j.matlet.2015.08.099,http://dx.doi.org/10.1016/j.matlet.2015.08.099
-135,"Effect of Al on structure and mechanical properties of AlxNbTiVZr (x = 0, 0.5, 1, 1.5) high entropy alloys",2015,10.1179/1743284715Y.0000000032,http://dx.doi.org/10.1179/1743284715y.0000000032
-136,"Low-density, refractory multi-principal element alloys of the Cr–Nb–Ti–V–Zr system: Microstructure and phase analysis",2013,10.1016/j.actamat.2012.11.032,http://dx.doi.org/10.1016/j.actamat.2012.11.032
-137,Fatigue behavior of CoCrFeMnNi high-entropy alloy under fully reversed cyclic deformation,2019,10.1016/j.jmst.2018.09.068,http://dx.doi.org/10.1016/j.jmst.2018.09.068
-138,Microstructure and mechanical properties of FeCoCrNiMnAlx high-entropy alloys prepared by mechanical alloying and hot-pressed sintering,2019,10.1016/j.jallcom.2018.10.168,http://dx.doi.org/10.1016/j.jallcom.2018.10.168
-139,Excellent ductility and serration feature of metastable CoCrFeNi high-entropy alloy at extremely low temperatures,2018,10.1007/s40843-018-9373-y,http://dx.doi.org/10.1007/s40843-018-9373-y
-140,"Microstructural evolution, electrochemical and corrosion properties of Al CoCrFeNiTi  high entropy alloys",2019,10.1016/j.matdes.2019.107698,http://dx.doi.org/10.1016/j.matdes.2019.107698
-141,Strengthening FCC-CoCrFeMnNi high entropy alloys by Mo addition,2019,10.1016/j.jmst.2018.10.009,http://dx.doi.org/10.1016/j.jmst.2018.10.009
-142,Fatigue behavior of ultrafine grained triplex Al0.3CoCrFeNi high entropy alloy,2019,10.1016/j.scriptamat.2018.08.048,http://dx.doi.org/10.1016/j.scriptamat.2018.08.048
-143,Tensile yield strength of a single bulk Al0.3CoCrFeNi high entropy alloy can be tuned from 160 MPa to 1800 MPa,2019,10.1016/j.scriptamat.2018.10.023,http://dx.doi.org/10.1016/j.scriptamat.2018.10.023
-144,Chemical evolution-induced strengthening on AlCoCrNi dual-phase high-entropy alloy with high specific strength,2019,10.1016/j.jallcom.2018.11.057,http://dx.doi.org/10.1016/j.jallcom.2018.11.057
-145,Effects of carbon on the microstructures and mechanical properties of FeCoCrNiMn high entropy alloys,2019,10.1016/j.msea.2019.01.050,http://dx.doi.org/10.1016/j.msea.2019.01.050
-146,Strength and ductility of CrFeCoNiMo alloy with hierarchical microstructures,2019,10.1016/j.ijplas.2018.10.005,http://dx.doi.org/10.1016/j.ijplas.2018.10.005
-147,"Effects of (W, Cr) carbide on grain refinement and mechanical properties for CoCrFeMnNi high entropy alloys",2019,10.1016/j.jallcom.2018.08.115,http://dx.doi.org/10.1016/j.jallcom.2018.08.115
-148,Evaluation of the mechanical properties of the heat treated FeCrCuMnNi high entropy alloy,2019,10.1016/j.matchemphys.2018.09.033,http://dx.doi.org/10.1016/j.matchemphys.2018.09.033
-149,A fine-grained NbMoTaWVCr refractory high-entropy alloy with ultra-high strength: Microstructural evolution and mechanical properties,2019,10.1016/j.jallcom.2018.11.318,http://dx.doi.org/10.1016/j.jallcom.2018.11.318
-150,The effect of Al content on microstructures and comprehensive properties in AlxCoCrCuFeNi high entropy alloys,2019,10.1016/j.vacuum.2018.12.009,http://dx.doi.org/10.1016/j.vacuum.2018.12.009
-151,Ultrastrong Medium-Entropy Single-Phase Alloys Designed via Severe Lattice Distortion,2018,10.1002/adma.201807142,http://dx.doi.org/10.1002/adma.201807142
-152,Effect of Al on structure and mechanical properties of Fe-Mn-Cr-Ni-Al non-equiatomic high entropy alloys with high Fe content,2019,10.1016/j.jallcom.2018.08.093,http://dx.doi.org/10.1016/j.jallcom.2018.08.093
-153,Enhancing strength and strain hardenability via deformation twinning in fcc-based high entropy alloys reinforced with intermetallic compounds,2019,10.1016/j.actamat.2018.12.010,http://dx.doi.org/10.1016/j.actamat.2018.12.010
-154,A novel high-entropy alloy with a dendrite-composite microstructure and remarkable compression performance,2019,10.1016/j.scriptamat.2018.09.008,http://dx.doi.org/10.1016/j.scriptamat.2018.09.008
-155,Body-centered cubic high-entropy alloys: From processing to underlying deformation mechanisms,2019,10.1016/j.matchar.2018.07.015,http://dx.doi.org/10.1016/j.matchar.2018.07.015
-156,Novel Co-rich high entropy alloys with superior tensile properties,2018,10.1080/21663831.2018.1553803,http://dx.doi.org/10.1080/21663831.2018.1553803
-157,Evaluating elastic properties of a body-centered cubic NbHfZrTi high-entropy alloy – A direct comparison between experiments and ab initio calculations,2019,10.1016/j.intermet.2019.04.003,http://dx.doi.org/10.1016/j.intermet.2019.04.003
-158,Machine learning assisted design of high entropy alloys with desired property,2019,10.1016/j.actamat.2019.03.010,http://dx.doi.org/10.1016/j.actamat.2019.03.010
-159,Effect of second phase particles on mechanical properties and grain growth in a CoCrFeMnNi high entropy alloy,2019,10.1016/j.msea.2019.01.112,http://dx.doi.org/10.1016/j.msea.2019.01.112
-160,High temperature strength of refractory complex concentrated alloys,2019,10.1016/j.actamat.2019.06.032,http://dx.doi.org/10.1016/j.actamat.2019.06.032
-161,High-cycle fatigue and tensile deformation behaviors of coarse-grained equiatomic CoCrFeMnNi high entropy alloy and unexpected hardening behavior during cyclic loading,2019,10.1016/j.intermet.2019.106486,http://dx.doi.org/10.1016/j.intermet.2019.106486
-162,New multiphase compositionally complex alloys driven by the high entropy alloy approach,2019,10.1016/j.matchar.2018.06.036,http://dx.doi.org/10.1016/j.matchar.2018.06.036
-163,Effect of vanadium addition on the microstructure and properties of AlCoCrFeNi high entropy alloy,2014,10.1016/j.matdes.2013.12.048,http://dx.doi.org/10.1016/j.matdes.2013.12.048
-164,Strain rate effects on the dynamic mechanical properties of the AlCrCuFeNi2 high-entropy alloy,2016,10.1016/j.msea.2015.09.089,http://dx.doi.org/10.1016/j.msea.2015.09.089
-165,Comparative study of the microstructures and mechanical properties of direct laser fabricated and arc-melted Al x CoCrFeNi high entropy alloys,2015,10.1016/j.msea.2015.02.072,http://dx.doi.org/10.1016/j.msea.2015.02.072
-166,Effect of Mn and V on structure and mechanical properties of high-entropy alloys based on CoCrFeNi system,2014,10.1016/j.jallcom.2013.12.210,http://dx.doi.org/10.1016/j.jallcom.2013.12.210
-167,Fatigue behavior of a wrought Al0.5CoCrCuFeNi two-phase high-entropy alloy,2015,10.1016/j.actamat.2015.07.004,http://dx.doi.org/10.1016/j.actamat.2015.07.004
-168,Effect of temperature on mechanical properties of Al0.5CoCrCuFeNi wrought alloy,2010,10.1016/j.jallcom.2009.10.088,http://dx.doi.org/10.1016/j.jallcom.2009.10.088
-169,A TRIP-assisted dual-phase high-entropy alloy: Grain size and phase fraction effects on deformation behavior,2017,10.1016/j.actamat.2017.03.069,http://dx.doi.org/10.1016/j.actamat.2017.03.069
-170,High-Temperature Tensile Strength of Al10Co25Cr8Fe15Ni36Ti6 Compositionally Complex Alloy (High-Entropy Alloy),2015,10.1007/s11837-015-1484-7,http://dx.doi.org/10.1007/s11837-015-1484-7
-171,Enhanced strength and ductility in a friction stir processing engineered dual phase high entropy alloy,2017,10.1038/s41598-017-16509-9,http://dx.doi.org/10.1038/s41598-017-16509-9
-172,Toward privacy-preserving JPEG image retrieval,2017,10.1117/1.JEI.26.4.043022,http://dx.doi.org/10.1117/1.jei.26.4.043022
-173,Optimizing the coupled effects of Hall-Petch and precipitation strengthening in a Al 0.3 CoCrFeNi high entropy alloy,2017,10.1016/j.matdes.2017.02.072,http://dx.doi.org/10.1016/j.matdes.2017.02.072
-174,Stability of ordered L12 and B2 precipitates in face centered cubic based high entropy alloys - Al0.3CoFeCrNi and Al0.3CuFeCrNi2,2016,10.1016/j.scriptamat.2016.06.019,http://dx.doi.org/10.1016/j.scriptamat.2016.06.019
-175,Tensile properties of an AlCrCuNiFeCo high-entropy alloy in as-cast and wrought conditions,2012,10.1016/j.msea.2011.11.045,http://dx.doi.org/10.1016/j.msea.2011.11.045
-176,Effects of Tungsten on Microstructure and Mechanical Properties of CrFeNiV0.5W x and CrFeNi2V0.5W x High-Entropy Alloys,2015,10.1007/s11665-015-1767-8,http://dx.doi.org/10.1007/s11665-015-1767-8
-177,Mechanical Properties Improvement of AlCrFeNi2Ti0.5 High Entropy Alloy through Annealing Design and its Relationship with its Particle-reinforced Microstructures,2015,10.1016/j.jmst.2014.09.011,http://dx.doi.org/10.1016/j.jmst.2014.09.011
-178,Formation of ultrafine-grained microstructure in Al 0.3 CoCrFeNi high entropy alloys with grain boundary precipitates,2017,10.1016/j.matlet.2017.04.072,http://dx.doi.org/10.1016/j.matlet.2017.04.072
-179,Secondary phases in AlxCoCrFeNi high-entropy alloys: An in-situ TEM heating study and thermodynamic appraisal,2017,10.1016/j.actamat.2017.03.066,http://dx.doi.org/10.1016/j.actamat.2017.03.066
-180,Microstructure and tensile behaviors of FCC Al0.3CoCrFeNi high entropy alloy,2009,10.1016/j.jallcom.2008.12.088,http://dx.doi.org/10.1016/j.jallcom.2008.12.088
-181,"Phases, microstructure and mechanical properties of AlxCoCrFeNi high-entropy alloys at elevated temperatures",2014,10.1016/j.jallcom.2013.11.084,http://dx.doi.org/10.1016/j.jallcom.2013.11.084
-182,The effect of grain size on the annealing-induced phase transformation in an Al0·3CoCrFeNi high entropy alloy,2016,10.1016/j.matdes.2016.05.079,http://dx.doi.org/10.1016/j.matdes.2016.05.079
-183,Heat treatment impacts the micro-structure and mechanical properties of AlCoCrFeNi high entropy alloy,2016,10.1016/j.jallcom.2016.05.034,http://dx.doi.org/10.1016/j.jallcom.2016.05.034
-184,In-situ study of crack initiation and propagation in a dual phase AlCoCrFeNi high entropy alloy,2017,10.1016/j.jallcom.2017.03.307,http://dx.doi.org/10.1016/j.jallcom.2017.03.307
-185,Tensile ductility of an AlCoCrFeNi multi-phase high-entropy alloy through hot isostatic pressing (HIP) and homogenization,2015,10.1016/j.msea.2015.08.078,http://dx.doi.org/10.1016/j.msea.2015.08.078
-186,A multi-component AlCrFe2Ni2 alloy with excellent mechanical properties,2016,10.1016/j.matlet.2016.01.096,http://dx.doi.org/10.1016/j.matlet.2016.01.096
-187,Directly cast bulk eutectic and near-eutectic high entropy alloys with balanced strength and ductility in a wide temperature range,2017,10.1016/j.actamat.2016.11.016,http://dx.doi.org/10.1016/j.actamat.2016.11.016
-188,Effects of aluminum on microstructure and compressive properties of Al-Cr-Fe-Ni eutectic multi-component alloys,2017,10.1016/j.msea.2016.11.019,http://dx.doi.org/10.1016/j.msea.2016.11.019
-189,Effect of coherent L12 nanoprecipitates on the tensile behavior of a fcc-based high-entropy alloy,2017,10.1016/j.msea.2017.04.111,http://dx.doi.org/10.1016/j.msea.2017.04.111
-190,A cuboidal B2 nanoprecipitation-enhanced body-centered-cubic alloy Al0.7CoCrFe2Ni with prominent tensile properties,2016,10.1016/j.scriptamat.2016.04.014,http://dx.doi.org/10.1016/j.scriptamat.2016.04.014
-191,A precipitation-hardened high-entropy alloy with outstanding tensile properties,2016,10.1016/j.actamat.2015.08.076,http://dx.doi.org/10.1016/j.actamat.2015.08.076
-192,Ductile CoCrFeNiMox high entropy alloys strengthened by hard intermetallic phases,2016,10.1016/j.actamat.2016.06.063,http://dx.doi.org/10.1016/j.actamat.2016.06.063
-193,The influences of temperature and microstructure on the tensile properties of a CoCrFeMnNi high-entropy alloy,2013,10.1016/j.actamat.2013.06.018,http://dx.doi.org/10.1016/j.actamat.2013.06.018
-194,Precipitation strengthening of ductile Cr 15 Fe 20 Co 35 Ni 20 Mo 10 alloys,2017,10.1016/j.scriptamat.2017.05.019,http://dx.doi.org/10.1016/j.scriptamat.2017.05.019
-195,Microstructure and Tensile Behavior of Al8Co17Cr17Cu8Fe17Ni33 (at.%) High-Entropy Alloy,2013,10.1007/s11837-013-0756-3,http://dx.doi.org/10.1007/s11837-013-0756-3
-196,"Influence of W, Mo and Ti trace elements on the phase separation in Al8Co17Cr17Cu8Fe17Ni33 based high entropy alloy",2015,10.1016/j.ultramic.2015.06.009,http://dx.doi.org/10.1016/j.ultramic.2015.06.009
-197,"Effect of heat treatment on the structure and hardness of high-entropy alloys CoCrFeNiMnV
+75,Microstructure and mechanical properties of refractory HfMo0.5NbTiV0.5Six high-entropy composites,2017,10.1016/j.jallcom.2016.10.014,http://dx.doi.org/10.1016/j.jallcom.2016.10.014
+76,Design and tensile properties of a bcc Ti-rich high-entropy alloy with transformation-induced plasticity,2016,10.1080/21663831.2016.1221861,http://dx.doi.org/10.1080/21663831.2016.1221861
+77,Compositional variation effects on the microstructure and properties of a refractory high-entropy superalloy AlMo0.5NbTa0.5TiZr,2018,10.1016/j.matdes.2017.11.033,http://dx.doi.org/10.1016/j.matdes.2017.11.033
+78,Microstructure and Mechanical Properties of a New Refractory HfNbSi<sub>0.5</sub>TiVZr High Entropy Alloy,2016,10.4028/www.scientific.net/MSF.849.76,http://dx.doi.org/10.4028/www.scientific.net/msf.849.76
+79,"Thermodynamic instability of a nanocrystalline, single-phase TiZrNbHfTa alloy and its impact on the mechanical properties",2018,10.1016/j.actamat.2017.09.035,http://dx.doi.org/10.1016/j.actamat.2017.09.035
+80,Microstructure and properties of a refractory high-entropy alloy after cold working,2015,10.1016/j.jallcom.2015.07.209,http://dx.doi.org/10.1016/j.jallcom.2015.07.209
+81,Simultaneously increasing the strength and ductility of a refractory high-entropy alloy via grain refining,2016,10.1016/j.matlet.2016.08.060,http://dx.doi.org/10.1016/j.matlet.2016.08.060
+82,Study of a bcc multi-principal element alloy: Tensile and simple shear properties and underlying deformation mechanisms,2018,10.1016/j.actamat.2017.09.062,http://dx.doi.org/10.1016/j.actamat.2017.09.062
+83,On the room temperature deformation mechanisms of a TiZrHfNbTa refractory high-entropy alloy,2015,10.1016/j.msea.2015.08.024,http://dx.doi.org/10.1016/j.msea.2015.08.024
+84,Mechanical behavior and microstructure of Ti20Hf20Zr20Ta20Nb20 high-entropy alloy loaded under quasi-static and dynamic compression conditions,2016,10.1016/j.matchar.2015.11.018,http://dx.doi.org/10.1016/j.matchar.2015.11.018
+85,Elastic and plastic properties of as-cast equimolar TiHfZrTaNb high-entropy alloy,2016,10.1016/j.msea.2015.12.017,http://dx.doi.org/10.1016/j.msea.2015.12.017
+86,Microstructure and Mechanical Properties of VTaTiMoAl<sub>x</sub> Refractory High Entropy Alloys,2017,10.4028/www.scientific.net/MSF.898.638,http://dx.doi.org/10.4028/www.scientific.net/msf.898.638
+87,Structural-disorder and its effect on mechanical properties in single-phase TaNbHfZr high-entropy alloy,2016,10.1016/j.actamat.2016.01.018,http://dx.doi.org/10.1016/j.actamat.2016.01.018
+88,Phase-Transformation Ductilization of Brittle High-Entropy Alloys via Metastability Engineering,2017,10.1002/adma.201701678,http://dx.doi.org/10.1002/adma.201701678
+89,Microstructures and mechanical properties of Ti NbMoTaW refractory high-entropy alloys,2018,10.1016/j.msea.2017.12.004,http://dx.doi.org/10.1016/j.msea.2017.12.004
+90,Mechanical properties of refractory high-entropy alloys: Experiments and modeling,2017,10.1016/j.jallcom.2016.11.188,http://dx.doi.org/10.1016/j.jallcom.2016.11.188
+91,Effect of Ti additions on mechanical properties of NbMoTaW and VNbMoTaW refractory high entropy alloys,2017,10.1016/j.intermet.2017.01.007,http://dx.doi.org/10.1016/j.intermet.2017.01.007
+92,TiZrNbTaMo high-entropy alloy designed for orthopedic implants: As-cast microstructure and mechanical properties,2017,10.1016/j.msec.2016.12.057,http://dx.doi.org/10.1016/j.msec.2016.12.057
+93,Novel TiNbTaZrMo high-entropy alloys for metallic biomaterials,2017,10.1016/j.scriptamat.2016.10.028,http://dx.doi.org/10.1016/j.scriptamat.2016.10.028
+94,Ultra-high strength WNbMoTaV high-entropy alloys with fine grain structure fabricated by powder metallurgical process,2018,10.1016/j.msea.2017.12.021,http://dx.doi.org/10.1016/j.msea.2017.12.021
+95,"NbTaV-(Ti,W) refractory high-entropy alloys: Experiments and modeling",2016,10.1016/j.msea.2016.07.102,http://dx.doi.org/10.1016/j.msea.2016.07.102
+96,Precipitation-strengthened refractory Al 0.5 CrNbTi 2 V 0.5 high entropy alloy,2017,10.1016/j.matlet.2016.11.030,http://dx.doi.org/10.1016/j.matlet.2016.11.030
+97,"Structure and mechanical properties of the AlCrxNbTiV (x = 0, 0.5, 1, 1.5) high entropy alloys",2015,10.1016/j.jallcom.2015.08.224,http://dx.doi.org/10.1016/j.jallcom.2015.08.224
+98,Achieving ultra-high strength and ductility in equiatomic CrCoNi with partially recrystallized microstructures,2019,10.1016/j.actamat.2018.12.015,http://dx.doi.org/10.1016/j.actamat.2018.12.015
+99,The microstructure and mechanical properties of novel Al-Cr-Fe-Mn-Ni high-entropy alloys with trimodal distributions of coherent B2 precipitates,2019,10.1016/j.msea.2019.04.104,http://dx.doi.org/10.1016/j.msea.2019.04.104
+100,A novel FeCoNiCr0.2Si0.2 high entropy alloy with an excellent balance of mechanical and soft magnetic properties,2019,10.1016/j.jmmm.2019.01.096,http://dx.doi.org/10.1016/j.jmmm.2019.01.096
+101,"Design, Microstructure and Mechanical Properties of Cast Medium Entropy Aluminium Alloys",2019,10.1038/s41598-019-43329-w,http://dx.doi.org/10.1038/s41598-019-43329-w
+102,Effects of Annealing on Microstructure and Mechanical Properties of Metastable Powder Metallurgy CoCrFeNiMo0.2 High Entropy Alloy,2019,10.3390/e21050448,http://dx.doi.org/10.3390/e21050448
+103,Novel Ultralight-Weight Complex Concentrated Alloys with High Strength,2019,10.3390/ma12071136,http://dx.doi.org/10.3390/ma12071136
+104,Effect of Mn Addition on the Microstructures and Mechanical Properties of CoCrFeNiPd High Entropy Alloy,2019,10.3390/e21030288,http://dx.doi.org/10.3390/e21030288
+105,Enhanced strength–ductility synergy in ultrafine-grained eutectic high-entropy alloys by inheriting microstructural lamellae,2019,10.1038/s41467-019-08460-2,http://dx.doi.org/10.1038/s41467-019-08460-2
+106,Strengthening of Al0.3CoCrFeMnNi-based ODS high entropy alloys with incremental changes in the concentration of Y2O3,2019,10.1016/j.scriptamat.2018.12.021,http://dx.doi.org/10.1016/j.scriptamat.2018.12.021
+107,Effects of titanium addition on microstructure and mechanical properties of CrFeNiTix (x = 0.2–0.6) compositionally complex alloys,2019,10.1557/jmr.2019.40,http://dx.doi.org/10.1557/jmr.2019.40
+108,"Materials-structure-property correlation study of spark plasma sintered AlCuCrFeMnWx (x = 0, 0.05, 0.1, 0.5) high-entropy alloys",2019,10.1557/jmr.2019.18,http://dx.doi.org/10.1557/jmr.2019.18
+109,Effect of niobium addition in FeCoNiCuNbx high-entropy alloys,2019,10.1557/jmr.2019.36,http://dx.doi.org/10.1557/jmr.2019.36
+110,"The effect of boron content on the microstructure and mechanical properties of Fe50-XMn30Co10Cr10BX (x = 0, 0.3, 0.6 and 1.7 wt%) multi-component alloys prepared by arc-melting",2019,10.1016/j.msea.2019.01.088,http://dx.doi.org/10.1016/j.msea.2019.01.088
+111,The effects of carbon on the phase stability and mechanical properties of heat-treated FeNiMnCrAl high entropy alloys,2019,10.1016/j.msea.2019.01.083,http://dx.doi.org/10.1016/j.msea.2019.01.083
+112,Effect of Sc and Y addition on the microstructure and properties of HCP-structured high-entropy alloys,2019,10.1007/s00339-019-2484-1,http://dx.doi.org/10.1007/s00339-019-2484-1
+113,The effect of cooling rate on the microstructure and mechanical properties of NiCoFeCrGa high-entropy alloy,2018,10.1007/s10853-018-03196-8,http://dx.doi.org/10.1007/s10853-018-03196-8
+114,Enhancing the mechanical properties of casting eutectic high entropy alloys with Mo addition,2019,10.1007/s00339-019-2506-z,http://dx.doi.org/10.1007/s00339-019-2506-z
+115,Annealing-induced abnormal hardening in a cold rolled CrMnFeCoNi high entropy alloy,2019,10.1016/j.scriptamat.2018.11.042,http://dx.doi.org/10.1016/j.scriptamat.2018.11.042
+116,Gradient Distribution of Microstructures and Mechanical Properties in a FeCoCrNiMo High-Entropy Alloy during Spark Plasma Sintering,2019,10.3390/met9030351,http://dx.doi.org/10.3390/met9030351
+117,Improvement of Microstructure and Mechanical Properties of CoCrCuFeNi High-Entropy Alloys By V Addition,2019,10.1007/s11665-018-3837-1,http://dx.doi.org/10.1007/s11665-018-3837-1
+118,"Phases, Microstructures and Mechanical Properties of CoCrNiCuZn High-Entropy Alloy Prepared by Mechanical Alloying and Spark Plasma Sintering",2019,10.3390/e21020122,http://dx.doi.org/10.3390/e21020122
+119,Microstructure and Room Temperature Mechanical Properties of Different 3 and 4 Element Medium Entropy Alloys from HfNbTaTiZr System,2019,10.3390/e21020114,http://dx.doi.org/10.3390/e21020114
+120,Microstructural characterization and mechanical behavior of an AgAlNbTiZn complex composition alloy produced using powder metallurgy (P/M),2019,10.1016/j.msea.2018.12.020,http://dx.doi.org/10.1016/j.msea.2018.12.020
+121,Effect of Heat Treatment and Titanium Addition on the Microstructure and Mechanical Properties of Cast Fe31Mn28 Ni15Al24.5Tix High-Entropy Alloys,2019,10.1155/2019/2157592,http://dx.doi.org/10.1155/2019/2157592
+122,Microstructural evolution and mechanical properties of AlCrFeNiCoC high entropy alloy produced via spark plasma sintering,2019,10.1080/00325899.2019.1576389,http://dx.doi.org/10.1080/00325899.2019.1576389
+123,"The Influence of Synthesis Conditions on the Phase Composition, Structure, and Properties of the High-Entropy Ti–Cr–Fe–Ni–Cu Alloy",2019,10.1007/s11106-019-00012-z,http://dx.doi.org/10.1007/s11106-019-00012-z
+124,Microstructure and properties of CrMnFeCoNi high-entropy alloy prepared by mechanical alloying and spark plasma sintering,2018,10.1080/00325899.2018.1554834,http://dx.doi.org/10.1080/00325899.2018.1554834
+125,Microstructures and mechanical properties of ductile NbTaTiV refractory high entropy alloy prepared by powder metallurgy,2019,10.1016/j.jallcom.2018.10.230,http://dx.doi.org/10.1016/j.jallcom.2018.10.230
+126,Effect of Cold Deformation and Heat Treatment on the Microstructure and Mechanical Behavior of High Entropy Alloy CuCrFeNi2Al0.5,2018,10.1007/s11665-018-3822-8,http://dx.doi.org/10.1007/s11665-018-3822-8
+127,"Effects of Mo, Nb, Ta, Ti, and Zr on Mechanical Properties of Equiatomic Hf-Mo-Nb-Ta-Ti-Zr Alloys",2018,10.3390/e21010015,http://dx.doi.org/10.3390/e21010015
+128,Microstructure and Properties of CoCrFeNi(WC) High-Entropy Alloy Coatings Prepared Using Mechanical Alloying and Hot Pressing Sintering,2018,10.3390/coatings9010016,http://dx.doi.org/10.3390/coatings9010016
+129,Enhancement of Mechanical Properties and Corrosion Resistance of Ultra-Fine Grain Al0.4FeCrCo1.5NiTi0.3 High-Entropy Alloy by MA and SPS Technologies,2019,10.5755/j01.ms.25.3.19452,http://dx.doi.org/10.5755/j01.ms.25.3.19452
+130,Effect of Cold Deformation and Annealing on the Microstructure and Tensile Properties of a HfNbTaTiZr Refractory High Entropy Alloy,2018,10.1007/s11661-018-4646-8,http://dx.doi.org/10.1007/s11661-018-4646-8
+131,Microstructure and mechanical properties of a novel refractory AlNbTiZr high-entropy alloy,2018,10.1080/02670836.2018.1446267,http://dx.doi.org/10.1080/02670836.2018.1446267
+132,An AlNbTiVZr0.5 high-entropy alloy combining high specific strength and good ductility,2015,10.1016/j.matlet.2015.08.099,http://dx.doi.org/10.1016/j.matlet.2015.08.099
+133,"Effect of Al on structure and mechanical properties of AlxNbTiVZr (x = 0, 0.5, 1, 1.5) high entropy alloys",2015,10.1179/1743284715Y.0000000032,http://dx.doi.org/10.1179/1743284715y.0000000032
+134,"Low-density, refractory multi-principal element alloys of the Cr–Nb–Ti–V–Zr system: Microstructure and phase analysis",2013,10.1016/j.actamat.2012.11.032,http://dx.doi.org/10.1016/j.actamat.2012.11.032
+135,Fatigue behavior of CoCrFeMnNi high-entropy alloy under fully reversed cyclic deformation,2019,10.1016/j.jmst.2018.09.068,http://dx.doi.org/10.1016/j.jmst.2018.09.068
+136,Microstructure and mechanical properties of FeCoCrNiMnAlx high-entropy alloys prepared by mechanical alloying and hot-pressed sintering,2019,10.1016/j.jallcom.2018.10.168,http://dx.doi.org/10.1016/j.jallcom.2018.10.168
+137,Excellent ductility and serration feature of metastable CoCrFeNi high-entropy alloy at extremely low temperatures,2018,10.1007/s40843-018-9373-y,http://dx.doi.org/10.1007/s40843-018-9373-y
+138,"Microstructural evolution, electrochemical and corrosion properties of Al CoCrFeNiTi  high entropy alloys",2019,10.1016/j.matdes.2019.107698,http://dx.doi.org/10.1016/j.matdes.2019.107698
+139,Strengthening FCC-CoCrFeMnNi high entropy alloys by Mo addition,2019,10.1016/j.jmst.2018.10.009,http://dx.doi.org/10.1016/j.jmst.2018.10.009
+140,Fatigue behavior of ultrafine grained triplex Al0.3CoCrFeNi high entropy alloy,2019,10.1016/j.scriptamat.2018.08.048,http://dx.doi.org/10.1016/j.scriptamat.2018.08.048
+141,Tensile yield strength of a single bulk Al0.3CoCrFeNi high entropy alloy can be tuned from 160 MPa to 1800 MPa,2019,10.1016/j.scriptamat.2018.10.023,http://dx.doi.org/10.1016/j.scriptamat.2018.10.023
+142,Chemical evolution-induced strengthening on AlCoCrNi dual-phase high-entropy alloy with high specific strength,2019,10.1016/j.jallcom.2018.11.057,http://dx.doi.org/10.1016/j.jallcom.2018.11.057
+143,Effects of carbon on the microstructures and mechanical properties of FeCoCrNiMn high entropy alloys,2019,10.1016/j.msea.2019.01.050,http://dx.doi.org/10.1016/j.msea.2019.01.050
+144,Strength and ductility of CrFeCoNiMo alloy with hierarchical microstructures,2019,10.1016/j.ijplas.2018.10.005,http://dx.doi.org/10.1016/j.ijplas.2018.10.005
+145,"Effects of (W, Cr) carbide on grain refinement and mechanical properties for CoCrFeMnNi high entropy alloys",2019,10.1016/j.jallcom.2018.08.115,http://dx.doi.org/10.1016/j.jallcom.2018.08.115
+146,Evaluation of the mechanical properties of the heat treated FeCrCuMnNi high entropy alloy,2019,10.1016/j.matchemphys.2018.09.033,http://dx.doi.org/10.1016/j.matchemphys.2018.09.033
+147,A fine-grained NbMoTaWVCr refractory high-entropy alloy with ultra-high strength: Microstructural evolution and mechanical properties,2019,10.1016/j.jallcom.2018.11.318,http://dx.doi.org/10.1016/j.jallcom.2018.11.318
+148,Senary refractory high-entropy alloy Cr MoNbTaVW,2015,10.1016/j.calphad.2015.09.007,http://dx.doi.org/10.1016/j.calphad.2015.09.007
+149,The effect of Al content on microstructures and comprehensive properties in AlxCoCrCuFeNi high entropy alloys,2019,10.1016/j.vacuum.2018.12.009,http://dx.doi.org/10.1016/j.vacuum.2018.12.009
+150,Ultrastrong Medium-Entropy Single-Phase Alloys Designed via Severe Lattice Distortion,2018,10.1002/adma.201807142,http://dx.doi.org/10.1002/adma.201807142
+151,Effect of Al on structure and mechanical properties of Fe-Mn-Cr-Ni-Al non-equiatomic high entropy alloys with high Fe content,2019,10.1016/j.jallcom.2018.08.093,http://dx.doi.org/10.1016/j.jallcom.2018.08.093
+152,Enhancing strength and strain hardenability via deformation twinning in fcc-based high entropy alloys reinforced with intermetallic compounds,2019,10.1016/j.actamat.2018.12.010,http://dx.doi.org/10.1016/j.actamat.2018.12.010
+153,A novel high-entropy alloy with a dendrite-composite microstructure and remarkable compression performance,2019,10.1016/j.scriptamat.2018.09.008,http://dx.doi.org/10.1016/j.scriptamat.2018.09.008
+154,Body-centered cubic high-entropy alloys: From processing to underlying deformation mechanisms,2019,10.1016/j.matchar.2018.07.015,http://dx.doi.org/10.1016/j.matchar.2018.07.015
+155,Novel Co-rich high entropy alloys with superior tensile properties,2018,10.1080/21663831.2018.1553803,http://dx.doi.org/10.1080/21663831.2018.1553803
+156,Evaluating elastic properties of a body-centered cubic NbHfZrTi high-entropy alloy – A direct comparison between experiments and ab initio calculations,2019,10.1016/j.intermet.2019.04.003,http://dx.doi.org/10.1016/j.intermet.2019.04.003
+157,Polycrystalline elastic moduli of a high-entropy alloy at cryogenic temperatures,2015,10.1016/j.intermet.2014.11.005,http://dx.doi.org/10.1016/j.intermet.2014.11.005
+158,Monocrystalline elastic constants of fcc-CrMnFeCoNi high entropy alloy,2017,10.1557/adv.2017.76,http://dx.doi.org/10.1557/adv.2017.76
+159,Effects of the sp element additions on the microstructure and mechanical properties of NiCoFeCr based high entropy alloys,2016,10.1016/j.msea.2016.05.082,http://dx.doi.org/10.1016/j.msea.2016.05.082
+160,Intrinsic properties and strengthening mechanism of monocrystalline Ni-containing ternary concentrated solid solutions,2017,10.1016/j.msea.2017.04.003,http://dx.doi.org/10.1016/j.msea.2017.04.003
+161,Mechanical and microstructural characterization of powder metallurgy CoCrNi medium entropy alloy,2017,10.1016/j.msea.2017.06.086,http://dx.doi.org/10.1016/j.msea.2017.06.086
+162,Exceptional damage-tolerance of a medium-entropy alloy CrCoNi at cryogenic temperatures,2016, 10.1038/ncomms10602,http://dx.doi.org/10.1038/ncomms10602
+163,Machine learning assisted design of high entropy alloys with desired property,2019,10.1016/j.actamat.2019.03.010,http://dx.doi.org/10.1016/j.actamat.2019.03.010
+164,Effect of second phase particles on mechanical properties and grain growth in a CoCrFeMnNi high entropy alloy,2019,10.1016/j.msea.2019.01.112,http://dx.doi.org/10.1016/j.msea.2019.01.112
+165,High temperature strength of refractory complex concentrated alloys,2019,10.1016/j.actamat.2019.06.032,http://dx.doi.org/10.1016/j.actamat.2019.06.032
+166,High-cycle fatigue and tensile deformation behaviors of coarse-grained equiatomic CoCrFeMnNi high entropy alloy and unexpected hardening behavior during cyclic loading,2019,10.1016/j.intermet.2019.106486,http://dx.doi.org/10.1016/j.intermet.2019.106486
+167,New multiphase compositionally complex alloys driven by the high entropy alloy approach,2019,10.1016/j.matchar.2018.06.036,http://dx.doi.org/10.1016/j.matchar.2018.06.036
+168,Effect of vanadium addition on the microstructure and properties of AlCoCrFeNi high entropy alloy,2014,10.1016/j.matdes.2013.12.048,http://dx.doi.org/10.1016/j.matdes.2013.12.048
+169,Strain rate effects on the dynamic mechanical properties of the AlCrCuFeNi2 high-entropy alloy,2016,10.1016/j.msea.2015.09.089,http://dx.doi.org/10.1016/j.msea.2015.09.089
+170,Comparative study of the microstructures and mechanical properties of direct laser fabricated and arc-melted Al x CoCrFeNi high entropy alloys,2015,10.1016/j.msea.2015.02.072,http://dx.doi.org/10.1016/j.msea.2015.02.072
+171,Effect of Mn and V on structure and mechanical properties of high-entropy alloys based on CoCrFeNi system,2014,10.1016/j.jallcom.2013.12.210,http://dx.doi.org/10.1016/j.jallcom.2013.12.210
+172,Fatigue behavior of a wrought Al0.5CoCrCuFeNi two-phase high-entropy alloy,2015,10.1016/j.actamat.2015.07.004,http://dx.doi.org/10.1016/j.actamat.2015.07.004
+173,Effect of temperature on mechanical properties of Al0.5CoCrCuFeNi wrought alloy,2010,10.1016/j.jallcom.2009.10.088,http://dx.doi.org/10.1016/j.jallcom.2009.10.088
+174,A TRIP-assisted dual-phase high-entropy alloy: Grain size and phase fraction effects on deformation behavior,2017,10.1016/j.actamat.2017.03.069,http://dx.doi.org/10.1016/j.actamat.2017.03.069
+175,High-Temperature Tensile Strength of Al10Co25Cr8Fe15Ni36Ti6 Compositionally Complex Alloy (High-Entropy Alloy),2015,10.1007/s11837-015-1484-7,http://dx.doi.org/10.1007/s11837-015-1484-7
+176,Enhanced strength and ductility in a friction stir processing engineered dual phase high entropy alloy,2017,10.1038/s41598-017-16509-9,http://dx.doi.org/10.1038/s41598-017-16509-9
+177,Toward privacy-preserving JPEG image retrieval,2017,10.1117/1.JEI.26.4.043022,http://dx.doi.org/10.1117/1.jei.26.4.043022
+178,Optimizing the coupled effects of Hall-Petch and precipitation strengthening in a Al 0.3 CoCrFeNi high entropy alloy,2017,10.1016/j.matdes.2017.02.072,http://dx.doi.org/10.1016/j.matdes.2017.02.072
+179,Stability of ordered L12 and B2 precipitates in face centered cubic based high entropy alloys - Al0.3CoFeCrNi and Al0.3CuFeCrNi2,2016,10.1016/j.scriptamat.2016.06.019,http://dx.doi.org/10.1016/j.scriptamat.2016.06.019
+180,Tensile properties of an AlCrCuNiFeCo high-entropy alloy in as-cast and wrought conditions,2012,10.1016/j.msea.2011.11.045,http://dx.doi.org/10.1016/j.msea.2011.11.045
+181,Effects of Tungsten on Microstructure and Mechanical Properties of CrFeNiV0.5W x and CrFeNi2V0.5W x High-Entropy Alloys,2015,10.1007/s11665-015-1767-8,http://dx.doi.org/10.1007/s11665-015-1767-8
+182,Mechanical Properties Improvement of AlCrFeNi2Ti0.5 High Entropy Alloy through Annealing Design and its Relationship with its Particle-reinforced Microstructures,2015,10.1016/j.jmst.2014.09.011,http://dx.doi.org/10.1016/j.jmst.2014.09.011
+183,Formation of ultrafine-grained microstructure in Al 0.3 CoCrFeNi high entropy alloys with grain boundary precipitates,2017,10.1016/j.matlet.2017.04.072,http://dx.doi.org/10.1016/j.matlet.2017.04.072
+184,Secondary phases in AlxCoCrFeNi high-entropy alloys: An in-situ TEM heating study and thermodynamic appraisal,2017,10.1016/j.actamat.2017.03.066,http://dx.doi.org/10.1016/j.actamat.2017.03.066
+185,Microstructure and tensile behaviors of FCC Al0.3CoCrFeNi high entropy alloy,2009,10.1016/j.jallcom.2008.12.088,http://dx.doi.org/10.1016/j.jallcom.2008.12.088
+186,"Phases, microstructure and mechanical properties of AlxCoCrFeNi high-entropy alloys at elevated temperatures",2014,10.1016/j.jallcom.2013.11.084,http://dx.doi.org/10.1016/j.jallcom.2013.11.084
+187,The effect of grain size on the annealing-induced phase transformation in an Al0·3CoCrFeNi high entropy alloy,2016,10.1016/j.matdes.2016.05.079,http://dx.doi.org/10.1016/j.matdes.2016.05.079
+188,Heat treatment impacts the micro-structure and mechanical properties of AlCoCrFeNi high entropy alloy,2016,10.1016/j.jallcom.2016.05.034,http://dx.doi.org/10.1016/j.jallcom.2016.05.034
+189,In-situ study of crack initiation and propagation in a dual phase AlCoCrFeNi high entropy alloy,2017,10.1016/j.jallcom.2017.03.307,http://dx.doi.org/10.1016/j.jallcom.2017.03.307
+190,Tensile ductility of an AlCoCrFeNi multi-phase high-entropy alloy through hot isostatic pressing (HIP) and homogenization,2015,10.1016/j.msea.2015.08.078,http://dx.doi.org/10.1016/j.msea.2015.08.078
+191,A multi-component AlCrFe2Ni2 alloy with excellent mechanical properties,2016,10.1016/j.matlet.2016.01.096,http://dx.doi.org/10.1016/j.matlet.2016.01.096
+192,Directly cast bulk eutectic and near-eutectic high entropy alloys with balanced strength and ductility in a wide temperature range,2017,10.1016/j.actamat.2016.11.016,http://dx.doi.org/10.1016/j.actamat.2016.11.016
+193,Effects of aluminum on microstructure and compressive properties of Al-Cr-Fe-Ni eutectic multi-component alloys,2017,10.1016/j.msea.2016.11.019,http://dx.doi.org/10.1016/j.msea.2016.11.019
+194,Effect of coherent L12 nanoprecipitates on the tensile behavior of a fcc-based high-entropy alloy,2017,10.1016/j.msea.2017.04.111,http://dx.doi.org/10.1016/j.msea.2017.04.111
+195,A cuboidal B2 nanoprecipitation-enhanced body-centered-cubic alloy Al0.7CoCrFe2Ni with prominent tensile properties,2016,10.1016/j.scriptamat.2016.04.014,http://dx.doi.org/10.1016/j.scriptamat.2016.04.014
+196,A precipitation-hardened high-entropy alloy with outstanding tensile properties,2016,10.1016/j.actamat.2015.08.076,http://dx.doi.org/10.1016/j.actamat.2015.08.076
+197,Ductile CoCrFeNiMox high entropy alloys strengthened by hard intermetallic phases,2016,10.1016/j.actamat.2016.06.063,http://dx.doi.org/10.1016/j.actamat.2016.06.063
+198,The influences of temperature and microstructure on the tensile properties of a CoCrFeMnNi high-entropy alloy,2013,10.1016/j.actamat.2013.06.018,http://dx.doi.org/10.1016/j.actamat.2013.06.018
+199,Precipitation strengthening of ductile Cr 15 Fe 20 Co 35 Ni 20 Mo 10 alloys,2017,10.1016/j.scriptamat.2017.05.019,http://dx.doi.org/10.1016/j.scriptamat.2017.05.019
+200,Microstructure and Tensile Behavior of Al8Co17Cr17Cu8Fe17Ni33 (at.%) High-Entropy Alloy,2013,10.1007/s11837-013-0756-3,http://dx.doi.org/10.1007/s11837-013-0756-3
+201,"Influence of W, Mo and Ti trace elements on the phase separation in Al8Co17Cr17Cu8Fe17Ni33 based high entropy alloy",2015,10.1016/j.ultramic.2015.06.009,http://dx.doi.org/10.1016/j.ultramic.2015.06.009
+202,"Effect of heat treatment on the structure and hardness of high-entropy alloys CoCrFeNiMnV
                                 x
                              (x = 0.25, 0.5, 0.75, 1)",2017,10.1134/S0031918X17060084,http://dx.doi.org/10.1134/s0031918x17060084
-198,Grain growth and Hall-Petch relationship in a refractory HfNbTaZrTi high-entropy alloy,2019,10.1016/j.jallcom.2019.04.291,http://dx.doi.org/10.1016/j.jallcom.2019.04.291
-199,Effects of heat treatment on the microstructure and properties of cold-forged CoNiFe medium entropy alloy,2019,10.1016/j.intermet.2019.106477,http://dx.doi.org/10.1016/j.intermet.2019.106477
-200,Superb cryogenic strength of equiatomic CrCoNi derived from gradient hierarchical microstructure,2019,10.1016/j.jmst.2018.12.002,http://dx.doi.org/10.1016/j.jmst.2018.12.002
-201,"Fabrication, microstructure and mechanical property of a novel Nb-rich refractory high-entropy alloy strengthened by in-situ formation of dispersoids",2019,10.1016/j.ijrmhm.2019.02.009,http://dx.doi.org/10.1016/j.ijrmhm.2019.02.009
-202,Effect of elemental combination on friction stress and Hall-Petch relationship in face-centered cubic high / medium entropy alloys,2019,10.1016/j.actamat.2019.04.017,http://dx.doi.org/10.1016/j.actamat.2019.04.017
-203,Microstructure and mechanical properties of Ti-Al-Ni-Co-Fe based high entropy alloys prepared by powder metallurgy route,2019,10.1016/j.jallcom.2019.02.083,http://dx.doi.org/10.1016/j.jallcom.2019.02.083
-204,Structure formation and mechanical properties of the high-entropy AlCuNiFeCr alloy prepared by mechanical alloying and spark plasma sintering,2019,10.1016/j.jallcom.2019.01.341,http://dx.doi.org/10.1016/j.jallcom.2019.01.341
-205,Regulating the strength and ductility of a cold rolled FeCrCoMnNi high-entropy alloy via annealing treatment,2019,10.1016/j.msea.2019.04.025,http://dx.doi.org/10.1016/j.msea.2019.04.025
-206,A promising CoFeNi2V0.5Mo0.2 high entropy alloy with exceptional ductility,2019,10.1016/j.scriptamat.2019.02.038,http://dx.doi.org/10.1016/j.scriptamat.2019.02.038
-207,Effect of cooling rate on microstructure and mechanical properties of Al0.3CoCrFeNi high-entropy alloy,2019,10.1088/2053-1591/ab0597,http://dx.doi.org/10.1088/2053-1591/ab0597
-208,Outstanding tensile properties of a precipitation-strengthened FeCoNiCrTi0.2 high-entropy alloy at room and cryogenic temperatures,2019,10.1016/j.actamat.2018.11.049,http://dx.doi.org/10.1016/j.actamat.2018.11.049
-209,The strengthening effects of relatively lightweight AlCoCrFeNi high entropy alloy,2019,10.1016/j.matchar.2019.03.006,http://dx.doi.org/10.1016/j.matchar.2019.03.006
-210,Effect of μ-precipitates on the microstructure and mechanical properties of non-equiatomic CoCrFeNiMo medium-entropy alloys,2019,10.1016/j.jallcom.2018.12.040,http://dx.doi.org/10.1016/j.jallcom.2018.12.040
-211,Microstructure and mechanical properties of a CoCrFeMnNi high entropy alloy processed by milling and spark plasma sintering,2019,10.1016/j.jallcom.2018.11.181,http://dx.doi.org/10.1016/j.jallcom.2018.11.181
-212,Effect of Si additions on microstructure and mechanical properties of refractory NbTaWMo high-entropy alloys,2019,10.1007/s10853-018-03280-z,http://dx.doi.org/10.1007/s10853-018-03280-z
-213,Microstructure and Mechanical Properties of a Multiphase FeCrCuMnNi High-Entropy Alloy,2019,10.1007/s11665-019-04003-4,http://dx.doi.org/10.1007/s11665-019-04003-4
-214,"Microstructure evolution, mechanical properties and strengthening mechanism of refractory high-entropy alloy matrix composites with addition of TaC",2019,10.1016/j.jallcom.2018.11.111,http://dx.doi.org/10.1016/j.jallcom.2018.11.111
-215,Microstructure and Mechanical Properties of Precipitate Strengthened High Entropy Alloy Al10Co25Cr8Fe15Ni36Ti6 with Additions of Hafnium and Molybdenum,2019,10.3390/e21020169,http://dx.doi.org/10.3390/e21020169
-216,Effect of grain size on the tensile behavior of V10Cr15Mn5Fe35Co10Ni25 high entropy alloy,2019,10.1016/j.msea.2018.12.077,http://dx.doi.org/10.1016/j.msea.2018.12.077
-217,Enhancement of strength-ductility trade-off in a high-entropy alloy through a heterogeneous structure,2019,10.1016/j.actamat.2018.12.012,http://dx.doi.org/10.1016/j.actamat.2018.12.012
-218,Structure and properties of equiatomic CoCrFeNiMn alloy fabricated by high-energy ball milling and spark plasma sintering,2019,10.1016/j.jallcom.2019.07.195,http://dx.doi.org/10.1016/j.jallcom.2019.07.195
-219,"Effects of Ti-to-Al ratios on the phases, microstructures, mechanical properties, and corrosion resistance of Al2-xCoCrFeNiTix high-entropy alloys",2019,10.1016/j.jallcom.2019.07.100,http://dx.doi.org/10.1016/j.jallcom.2019.07.100
-220,Effect of heat treatment on the phase evolution and mechanical properties of atomized AlCoCrFeNi high-entropy alloy powders,2019,10.1016/j.jallcom.2019.06.301,http://dx.doi.org/10.1016/j.jallcom.2019.06.301
-221,Microstructures and mechanical properties of HfNbTaTiZrW and HfNbTaTiZrMoW refractory high-entropy alloys,2019,10.1016/j.jallcom.2019.06.138,http://dx.doi.org/10.1016/j.jallcom.2019.06.138
-222,Microstructure and mechanical properties of NbZrTi and NbHfZrTi alloys,2019,10.1007/s12598-019-01310-6,http://dx.doi.org/10.1007/s12598-019-01310-6
-223,"Microstructure, mechanical properties and corrosion resistance of CoCrFeNiW  (x = 0, 0.2, 0.5) high entropy alloys",2019,10.1016/j.intermet.2019.106550,http://dx.doi.org/10.1016/j.intermet.2019.106550
-224,"Microstructure, Mechanical Properties, and Corrosion Behavior of MoNbFeCrV, MoNbFeCrTi, and MoNbFeVTi High-Entropy Alloys",2019,10.1007/s40195-019-00935-x,http://dx.doi.org/10.1007/s40195-019-00935-x
-225,Precipitation behavior and its impact on mechanical properties in an aged carbon-containing Al0.3Cu0.5CrFeNi2 high-entropy alloy,2019,10.1016/j.matchar.2019.109792,http://dx.doi.org/10.1016/j.matchar.2019.109792
-226,Temperature dependence of elastic moduli in a refractory HfNbTaTiZr high-entropy alloy,2019,10.1016/j.jallcom.2019.05.322,http://dx.doi.org/10.1016/j.jallcom.2019.05.322
-227,Achieving high ductility in the 1.7 GPa grade CoCrFeMnNi high-entropy alloy at 77 K,2019,10.1016/j.msea.2018.10.094,http://dx.doi.org/10.1016/j.msea.2018.10.094
-228,"The effects of substitution of Co with Ni on microstructure, mechanical properties, and age hardening of Co1-xCrFeNi1+xTi0.3 high-entropy alloys",2019,10.1016/j.msea.2019.138181,http://dx.doi.org/10.1016/j.msea.2019.138181
-229,Achieving ultra hard refractory multi-principal element alloys via mechanical alloying,2019,10.1016/j.msea.2019.138140,http://dx.doi.org/10.1016/j.msea.2019.138140
-230,Solid-solution strengthening in refractory high entropy alloys,2019,10.1016/j.actamat.2019.06.006,http://dx.doi.org/10.1016/j.actamat.2019.06.006
-231,A Novel Series of Refractory High-Entropy Alloys Ti2ZrHf0.5VNbx with High Specific Yield Strength and Good Ductility,2019,10.1007/s40195-019-00921-3,http://dx.doi.org/10.1007/s40195-019-00921-3
-232,"Investigation of microstructure, texture, and mechanical properties of FeCrCuMnNi multiphase high entropy alloy during recrystallization",2019,10.1016/j.matchar.2019.05.043,http://dx.doi.org/10.1016/j.matchar.2019.05.043
-233,Effect of prolonged aging on phase evolution and mechanical properties of intermetallic strengthened CoCrFeNi2.1Nbx high entropy alloys,2019,10.1016/j.matlet.2019.04.012,http://dx.doi.org/10.1016/j.matlet.2019.04.012
-234,Hot Deformation Behavior and Hardness of a CoCrFeMnNi High-Entropy Alloy with High Content of Carbon,2019,10.1007/s40195-019-00916-0,http://dx.doi.org/10.1007/s40195-019-00916-0
-235,Effect of heating rate on microstructure and mechanical properties of AlCoCrFeNi high entropy alloy produced by spark plasma sintering,2019,10.1016/j.matchar.2019.05.022,http://dx.doi.org/10.1016/j.matchar.2019.05.022
-236,Microstructure and Mechanical Properties of WMoNbCrTi HEAs Sintered from the Powders Milled for Different Durations,2019,10.1007/s11837-019-03432-9,http://dx.doi.org/10.1007/s11837-019-03432-9
-237,A new CrFeNi2Al eutectic high entropy alloy system with excellent mechanical properties,2019,10.1016/j.jallcom.2018.08.176,http://dx.doi.org/10.1016/j.jallcom.2018.08.176
-238,Microstructure and mechanical properties of AlCoCrFeNi high entropy alloys produced by spark plasma sintering,2019,10.1088/2053-1591/ab2517,http://dx.doi.org/10.1088/2053-1591/ab2517
-239,Microstructure and mechanical properties of cold drawing CoCrFeMnNi high entropy alloy,2019,10.1016/j.jallcom.2019.04.296,http://dx.doi.org/10.1016/j.jallcom.2019.04.296
-240,Development of a large size FCC high-entropy alloy with excellent mechanical properties,2019,10.1016/j.msea.2019.138039,http://dx.doi.org/10.1016/j.msea.2019.138039
-241,Strengthening of a CrMnFeCoNi high-entropy alloy by carbide precipitation,2019,10.1016/j.jallcom.2019.04.121,http://dx.doi.org/10.1016/j.jallcom.2019.04.121
-242,Precipitation strengthening in a hot-worked TiNbTa0.5ZrAl0.5 refractory high entropy alloy,2019,10.1016/j.matlet.2019.03.075,http://dx.doi.org/10.1016/j.matlet.2019.03.075
-243,Correction to: Effect of Si additions on microstructure and mechanical properties of refractory NbTaWMo high-entropy alloys,2019,10.1007/s10853-019-03567-9,http://dx.doi.org/10.1007/s10853-019-03567-9
-244,Effect of Annealing Temperature on Microstructure and Mechanical Properties of a Severe Cold-Rolled FeCoCrNiMn High-Entropy Alloy,2019,10.1007/s11661-019-05231-y,http://dx.doi.org/10.1007/s11661-019-05231-y
-245,Microstructure and mechanical properties of FeCoCrNiMnTi0.1C0.1 high-entropy alloy produced by mechanical alloying and vacuum hot pressing sintering,2019,10.1016/j.vacuum.2019.04.043,http://dx.doi.org/10.1016/j.vacuum.2019.04.043
-246,Effect of Al content and cold rolling on the microstructure and mechanical properties of Al5Cr12Fe35Mn28Ni20 high-entropy alloy,2019,10.1016/j.msea.2019.05.056,http://dx.doi.org/10.1016/j.msea.2019.05.056
-247,Effects of Al addition on the microstructure and mechanical property of AlxCoCrFeNi high-entropy alloys,2012,10.1016/j.intermet.2012.03.005,http://dx.doi.org/10.1016/j.intermet.2012.03.005
-248,"Effect of Cr addition on the alloying behavior, microstructure and mechanical properties of twinned CoFeNiAl0.5Ti0.5 alloy",2014,10.1016/j.msea.2013.12.096,http://dx.doi.org/10.1016/j.msea.2013.12.096
-249,Effect of Ta Addition on Microstructure and Hardness of FeCrNiMnCoTa<sub>x</sub> and Al<sub>0.5</sub>FeCrNiMnCoTa<sub>x</sub> High-Entropy Alloys,2016,10.4028/www.scientific.net/MSF.846.13,http://dx.doi.org/10.4028/www.scientific.net/msf.846.13
-250,The effects of secondary elemental Mo or Ti addition in Al0.3CoCrFeNi high-entropy alloy on age hardening at 700°C,2010,10.1016/j.jallcom.2010.02.032,http://dx.doi.org/10.1016/j.jallcom.2010.02.032
-251,Establishing processing-microstructure-property paradigm in complex concentrated equiatomic CoCuFeMnNi alloy,2019,10.1016/j.msea.2019.04.096,http://dx.doi.org/10.1016/j.msea.2019.04.096
-252,Altered microstructural evolution and mechanical properties of CoCrFeNiMo0.15 high-entropy alloy by cryogenic rolling,2019,10.1016/j.msea.2019.05.078,http://dx.doi.org/10.1016/j.msea.2019.05.078
-253,Microstructure and properties of a Cu–Ni–Si–Co–Cr alloy with high strength and high conductivity,2019,10.1016/j.msea.2019.05.003,http://dx.doi.org/10.1016/j.msea.2019.05.003
-254,Materials informatics for the screening of multi-principal elements and high-entropy alloys,2019,10.1038/s41467-019-10533-1,http://dx.doi.org/10.1038/s41467-019-10533-1
-255,Composition and phase structure dependence of mechanical and magnetic properties for AlCoCuFeNi  high entropy alloys,2019,10.1016/j.jmst.2018.12.014,http://dx.doi.org/10.1016/j.jmst.2018.12.014
-256,"Structures and corrosion properties of the AlCrFeNiMo0.5
+203,Grain growth and Hall-Petch relationship in a refractory HfNbTaZrTi high-entropy alloy,2019,10.1016/j.jallcom.2019.04.291,http://dx.doi.org/10.1016/j.jallcom.2019.04.291
+204,Effects of heat treatment on the microstructure and properties of cold-forged CoNiFe medium entropy alloy,2019,10.1016/j.intermet.2019.106477,http://dx.doi.org/10.1016/j.intermet.2019.106477
+205,Superb cryogenic strength of equiatomic CrCoNi derived from gradient hierarchical microstructure,2019,10.1016/j.jmst.2018.12.002,http://dx.doi.org/10.1016/j.jmst.2018.12.002
+206,"Fabrication, microstructure and mechanical property of a novel Nb-rich refractory high-entropy alloy strengthened by in-situ formation of dispersoids",2019,10.1016/j.ijrmhm.2019.02.009,http://dx.doi.org/10.1016/j.ijrmhm.2019.02.009
+207,Effect of composing element on microstructure and mechanical properties in Mo–Nb–Hf–Zr–Ti multi-principle component alloys,2016,10.1016/j.intermet.2015.10.011,http://dx.doi.org/10.1016/j.intermet.2015.10.011
+208,Effect of elemental combination on friction stress and Hall-Petch relationship in face-centered cubic high / medium entropy alloys,2019,10.1016/j.actamat.2019.04.017,http://dx.doi.org/10.1016/j.actamat.2019.04.017
+209,Microstructure and mechanical properties of Ti-Al-Ni-Co-Fe based high entropy alloys prepared by powder metallurgy route,2019,10.1016/j.jallcom.2019.02.083,http://dx.doi.org/10.1016/j.jallcom.2019.02.083
+210,Structure formation and mechanical properties of the high-entropy AlCuNiFeCr alloy prepared by mechanical alloying and spark plasma sintering,2019,10.1016/j.jallcom.2019.01.341,http://dx.doi.org/10.1016/j.jallcom.2019.01.341
+211,Regulating the strength and ductility of a cold rolled FeCrCoMnNi high-entropy alloy via annealing treatment,2019,10.1016/j.msea.2019.04.025,http://dx.doi.org/10.1016/j.msea.2019.04.025
+212,A promising CoFeNi2V0.5Mo0.2 high entropy alloy with exceptional ductility,2019,10.1016/j.scriptamat.2019.02.038,http://dx.doi.org/10.1016/j.scriptamat.2019.02.038
+213,Effect of cooling rate on microstructure and mechanical properties of Al0.3CoCrFeNi high-entropy alloy,2019,10.1088/2053-1591/ab0597,http://dx.doi.org/10.1088/2053-1591/ab0597
+214,Outstanding tensile properties of a precipitation-strengthened FeCoNiCrTi0.2 high-entropy alloy at room and cryogenic temperatures,2019,10.1016/j.actamat.2018.11.049,http://dx.doi.org/10.1016/j.actamat.2018.11.049
+215,The strengthening effects of relatively lightweight AlCoCrFeNi high entropy alloy,2019,10.1016/j.matchar.2019.03.006,http://dx.doi.org/10.1016/j.matchar.2019.03.006
+216,Effect of μ-precipitates on the microstructure and mechanical properties of non-equiatomic CoCrFeNiMo medium-entropy alloys,2019,10.1016/j.jallcom.2018.12.040,http://dx.doi.org/10.1016/j.jallcom.2018.12.040
+217,Microstructure and mechanical properties of a CoCrFeMnNi high entropy alloy processed by milling and spark plasma sintering,2019,10.1016/j.jallcom.2018.11.181,http://dx.doi.org/10.1016/j.jallcom.2018.11.181
+218,Microstructure and Mechanical Properties of a Multiphase FeCrCuMnNi High-Entropy Alloy,2019,10.1007/s11665-019-04003-4,http://dx.doi.org/10.1007/s11665-019-04003-4
+219,"Microstructure evolution, mechanical properties and strengthening mechanism of refractory high-entropy alloy matrix composites with addition of TaC",2019,10.1016/j.jallcom.2018.11.111,http://dx.doi.org/10.1016/j.jallcom.2018.11.111
+220,Microstructure and Mechanical Properties of Precipitate Strengthened High Entropy Alloy Al10Co25Cr8Fe15Ni36Ti6 with Additions of Hafnium and Molybdenum,2019,10.3390/e21020169,http://dx.doi.org/10.3390/e21020169
+221,Effect of grain size on the tensile behavior of V10Cr15Mn5Fe35Co10Ni25 high entropy alloy,2019,10.1016/j.msea.2018.12.077,http://dx.doi.org/10.1016/j.msea.2018.12.077
+222,Enhancement of strength-ductility trade-off in a high-entropy alloy through a heterogeneous structure,2019,10.1016/j.actamat.2018.12.012,http://dx.doi.org/10.1016/j.actamat.2018.12.012
+223,Structure and properties of equiatomic CoCrFeNiMn alloy fabricated by high-energy ball milling and spark plasma sintering,2019,10.1016/j.jallcom.2019.07.195,http://dx.doi.org/10.1016/j.jallcom.2019.07.195
+224,"Effects of Ti-to-Al ratios on the phases, microstructures, mechanical properties, and corrosion resistance of Al2-xCoCrFeNiTix high-entropy alloys",2019,10.1016/j.jallcom.2019.07.100,http://dx.doi.org/10.1016/j.jallcom.2019.07.100
+225,"Microstructure, mechanical and corrosion behaviors of AlCoCuFeNi-(Cr,Ti) high entropy alloys",2017,10.1016/j.matdes.2016.12.036,http://dx.doi.org/10.1016/j.matdes.2016.12.036
+226,Studies on the microstructure and properties of AlxCoCrFeNiTi1-x high entropy alloys,2018,10.1016/j.jallcom.2018.01.247,http://dx.doi.org/10.1016/j.jallcom.2018.01.247
+227,Effect of Co content on the mechanical properties of A2 and B2 phases in AlCoxCrFeNi high-entropy alloys,2018,10.1016/j.jallcom.2018.07.346,http://dx.doi.org/10.1016/j.jallcom.2018.07.346
+228,Compositional dependence of phase formation and mechanical properties in three CoCrFeNi-(Mn/Al/Cu) high entropy alloys,2016,10.1016/j.intermet.2016.09.003,http://dx.doi.org/10.1016/j.intermet.2016.09.003
+229,Effect of heat treatment on the phase evolution and mechanical properties of atomized AlCoCrFeNi high-entropy alloy powders,2019,10.1016/j.jallcom.2019.06.301,http://dx.doi.org/10.1016/j.jallcom.2019.06.301
+230,Microstructures and mechanical properties of HfNbTaTiZrW and HfNbTaTiZrMoW refractory high-entropy alloys,2019,10.1016/j.jallcom.2019.06.138,http://dx.doi.org/10.1016/j.jallcom.2019.06.138
+231,Microstructure and mechanical properties of NbZrTi and NbHfZrTi alloys,2019,10.1007/s12598-019-01310-6,http://dx.doi.org/10.1007/s12598-019-01310-6
+232,"Microstructure, mechanical properties and corrosion resistance of CoCrFeNiW  (x = 0, 0.2, 0.5) high entropy alloys",2019,10.1016/j.intermet.2019.106550,http://dx.doi.org/10.1016/j.intermet.2019.106550
+233,"Microstructure, Mechanical Properties, and Corrosion Behavior of MoNbFeCrV, MoNbFeCrTi, and MoNbFeVTi High-Entropy Alloys",2019,10.1007/s40195-019-00935-x,http://dx.doi.org/10.1007/s40195-019-00935-x
+234,Precipitation behavior and its impact on mechanical properties in an aged carbon-containing Al0.3Cu0.5CrFeNi2 high-entropy alloy,2019,10.1016/j.matchar.2019.109792,http://dx.doi.org/10.1016/j.matchar.2019.109792
+235,Temperature dependence of elastic moduli in a refractory HfNbTaTiZr high-entropy alloy,2019,10.1016/j.jallcom.2019.05.322,http://dx.doi.org/10.1016/j.jallcom.2019.05.322
+236,Achieving high ductility in the 1.7 GPa grade CoCrFeMnNi high-entropy alloy at 77 K,2019,10.1016/j.msea.2018.10.094,http://dx.doi.org/10.1016/j.msea.2018.10.094
+237,"The effects of substitution of Co with Ni on microstructure, mechanical properties, and age hardening of Co1-xCrFeNi1+xTi0.3 high-entropy alloys",2019,10.1016/j.msea.2019.138181,http://dx.doi.org/10.1016/j.msea.2019.138181
+238,Achieving ultra hard refractory multi-principal element alloys via mechanical alloying,2019,10.1016/j.msea.2019.138140,http://dx.doi.org/10.1016/j.msea.2019.138140
+239,Solid-solution strengthening in refractory high entropy alloys,2019,10.1016/j.actamat.2019.06.006,http://dx.doi.org/10.1016/j.actamat.2019.06.006
+240,A Novel Series of Refractory High-Entropy Alloys Ti2ZrHf0.5VNbx with High Specific Yield Strength and Good Ductility,2019,10.1007/s40195-019-00921-3,http://dx.doi.org/10.1007/s40195-019-00921-3
+241,"Investigation of microstructure, texture, and mechanical properties of FeCrCuMnNi multiphase high entropy alloy during recrystallization",2019,10.1016/j.matchar.2019.05.043,http://dx.doi.org/10.1016/j.matchar.2019.05.043
+242,Effect of prolonged aging on phase evolution and mechanical properties of intermetallic strengthened CoCrFeNi2.1Nbx high entropy alloys,2019,10.1016/j.matlet.2019.04.012,http://dx.doi.org/10.1016/j.matlet.2019.04.012
+243,Hot Deformation Behavior and Hardness of a CoCrFeMnNi High-Entropy Alloy with High Content of Carbon,2019,10.1007/s40195-019-00916-0,http://dx.doi.org/10.1007/s40195-019-00916-0
+244,Effect of heating rate on microstructure and mechanical properties of AlCoCrFeNi high entropy alloy produced by spark plasma sintering,2019,10.1016/j.matchar.2019.05.022,http://dx.doi.org/10.1016/j.matchar.2019.05.022
+245,Microstructure and Mechanical Properties of WMoNbCrTi HEAs Sintered from the Powders Milled for Different Durations,2019,10.1007/s11837-019-03432-9,http://dx.doi.org/10.1007/s11837-019-03432-9
+246,A new CrFeNi2Al eutectic high entropy alloy system with excellent mechanical properties,2019,10.1016/j.jallcom.2018.08.176,http://dx.doi.org/10.1016/j.jallcom.2018.08.176
+247,Microstructure and mechanical properties of AlCoCrFeNi high entropy alloys produced by spark plasma sintering,2019,10.1088/2053-1591/ab2517,http://dx.doi.org/10.1088/2053-1591/ab2517
+248,Microstructure and mechanical properties of cold drawing CoCrFeMnNi high entropy alloy,2019,10.1016/j.jallcom.2019.04.296,http://dx.doi.org/10.1016/j.jallcom.2019.04.296
+249,Development of a large size FCC high-entropy alloy with excellent mechanical properties,2019,10.1016/j.msea.2019.138039,http://dx.doi.org/10.1016/j.msea.2019.138039
+250,Strengthening of a CrMnFeCoNi high-entropy alloy by carbide precipitation,2019,10.1016/j.jallcom.2019.04.121,http://dx.doi.org/10.1016/j.jallcom.2019.04.121
+251,Precipitation strengthening in a hot-worked TiNbTa0.5ZrAl0.5 refractory high entropy alloy,2019,10.1016/j.matlet.2019.03.075,http://dx.doi.org/10.1016/j.matlet.2019.03.075
+252,Correction to: Effect of Si additions on microstructure and mechanical properties of refractory NbTaWMo high-entropy alloys,2019,10.1007/s10853-019-03567-9,http://dx.doi.org/10.1007/s10853-019-03567-9
+253,Effect of Annealing Temperature on Microstructure and Mechanical Properties of a Severe Cold-Rolled FeCoCrNiMn High-Entropy Alloy,2019,10.1007/s11661-019-05231-y,http://dx.doi.org/10.1007/s11661-019-05231-y
+254,Microstructure and mechanical properties of FeCoCrNiMnTi0.1C0.1 high-entropy alloy produced by mechanical alloying and vacuum hot pressing sintering,2019,10.1016/j.vacuum.2019.04.043,http://dx.doi.org/10.1016/j.vacuum.2019.04.043
+255,Effect of Al content and cold rolling on the microstructure and mechanical properties of Al5Cr12Fe35Mn28Ni20 high-entropy alloy,2019,10.1016/j.msea.2019.05.056,http://dx.doi.org/10.1016/j.msea.2019.05.056
+256,Effects of Al addition on the microstructure and mechanical property of AlxCoCrFeNi high-entropy alloys,2012,10.1016/j.intermet.2012.03.005,http://dx.doi.org/10.1016/j.intermet.2012.03.005
+257,"Effect of Cr addition on the alloying behavior, microstructure and mechanical properties of twinned CoFeNiAl0.5Ti0.5 alloy",2014,10.1016/j.msea.2013.12.096,http://dx.doi.org/10.1016/j.msea.2013.12.096
+258,Effect of Ta Addition on Microstructure and Hardness of FeCrNiMnCoTa<sub>x</sub> and Al<sub>0.5</sub>FeCrNiMnCoTa<sub>x</sub> High-Entropy Alloys,2016,10.4028/www.scientific.net/MSF.846.13,http://dx.doi.org/10.4028/www.scientific.net/msf.846.13
+259,The effects of secondary elemental Mo or Ti addition in Al0.3CoCrFeNi high-entropy alloy on age hardening at 700°C,2010,10.1016/j.jallcom.2010.02.032,http://dx.doi.org/10.1016/j.jallcom.2010.02.032
+260,Establishing processing-microstructure-property paradigm in complex concentrated equiatomic CoCuFeMnNi alloy,2019,10.1016/j.msea.2019.04.096,http://dx.doi.org/10.1016/j.msea.2019.04.096
+261,Altered microstructural evolution and mechanical properties of CoCrFeNiMo0.15 high-entropy alloy by cryogenic rolling,2019,10.1016/j.msea.2019.05.078,http://dx.doi.org/10.1016/j.msea.2019.05.078
+262,Microstructure and properties of a Cu–Ni–Si–Co–Cr alloy with high strength and high conductivity,2019,10.1016/j.msea.2019.05.003,http://dx.doi.org/10.1016/j.msea.2019.05.003
+263,Materials informatics for the screening of multi-principal elements and high-entropy alloys,2019,10.1038/s41467-019-10533-1,http://dx.doi.org/10.1038/s41467-019-10533-1
+264,Composition and phase structure dependence of mechanical and magnetic properties for AlCoCuFeNi  high entropy alloys,2019,10.1016/j.jmst.2018.12.014,http://dx.doi.org/10.1016/j.jmst.2018.12.014
+265,"Structures and corrosion properties of the AlCrFeNiMo0.5
 Ti
                             x
                         
  high entropy alloys",2017,10.1002/maco.201709833,http://dx.doi.org/10.1002/maco.201709833
-257,"Phase equilibria, mechanical properties and design of quaternary refractory high entropy alloys",2018,10.1016/j.matdes.2018.06.003,http://dx.doi.org/10.1016/j.matdes.2018.06.003
+266,"Phase equilibria, mechanical properties and design of quaternary refractory high entropy alloys",2018,10.1016/j.matdes.2018.06.003,http://dx.doi.org/10.1016/j.matdes.2018.06.003
