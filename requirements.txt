@@ -3,3 +3,4 @@ pandas
 pymatgen
 plotly
 jupyterlab
+crossrefapi
