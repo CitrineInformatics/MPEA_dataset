@@ -10,10 +10,10 @@ To install the proper dependencies in your Python environment, a [requirements f
 - [MPEA dataset](MPEA_dataset.csv)
 The complete database file. Contains all compositions, properties, and reference info.
 
-- [Compositions](compositions.csv)
+- [Compositions](stats_and_tables/compositions.csv)
 A csv of all the unique compositions in the database. 
 
-- [Groupd by composition](grouped_by_composition.xlsx)
+- [Grouped by composition](stats_and_tables/grouped_by_composition.xlsx)
 A styled excel file grouping the data by composition.
 
 
@@ -38,7 +38,7 @@ Takes [combined_data.csv](combined_data.csv) as an input and generates [MPEA dat
 This script produces data tables from the master data file.
 
 4. [Get compositions](get_compositions.ipynb)
-This script produces [Compositions](compositions.csv) and [Groupd by composition](grouped_by_composition.xlsx) to promote interpretation.
+This script produces [Compositions](stats_and_tables/compositions.csv) and [Grouped by composition](stats_and_tables/grouped_by_composition.xlsx) to promote interpretation.
 
 5. [Get figures](get_figures.ipynb)
 This script produces figures shown in the manuscript.
