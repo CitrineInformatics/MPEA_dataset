@@ -1,6 +1,6 @@
-numpy
-pandas
-pymatgen
-plotly
-jupyterlab
-crossrefapi
+numpy==1.17.3
+pandas==1.0.5
+pymatgen==2019.10.4
+plotly==4.5.4
+jupyterlab==2.0.1
+crossrefapi==1.5.0

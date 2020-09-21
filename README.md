@@ -16,6 +16,9 @@ A csv of all the unique compositions in the database.
 - [Grouped by composition](stats_and_tables/grouped_by_composition.xlsx)
 A styled excel file grouping the data by composition.
 
+- [Combined data](combined_data.csv)
+This is a pre-processed data file and not intended for wide comsumption.
+
 
 ## Processing files
 - [2018 data](/2018_data/2018_data.csv)
