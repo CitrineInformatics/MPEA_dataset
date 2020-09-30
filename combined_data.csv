@@ -822,9 +822,9 @@
 206,J26,10.1016/j.matchemphys.2018.09.033,FeCrCuMnNi,FCC1 + FCC2 + BCC ,M,A,,,,T,25.0,517,677,4.6,,,,,,,not sure where original data was from... extracted from plot,,,,,146
 207,J26,10.1016/j.matchemphys.2018.09.033,FeCrCuMnNi,FCC1 + FCC2 + BCC ,M,A,,,,T,25.0,502,671,4.9,,,,,,,not sure where original data was from... extracted from plot,,,,,146
 208,J27,10.1016/j.jallcom.2018.11.318,NbMoTaWVCr,BCC + Laves + oxide,M,SPS,0.54,,1072,C,25.0,,,,,,,7946.0,,,Sintered @ 1400 C,,,,,147
-209,J27,10.1016/j.jallcom.2018.11.318,NbMoTaWVCr,BCC + Laves + oxide,M,SPS,1.24,,1010,C,25.0,3416,,5.3,,,,7946.0,,,Sintered @ 1500 C,,,,,147
-210,J27,10.1016/j.jallcom.2018.11.318,NbMoTaWVCr,BCC + Laves + oxide,M,SPS,5.01,,991.3,C,25.0,3410,,2,,,,7946.0,,,Sintered @ 1600 C,,,,,147
-211,J27,10.1016/j.jallcom.2018.11.318,NbMoTaWVCr,BCC + Laves + oxide,M,SPS,10.8,,988.3,C,25.0,3338,,1.9,,,,7946.0,,,Sintered @ 1700 C,,,,,147
+209,J27,10.1016/j.jallcom.2018.11.318,NbMoTaWVCr,BCC + Laves + oxide,M,SPS,1.24,,1010,C,25.0,3416,,,5.3,,,7946.0,,,Sintered @ 1500 C,,,,,147
+210,J27,10.1016/j.jallcom.2018.11.318,NbMoTaWVCr,BCC + Laves + oxide,M,SPS,5.01,,991.3,C,25.0,3410,,,2,,,7946.0,,,Sintered @ 1600 C,,,,,147
+211,J27,10.1016/j.jallcom.2018.11.318,NbMoTaWVCr,BCC + Laves + oxide,M,SPS,10.8,,988.3,C,25.0,3338,,,1.9,,,7946.0,,,Sintered @ 1700 C,,,,,147
 212,J27-28,10.1016/j.calphad.2015.09.007,NbMoTaWVCr,,,AC,,,704.6,C,25.0,,,,,,,,,,,28.0,10.1016/j.calphad.2015.09.007,,,148
 213,J28,10.1016/j.vacuum.2018.12.009,CoCrCuFeNi,FCC + B2,M,AC,,,<160,,,,,,,,,,,,note this is rockwell hardness ,,,,,149
 214,J28,10.1016/j.vacuum.2018.12.009,Al0.5CoCrCuFeNi,FCC,S,AC,,,<160,,,,,,,,,,,,note this is rockwell hardness ,,,,,149
