@@ -49,10 +49,10 @@ def average_range(cell):
 def neg_elongation(row):
     '''Assigns a negative sign for compression data. Used for visualization purposes.'''
     
-    if row['PROPERTY: Type of test'] == "C" and row['PROPERTY: Elongation (%)'] != "":
+    if row['PROPERTY: Type of test'].strip() == "C" and row['PROPERTY: Elongation (%)'] != "":
         val = -float(row['PROPERTY: Elongation (%)'])
     else:
-        val = row['PROPERTY: Elongation (%)']
+        val = float(row['PROPERTY: Elongation (%)'])
     return val
 
 
