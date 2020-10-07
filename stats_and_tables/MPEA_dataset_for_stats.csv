@@ -326,7 +326,7 @@ Unnamed: 0,REFERENCE: tag,REFERENCE: doi_x,FORMULA,PROPERTY: Type of phases,PROP
 324,64,10.1016/j.matdes.2015.05.019,Hf1 Mo1 Nb1 Ti1 Zr1,BCC,S,A,,8.7,,C,800.0,825.0,1095.0,50.0,,,,,,,,,,,,50,Microstructure and mechanical properties of refractory MoNbHfZrTi high-entropy alloy,2015,10.1016/j.matdes.2015.05.019,http://dx.doi.org/10.1016/j.matdes.2015.05.019,10.1016/j.matdes.2015.05.019,BCC,ANNEAL,BCC,8.7,128
 325,64,10.1016/j.matdes.2015.05.019,Hf1 Mo1 Nb1 Ti1 Zr1,BCC,S,A,,8.7,,C,1000.0,635.0,654.0,50.0,,,,,,,,,,,,50,Microstructure and mechanical properties of refractory MoNbHfZrTi high-entropy alloy,2015,10.1016/j.matdes.2015.05.019,http://dx.doi.org/10.1016/j.matdes.2015.05.019,10.1016/j.matdes.2015.05.019,BCC,ANNEAL,BCC,8.7,128
 326,64,10.1016/j.matdes.2015.05.019,Hf1 Mo1 Nb1 Ti1 Zr1,BCC,S,A,,8.7,,C,1200.0,187.0,194.0,50.0,,,,,,,,,,,,50,Microstructure and mechanical properties of refractory MoNbHfZrTi high-entropy alloy,2015,10.1016/j.matdes.2015.05.019,http://dx.doi.org/10.1016/j.matdes.2015.05.019,10.1016/j.matdes.2015.05.019,BCC,ANNEAL,BCC,8.7,128
-327,64,10.1016/j.matdes.2015.05.019,Hf1 Mo1 Nb1 Ti1 Zr1,BCC,S,AC,,8.7,,C,25.0,1803.0,1719.0,10.0,,139.0,,,,,,,,,,50,Microstructure and mechanical properties of refractory MoNbHfZrTi high-entropy alloy,2015,10.1016/j.matdes.2015.05.019,http://dx.doi.org/10.1016/j.matdes.2015.05.019,10.1016/j.matdes.2015.05.019,BCC,CAST,BCC,8.7,128
+327,64,10.1016/j.matdes.2015.05.019,Hf1 Mo1 Nb1 Ti1 Zr1,BCC,S,AC,,8.7,,C,25.0,1719.0,1803.0,10.0,,139.0,,,,,,,,,,50,Microstructure and mechanical properties of refractory MoNbHfZrTi high-entropy alloy,2015,10.1016/j.matdes.2015.05.019,http://dx.doi.org/10.1016/j.matdes.2015.05.019,10.1016/j.matdes.2015.05.019,BCC,CAST,BCC,8.7,128
 328,65,10.1016/j.matlet.2016.03.092,Hf1 Nb1 Si0.5 Ti1 V1,BCC+silicide,M,AC,,8.6,,C,800.0,875.0,,50.0,,,,,,,cold crucible lev melting,,,,,51,Microstructure and mechanical properties of a refractory HfNbTiVSi0.5 high-entropy alloy composite,2016,10.1016/j.matlet.2016.03.092,http://dx.doi.org/10.1016/j.matlet.2016.03.092,10.1016/j.matlet.2016.03.092,other,CAST,BCC+Sec.,7.8,
 329,65,10.1016/j.matlet.2016.03.092,Hf1 Nb1 Si0.5 Ti1 V1,BCC+silicide,M,AC,,8.6,,C,1000.0,240.0,,50.0,,,,,,,cold crucible lev melting,,,,,51,Microstructure and mechanical properties of a refractory HfNbTiVSi0.5 high-entropy alloy composite,2016,10.1016/j.matlet.2016.03.092,http://dx.doi.org/10.1016/j.matlet.2016.03.092,10.1016/j.matlet.2016.03.092,other,CAST,BCC+Sec.,7.8,
 330,65,10.1016/j.matlet.2016.03.092,Hf1 Nb1 Si0.5 Ti1 V1,BCC+silicide,M,AC,,8.6,490.0,C,25.0,1399.0,1608.0,11.0,,,,,,,cold crucible leviation melting = AC,,,,,51,Microstructure and mechanical properties of a refractory HfNbTiVSi0.5 high-entropy alloy composite,2016,10.1016/j.matlet.2016.03.092,http://dx.doi.org/10.1016/j.matlet.2016.03.092,10.1016/j.matlet.2016.03.092,other,CAST,BCC+Sec.,7.8,
@@ -1514,14 +1514,14 @@ Unnamed: 0,REFERENCE: tag,REFERENCE: doi_x,FORMULA,PROPERTY: Type of phases,PROP
 888,J132,10.3390/coatings9010016,C0.111 Co1 Cr1 Fe1 Ni1 W0.111,FCC,S,VHP,0.0189,,475.0,,,,,,,,,,,,,,,7.24 ,,128,Microstructure and Properties of CoCrFeNi(WC) High-Entropy Alloy Coatings Prepared Using Mechanical Alloying and Hot Pressing Sintering,2018,10.3390/coatings9010016,http://dx.doi.org/10.3390/coatings9010016,10.3390/coatings9010016,FCC,POWDER,FCC,8.5,
 889,J132,10.3390/coatings9010016,C0.429 Co1 Cr1 Fe1 Ni1 W0.429,FCC,S,VHP,0.0182,,531.0,,,,,,,,,,,,,,,8.39 ,,128,Microstructure and Properties of CoCrFeNi(WC) High-Entropy Alloy Coatings Prepared Using Mechanical Alloying and Hot Pressing Sintering,2018,10.3390/coatings9010016,http://dx.doi.org/10.3390/coatings9010016,10.3390/coatings9010016,FCC,POWDER,FCC,9.1,
 890,J133,10.5755/j01.ms.25.3.19452,Al0.267 Co1 Cr0.667 Fe0.667 Ni0.667 Ti0.2,FCC + BCC,M,SPS,,,515.0,C,25.0,2012.0,,,17.52 ,,,,,,,,,,,129,Enhancement of Mechanical Properties and Corrosion Resistance of Ultra-Fine Grain Al0.4FeCrCo1.5NiTi0.3 High-Entropy Alloy by MA and SPS Technologies,2019,10.5755/j01.ms.25.3.19452,http://dx.doi.org/10.5755/j01.ms.25.3.19452,10.5755/j01.ms.25.3.19452,other,POWDER,FCC+BCC,7.3,
-891,J134,10.1007/s11661-018-4646-8,Hf1 Nb1 Ta1 Ti1 Zr1,BCC,S,AC,,,,T,25.0,1438.0,1218.0,5.0,,,91.5,,,,Hot Isostatically Pressed,,,,,130,Effect of Cold Deformation and Annealing on the Microstructure and Tensile Properties of a HfNbTaTiZr Refractory High Entropy Alloy,2018,10.1007/s11661-018-4646-8,http://dx.doi.org/10.1007/s11661-018-4646-8,10.1007/s11661-018-4646-8,BCC,CAST,BCC,9.9,107
-892,J134,10.1007/s11661-018-4646-8,Hf1 Nb1 Ta1 Ti1 Zr1,BCC,S,HIP + CR + A,,,,T,25.0,1159.0,1127.0,4.7,,,99.2,,,,these are true strains but it's close enough ,,,,,130,Effect of Cold Deformation and Annealing on the Microstructure and Tensile Properties of a HfNbTaTiZr Refractory High Entropy Alloy,2018,10.1007/s11661-018-4646-8,http://dx.doi.org/10.1007/s11661-018-4646-8,10.1007/s11661-018-4646-8,BCC,OTHER,BCC,9.9,107
-893,J134,10.1007/s11661-018-4646-8,Hf1 Nb1 Ta1 Ti1 Zr1,BCC,S,HIP + CR + A,,,,T,25.0,1134.0,1134.0,7.6,,,109.1,,,,,,,,,130,Effect of Cold Deformation and Annealing on the Microstructure and Tensile Properties of a HfNbTaTiZr Refractory High Entropy Alloy,2018,10.1007/s11661-018-4646-8,http://dx.doi.org/10.1007/s11661-018-4646-8,10.1007/s11661-018-4646-8,BCC,OTHER,BCC,9.9,107
-894,J134,10.1007/s11661-018-4646-8,Hf1 Nb1 Ta1 Ti1 Zr1,BCC,S,HIP + CR + A,,,,T,25.0,1094.0,1066.0,6.0,,,105.3,,,,,,,,,130,Effect of Cold Deformation and Annealing on the Microstructure and Tensile Properties of a HfNbTaTiZr Refractory High Entropy Alloy,2018,10.1007/s11661-018-4646-8,http://dx.doi.org/10.1007/s11661-018-4646-8,10.1007/s11661-018-4646-8,BCC,OTHER,BCC,9.9,107
-895,J134,10.1007/s11661-018-4646-8,Hf1 Nb1 Ta1 Ti1 Zr1,BCC,S,HIP + CR + A,,,,T,25.0,1071.0,964.0,4.6,,,91.6,,,,,,,,,130,Effect of Cold Deformation and Annealing on the Microstructure and Tensile Properties of a HfNbTaTiZr Refractory High Entropy Alloy,2018,10.1007/s11661-018-4646-8,http://dx.doi.org/10.1007/s11661-018-4646-8,10.1007/s11661-018-4646-8,BCC,OTHER,BCC,9.9,107
-896,J134,10.1007/s11661-018-4646-8,Hf1 Nb1 Ta1 Ti1 Zr1,BCC,S,HIP + CR + A,24.4,,,T,25.0,1107.0,977.0,13.9,,,92.6,,,,,,,,,130,Effect of Cold Deformation and Annealing on the Microstructure and Tensile Properties of a HfNbTaTiZr Refractory High Entropy Alloy,2018,10.1007/s11661-018-4646-8,http://dx.doi.org/10.1007/s11661-018-4646-8,10.1007/s11661-018-4646-8,BCC,OTHER,BCC,9.9,107
-897,J134,10.1007/s11661-018-4646-8,Hf1 Nb1 Ta1 Ti1 Zr1,BCC,S,HIP + CR + A,31.3,,,T,25.0,1115.0,830.0,18.5,,,92.6,,,,,,,,,130,Effect of Cold Deformation and Annealing on the Microstructure and Tensile Properties of a HfNbTaTiZr Refractory High Entropy Alloy,2018,10.1007/s11661-018-4646-8,http://dx.doi.org/10.1007/s11661-018-4646-8,10.1007/s11661-018-4646-8,BCC,OTHER,BCC,9.9,107
-898,J134,10.1007/s11661-018-4646-8,Hf1 Nb1 Ta1 Ti1 Zr1,BCC,S,HIP + CR + A,38.4,,,T,25.0,1114.0,935.0,12.2,,,101.3,,,,,,,,,130,Effect of Cold Deformation and Annealing on the Microstructure and Tensile Properties of a HfNbTaTiZr Refractory High Entropy Alloy,2018,10.1007/s11661-018-4646-8,http://dx.doi.org/10.1007/s11661-018-4646-8,10.1007/s11661-018-4646-8,BCC,OTHER,BCC,9.9,107
+891,J134,10.1007/s11661-018-4646-8,Hf1 Nb1 Ta1 Ti1 Zr1,BCC,S,AC,,,,T,25.0,1438.0,,,,,91.5,,,,Hot Isostatically Pressed,,,,,130,Effect of Cold Deformation and Annealing on the Microstructure and Tensile Properties of a HfNbTaTiZr Refractory High Entropy Alloy,2018,10.1007/s11661-018-4646-8,http://dx.doi.org/10.1007/s11661-018-4646-8,10.1007/s11661-018-4646-8,BCC,CAST,BCC,9.9,107
+892,J134,10.1007/s11661-018-4646-8,Hf1 Nb1 Ta1 Ti1 Zr1,BCC,S,HIP + CR + A,,,,T,25.0,1159.0,,,,,99.2,,,,these are true strains elongation and UTS were removed,,,,,130,Effect of Cold Deformation and Annealing on the Microstructure and Tensile Properties of a HfNbTaTiZr Refractory High Entropy Alloy,2018,10.1007/s11661-018-4646-8,http://dx.doi.org/10.1007/s11661-018-4646-8,10.1007/s11661-018-4646-8,BCC,OTHER,BCC,9.9,107
+893,J134,10.1007/s11661-018-4646-8,Hf1 Nb1 Ta1 Ti1 Zr1,BCC,S,HIP + CR + A,,,,T,25.0,1134.0,,,,,109.1,,,,,,,,,130,Effect of Cold Deformation and Annealing on the Microstructure and Tensile Properties of a HfNbTaTiZr Refractory High Entropy Alloy,2018,10.1007/s11661-018-4646-8,http://dx.doi.org/10.1007/s11661-018-4646-8,10.1007/s11661-018-4646-8,BCC,OTHER,BCC,9.9,107
+894,J134,10.1007/s11661-018-4646-8,Hf1 Nb1 Ta1 Ti1 Zr1,BCC,S,HIP + CR + A,,,,T,25.0,1094.0,,,,,105.3,,,,,,,,,130,Effect of Cold Deformation and Annealing on the Microstructure and Tensile Properties of a HfNbTaTiZr Refractory High Entropy Alloy,2018,10.1007/s11661-018-4646-8,http://dx.doi.org/10.1007/s11661-018-4646-8,10.1007/s11661-018-4646-8,BCC,OTHER,BCC,9.9,107
+895,J134,10.1007/s11661-018-4646-8,Hf1 Nb1 Ta1 Ti1 Zr1,BCC,S,HIP + CR + A,,,,T,25.0,1071.0,,,,,91.6,,,,,,,,,130,Effect of Cold Deformation and Annealing on the Microstructure and Tensile Properties of a HfNbTaTiZr Refractory High Entropy Alloy,2018,10.1007/s11661-018-4646-8,http://dx.doi.org/10.1007/s11661-018-4646-8,10.1007/s11661-018-4646-8,BCC,OTHER,BCC,9.9,107
+896,J134,10.1007/s11661-018-4646-8,Hf1 Nb1 Ta1 Ti1 Zr1,BCC,S,HIP + CR + A,24.4,,,T,25.0,1107.0,,,,,92.6,,,,,,,,,130,Effect of Cold Deformation and Annealing on the Microstructure and Tensile Properties of a HfNbTaTiZr Refractory High Entropy Alloy,2018,10.1007/s11661-018-4646-8,http://dx.doi.org/10.1007/s11661-018-4646-8,10.1007/s11661-018-4646-8,BCC,OTHER,BCC,9.9,107
+897,J134,10.1007/s11661-018-4646-8,Hf1 Nb1 Ta1 Ti1 Zr1,BCC,S,HIP + CR + A,31.3,,,T,25.0,1115.0,,,,,92.6,,,,,,,,,130,Effect of Cold Deformation and Annealing on the Microstructure and Tensile Properties of a HfNbTaTiZr Refractory High Entropy Alloy,2018,10.1007/s11661-018-4646-8,http://dx.doi.org/10.1007/s11661-018-4646-8,10.1007/s11661-018-4646-8,BCC,OTHER,BCC,9.9,107
+898,J134,10.1007/s11661-018-4646-8,Hf1 Nb1 Ta1 Ti1 Zr1,BCC,S,HIP + CR + A,38.4,,,T,25.0,1114.0,,,,,101.3,,,,,,,,,130,Effect of Cold Deformation and Annealing on the Microstructure and Tensile Properties of a HfNbTaTiZr Refractory High Entropy Alloy,2018,10.1007/s11661-018-4646-8,http://dx.doi.org/10.1007/s11661-018-4646-8,10.1007/s11661-018-4646-8,BCC,OTHER,BCC,9.9,107
 899,J134,10.1007/s11661-018-4646-8,Hf1 Nb1 Ta1 Ti1 Zr1,BCC,S,HIP + CR + A,50.1,,,,,,,,,,,,,,,,,,,130,Effect of Cold Deformation and Annealing on the Microstructure and Tensile Properties of a HfNbTaTiZr Refractory High Entropy Alloy,2018,10.1007/s11661-018-4646-8,http://dx.doi.org/10.1007/s11661-018-4646-8,10.1007/s11661-018-4646-8,BCC,OTHER,BCC,9.9,107
 900,J134,10.1007/s11661-018-4646-8,Hf1 Nb1 Ta1 Ti1 Zr1,BCC,S,HIP + CR + A,21.9,,,,,,,,,,,,,,,,,,,130,Effect of Cold Deformation and Annealing on the Microstructure and Tensile Properties of a HfNbTaTiZr Refractory High Entropy Alloy,2018,10.1007/s11661-018-4646-8,http://dx.doi.org/10.1007/s11661-018-4646-8,10.1007/s11661-018-4646-8,BCC,OTHER,BCC,9.9,107
 901,J134,10.1007/s11661-018-4646-8,Hf1 Nb1 Ta1 Ti1 Zr1,BCC,S,HIP + CR + A,75.5,,,,,,,,,,,,,,,,,,,130,Effect of Cold Deformation and Annealing on the Microstructure and Tensile Properties of a HfNbTaTiZr Refractory High Entropy Alloy,2018,10.1007/s11661-018-4646-8,http://dx.doi.org/10.1007/s11661-018-4646-8,10.1007/s11661-018-4646-8,BCC,OTHER,BCC,9.9,107
@@ -1531,36 +1531,48 @@ Unnamed: 0,REFERENCE: tag,REFERENCE: doi_x,FORMULA,PROPERTY: Type of phases,PROP
 905,J135-19,10.1179/1743284715Y.0000000032,Al1 Nb1 Ti1 Zr1,,,,,,539.6,C,25.0,1080.0,,5.9,,,,,,,,,,5.79,,133,"Effect of Al on structure and mechanical properties of AlxNbTiVZr (x = 0, 0.5, 1, 1.5) high entropy alloys",2015,10.1179/1743284715Y.0000000032,http://dx.doi.org/10.1179/1743284715y.0000000032,10.1179/1743284715Y.0000000032,other,,,5.7,
 906,J135-24,10.1016/j.actamat.2012.11.032,Nb1 Ti1 V1 Zr1,,,,,,335.0,C,25.0,1105.0,,50.0,,,,,,,,,,6.52,,134,"Low-density, refractory multi-principal element alloys of the Cr–Nb–Ti–V–Zr system: Microstructure and phase analysis",2013,10.1016/j.actamat.2012.11.032,http://dx.doi.org/10.1016/j.actamat.2012.11.032,10.1016/j.actamat.2012.11.032,other,,,6.5,
 907,J135-24,10.1016/j.actamat.2012.11.032,Cr1 Nb1 Ti1 Zr1,,,,,,418.0,C,25.0,1260.0,,6.0,,,,,,,,,,6.67,,134,"Low-density, refractory multi-principal element alloys of the Cr–Nb–Ti–V–Zr system: Microstructure and phase analysis",2013,10.1016/j.actamat.2012.11.032,http://dx.doi.org/10.1016/j.actamat.2012.11.032,10.1016/j.actamat.2012.11.032,other,,,6.6,
-908,new_ref_2,10.1002/maco.201709833,Al1 Cr1 Fe1 Mo0.5 Ni1,BCC+B2,M,AC,,,623.7,C,25.0,1914.1,4023.6,27.9,,,,,,,,,,,,265,"Structures and corrosion properties of the AlCrFeNiMo0.5
-Ti
-                            x
-                        
- high entropy alloys",2017,10.1002/maco.201709833,http://dx.doi.org/10.1002/maco.201709833,10.1002/maco.201709833,other,CAST,BCC+B2,6.8,
-909,new_ref_2,10.1002/maco.201709833,Al1 Cr1 Fe1 Mo0.5 Ni1 Ti0.25,BCC+B2,M,AC,,,712.0,C,25.0,2161.7,3641.5,14.3,,,,,,,,,,,,265,"Structures and corrosion properties of the AlCrFeNiMo0.5
-Ti
-                            x
-                        
- high entropy alloys",2017,10.1002/maco.201709833,http://dx.doi.org/10.1002/maco.201709833,10.1002/maco.201709833,other,CAST,BCC+B2,6.6,
-910,new_ref_2,10.1002/maco.201709833,Al1 Cr1 Fe1 Mo0.5 Ni1 Ti0.4,BCC+B2,M,AC,,,731.9,C,25.0,2185.1,3673.4,14.8,,,,,,,,,,,,265,"Structures and corrosion properties of the AlCrFeNiMo0.5
-Ti
-                            x
-                        
- high entropy alloys",2017,10.1002/maco.201709833,http://dx.doi.org/10.1002/maco.201709833,10.1002/maco.201709833,other,CAST,BCC+B2,6.5,
-911,new_ref_2,10.1002/maco.201709833,Al1 Cr1 Fe1 Mo0.5 Ni1 Ti0.5,BCC+B2,M,AC,,,751.7,C,25.0,2228.7,3166.2,10.4,,,,,,,,,,,,265,"Structures and corrosion properties of the AlCrFeNiMo0.5
-Ti
-                            x
-                        
- high entropy alloys",2017,10.1002/maco.201709833,http://dx.doi.org/10.1002/maco.201709833,10.1002/maco.201709833,other,CAST,BCC+B2,6.5,
-912,new_ref_2,10.1002/maco.201709833,Al1 Cr1 Fe1 Mo0.5 Ni1 Ti0.6,BCC+B2,M,AC,,,756.1,C,25.0,1314.5,1314.5,,,,,,,,,,,,,265,"Structures and corrosion properties of the AlCrFeNiMo0.5
-Ti
-                            x
-                        
- high entropy alloys",2017,10.1002/maco.201709833,http://dx.doi.org/10.1002/maco.201709833,10.1002/maco.201709833,other,CAST,BCC+B2,6.4,
-913,new_ref_2,10.1002/maco.201709833,Al1 Cr1 Fe1 Mo0.5 Ni1 Ti0.75,BCC+B2,M,AC,,,766.2,C,25.0,618.8,618.8,,,,,,,,,,,,,265,"Structures and corrosion properties of the AlCrFeNiMo0.5
-Ti
-                            x
-                        
- high entropy alloys",2017,10.1002/maco.201709833,http://dx.doi.org/10.1002/maco.201709833,10.1002/maco.201709833,other,CAST,BCC+B2,6.4,
+908,new_ref_2,10.1088/0256-307X/35/3/036102,Al1 Cr1 Fe1 Mo0.5 Ni1,BCC+B2,M,AC,,,623.7,C,25.0,1914.1,4023.6,27.9,,,,,,,,,,,,265,"Microstructures and Mechanical Properties of AlCrFeNiMo
+                    0.5
+                    Ti
+                    
+                      x
+                    
+                    High Entropy Alloys",2018,10.1088/0256-307X/35/3/036102,http://dx.doi.org/10.1088/0256-307x/35/3/036102,10.1088/0256-307X/35/3/036102,other,CAST,BCC+B2,6.8,
+909,new_ref_2,10.1088/0256-307X/35/3/036102,Al1 Cr1 Fe1 Mo0.5 Ni1 Ti0.25,BCC+B2,M,AC,,,712.0,C,25.0,2161.7,3641.5,14.3,,,,,,,,,,,,265,"Microstructures and Mechanical Properties of AlCrFeNiMo
+                    0.5
+                    Ti
+                    
+                      x
+                    
+                    High Entropy Alloys",2018,10.1088/0256-307X/35/3/036102,http://dx.doi.org/10.1088/0256-307x/35/3/036102,10.1088/0256-307X/35/3/036102,other,CAST,BCC+B2,6.6,
+910,new_ref_2,10.1088/0256-307X/35/3/036102,Al1 Cr1 Fe1 Mo0.5 Ni1 Ti0.4,BCC+B2,M,AC,,,731.9,C,25.0,2185.1,3673.4,14.8,,,,,,,,,,,,265,"Microstructures and Mechanical Properties of AlCrFeNiMo
+                    0.5
+                    Ti
+                    
+                      x
+                    
+                    High Entropy Alloys",2018,10.1088/0256-307X/35/3/036102,http://dx.doi.org/10.1088/0256-307x/35/3/036102,10.1088/0256-307X/35/3/036102,other,CAST,BCC+B2,6.5,
+911,new_ref_2,10.1088/0256-307X/35/3/036102,Al1 Cr1 Fe1 Mo0.5 Ni1 Ti0.5,BCC+B2,M,AC,,,751.7,C,25.0,2228.7,3166.2,10.4,,,,,,,,,,,,265,"Microstructures and Mechanical Properties of AlCrFeNiMo
+                    0.5
+                    Ti
+                    
+                      x
+                    
+                    High Entropy Alloys",2018,10.1088/0256-307X/35/3/036102,http://dx.doi.org/10.1088/0256-307x/35/3/036102,10.1088/0256-307X/35/3/036102,other,CAST,BCC+B2,6.5,
+912,new_ref_2,10.1088/0256-307X/35/3/036102,Al1 Cr1 Fe1 Mo0.5 Ni1 Ti0.6,BCC+B2,M,AC,,,756.1,C,25.0,1314.5,1314.5,,,,,,,,,,,,,265,"Microstructures and Mechanical Properties of AlCrFeNiMo
+                    0.5
+                    Ti
+                    
+                      x
+                    
+                    High Entropy Alloys",2018,10.1088/0256-307X/35/3/036102,http://dx.doi.org/10.1088/0256-307x/35/3/036102,10.1088/0256-307X/35/3/036102,other,CAST,BCC+B2,6.4,
+913,new_ref_2,10.1088/0256-307X/35/3/036102,Al1 Cr1 Fe1 Mo0.5 Ni1 Ti0.75,BCC+B2,M,AC,,,766.2,C,25.0,618.8,618.8,,,,,,,,,,,,,265,"Microstructures and Mechanical Properties of AlCrFeNiMo
+                    0.5
+                    Ti
+                    
+                      x
+                    
+                    High Entropy Alloys",2018,10.1088/0256-307X/35/3/036102,http://dx.doi.org/10.1088/0256-307x/35/3/036102,10.1088/0256-307X/35/3/036102,other,CAST,BCC+B2,6.4,
 914,new_ref_4,10.1016/j.matdes.2018.06.003,Al1 Cr1 Mo1 Nb1,Laves (C14)+A15,M,A,,,,,,,,,,,,,,,,,,,,266,"Phase equilibria, mechanical properties and design of quaternary refractory high entropy alloys",2018,10.1016/j.matdes.2018.06.003,http://dx.doi.org/10.1016/j.matdes.2018.06.003,10.1016/j.matdes.2018.06.003,other,ANNEAL,Other,7.2,
 915,new_ref_4,10.1016/j.matdes.2018.06.003,Al1 Cr1 Mo1 Nb1,Laves (C14)+A15,M,AC,,,,,,,,,,,,,,,,,,,,266,"Phase equilibria, mechanical properties and design of quaternary refractory high entropy alloys",2018,10.1016/j.matdes.2018.06.003,http://dx.doi.org/10.1016/j.matdes.2018.06.003,10.1016/j.matdes.2018.06.003,other,CAST,Other,7.2,
 916,new_ref_4,10.1016/j.matdes.2018.06.003,Al1 Hf1 Nb1 Ti1,B2,S,A,,,,,,,,,,,,,,,,,,,,266,"Phase equilibria, mechanical properties and design of quaternary refractory high entropy alloys",2018,10.1016/j.matdes.2018.06.003,http://dx.doi.org/10.1016/j.matdes.2018.06.003,10.1016/j.matdes.2018.06.003,other,ANNEAL,B2,7.7,
