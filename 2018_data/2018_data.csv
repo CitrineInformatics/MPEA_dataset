@@ -326,7 +326,7 @@ REFERENCE: tag,REFERENCE: doi,FORMULA,PROPERTY: Type of phases,PROPERTY: Single/
 64,10.1016/j.matdes.2015.05.019,HfMoNbTiZr,BCC,S,A,,8.7,,C,800,825,1095,50,,,,,,,
 64,10.1016/j.matdes.2015.05.019,HfMoNbTiZr,BCC,S,A,,8.7,,C,1000,635,654,50,,,,,,,
 64,10.1016/j.matdes.2015.05.019,HfMoNbTiZr,BCC,S,A,,8.7,,C,1200,187,194,50,,,,,,,
-64,10.1016/j.matdes.2015.05.019,HfMoNbZrTi,BCC,S,AC,,8.7,,C,25,1803,1719,10,,139,,,,,
+64,10.1016/j.matdes.2015.05.019,HfMoNbZrTi,BCC,S,AC,,8.7,,C,25,1719,1803,10,,139,,,,,
 65,10.1016/j.matlet.2016.03.092,HfNbSi0.5TiV,BCC+silicide,M,AC,,8.6,,C,800,875,,50,,,,,,,cold crucible lev melting
 65,10.1016/j.matlet.2016.03.092,HfNbSi0.5TiV,BCC+silicide,M,AC,,8.6,,C,1000,240,,50,,,,,,,cold crucible lev melting
 65,10.1016/j.matlet.2016.03.092,HfNbSi0.5TiV,BCC+silicide,M,AC,,8.6,490,C,25,1399,1608,11,,,,,,,cold crucible leviation melting = AC

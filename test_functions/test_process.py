@@ -45,6 +45,7 @@ def test_calculate_density():
     assert calculate_density('Fe') == 7.9
     assert calculate_density('HfNbTa') == 12.9
     assert calculate_density('CoFeNiSi0.25') == 7.7
+    assert calculate_density('Al2CoCrCuFeNi') == 6.3
 
     
 def test_calculate_youngs_modulus():
