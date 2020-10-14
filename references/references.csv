@@ -136,7 +136,7 @@ IDENTIFIER: Reference ID,REFERENCE: title,REFERENCE: year,REFERENCE: doi,REFEREN
 135,Fatigue behavior of CoCrFeMnNi high-entropy alloy under fully reversed cyclic deformation,2019,10.1016/j.jmst.2018.09.068,http://dx.doi.org/10.1016/j.jmst.2018.09.068
 136,Microstructure and mechanical properties of FeCoCrNiMnAlx high-entropy alloys prepared by mechanical alloying and hot-pressed sintering,2019,10.1016/j.jallcom.2018.10.168,http://dx.doi.org/10.1016/j.jallcom.2018.10.168
 137,Excellent ductility and serration feature of metastable CoCrFeNi high-entropy alloy at extremely low temperatures,2018,10.1007/s40843-018-9373-y,http://dx.doi.org/10.1007/s40843-018-9373-y
-138,"Microstructural evolution, electrochemical and corrosion properties of Al CoCrFeNiTi  high entropy alloys",2019,10.1016/j.matdes.2019.107698,http://dx.doi.org/10.1016/j.matdes.2019.107698
+138,"Microstructural evolution, electrochemical and corrosion properties of Al CoCrFeNiTihigh entropy alloys",2019,10.1016/j.matdes.2019.107698,http://dx.doi.org/10.1016/j.matdes.2019.107698
 139,Strengthening FCC-CoCrFeMnNi high entropy alloys by Mo addition,2019,10.1016/j.jmst.2018.10.009,http://dx.doi.org/10.1016/j.jmst.2018.10.009
 140,Fatigue behavior of ultrafine grained triplex Al0.3CoCrFeNi high entropy alloy,2019,10.1016/j.scriptamat.2018.08.048,http://dx.doi.org/10.1016/j.scriptamat.2018.08.048
 141,Tensile yield strength of a single bulk Al0.3CoCrFeNi high entropy alloy can be tuned from 160 MPa to 1800 MPa,2019,10.1016/j.scriptamat.2018.10.023,http://dx.doi.org/10.1016/j.scriptamat.2018.10.023
@@ -175,7 +175,7 @@ IDENTIFIER: Reference ID,REFERENCE: title,REFERENCE: year,REFERENCE: doi,REFEREN
 174,A TRIP-assisted dual-phase high-entropy alloy: Grain size and phase fraction effects on deformation behavior,2017,10.1016/j.actamat.2017.03.069,http://dx.doi.org/10.1016/j.actamat.2017.03.069
 175,High-Temperature Tensile Strength of Al10Co25Cr8Fe15Ni36Ti6 Compositionally Complex Alloy (High-Entropy Alloy),2015,10.1007/s11837-015-1484-7,http://dx.doi.org/10.1007/s11837-015-1484-7
 176,Enhanced strength and ductility in a friction stir processing engineered dual phase high entropy alloy,2017,10.1038/s41598-017-16509-9,http://dx.doi.org/10.1038/s41598-017-16509-9
-177,Toward privacy-preserving JPEG image retrieval,2017,10.1117/1.JEI.26.4.043022,http://dx.doi.org/10.1117/1.jei.26.4.043022
+177,Controllable fabrication of a carbide-containing FeCoCrNiMn high-entropy alloy: microstructure and mechanical properties,2017,10.1080/02670836.2017.1342367,http://dx.doi.org/10.1080/02670836.2017.1342367
 178,Optimizing the coupled effects of Hall-Petch and precipitation strengthening in a Al 0.3 CoCrFeNi high entropy alloy,2017,10.1016/j.matdes.2017.02.072,http://dx.doi.org/10.1016/j.matdes.2017.02.072
 179,Stability of ordered L12 and B2 precipitates in face centered cubic based high entropy alloys - Al0.3CoFeCrNi and Al0.3CuFeCrNi2,2016,10.1016/j.scriptamat.2016.06.019,http://dx.doi.org/10.1016/j.scriptamat.2016.06.019
 180,Tensile properties of an AlCrCuNiFeCo high-entropy alloy in as-cast and wrought conditions,2012,10.1016/j.msea.2011.11.045,http://dx.doi.org/10.1016/j.msea.2011.11.045
@@ -200,9 +200,7 @@ IDENTIFIER: Reference ID,REFERENCE: title,REFERENCE: year,REFERENCE: doi,REFEREN
 199,Precipitation strengthening of ductile Cr 15 Fe 20 Co 35 Ni 20 Mo 10 alloys,2017,10.1016/j.scriptamat.2017.05.019,http://dx.doi.org/10.1016/j.scriptamat.2017.05.019
 200,Microstructure and Tensile Behavior of Al8Co17Cr17Cu8Fe17Ni33 (at.%) High-Entropy Alloy,2013,10.1007/s11837-013-0756-3,http://dx.doi.org/10.1007/s11837-013-0756-3
 201,"Influence of W, Mo and Ti trace elements on the phase separation in Al8Co17Cr17Cu8Fe17Ni33 based high entropy alloy",2015,10.1016/j.ultramic.2015.06.009,http://dx.doi.org/10.1016/j.ultramic.2015.06.009
-202,"Effect of heat treatment on the structure and hardness of high-entropy alloys CoCrFeNiMnV
-                                x
-                             (x = 0.25, 0.5, 0.75, 1)",2017,10.1134/S0031918X17060084,http://dx.doi.org/10.1134/s0031918x17060084
+202,"Effect of heat treatment on the structure and hardness of high-entropy alloys CoCrFeNiMnV x  (x = 0.25, 0.5, 0.75, 1)",2017,10.1134/S0031918X17060084,http://dx.doi.org/10.1134/s0031918x17060084
 203,Grain growth and Hall-Petch relationship in a refractory HfNbTaZrTi high-entropy alloy,2019,10.1016/j.jallcom.2019.04.291,http://dx.doi.org/10.1016/j.jallcom.2019.04.291
 204,Effects of heat treatment on the microstructure and properties of cold-forged CoNiFe medium entropy alloy,2019,10.1016/j.intermet.2019.106477,http://dx.doi.org/10.1016/j.intermet.2019.106477
 205,Superb cryogenic strength of equiatomic CrCoNi derived from gradient hierarchical microstructure,2019,10.1016/j.jmst.2018.12.002,http://dx.doi.org/10.1016/j.jmst.2018.12.002
@@ -232,7 +230,7 @@ IDENTIFIER: Reference ID,REFERENCE: title,REFERENCE: year,REFERENCE: doi,REFEREN
 229,Effect of heat treatment on the phase evolution and mechanical properties of atomized AlCoCrFeNi high-entropy alloy powders,2019,10.1016/j.jallcom.2019.06.301,http://dx.doi.org/10.1016/j.jallcom.2019.06.301
 230,Microstructures and mechanical properties of HfNbTaTiZrW and HfNbTaTiZrMoW refractory high-entropy alloys,2019,10.1016/j.jallcom.2019.06.138,http://dx.doi.org/10.1016/j.jallcom.2019.06.138
 231,Microstructure and mechanical properties of NbZrTi and NbHfZrTi alloys,2019,10.1007/s12598-019-01310-6,http://dx.doi.org/10.1007/s12598-019-01310-6
-232,"Microstructure, mechanical properties and corrosion resistance of CoCrFeNiW  (x = 0, 0.2, 0.5) high entropy alloys",2019,10.1016/j.intermet.2019.106550,http://dx.doi.org/10.1016/j.intermet.2019.106550
+232,"Microstructure, mechanical properties and corrosion resistance of CoCrFeNiW(x = 0, 0.2, 0.5) high entropy alloys",2019,10.1016/j.intermet.2019.106550,http://dx.doi.org/10.1016/j.intermet.2019.106550
 233,"Microstructure, Mechanical Properties, and Corrosion Behavior of MoNbFeCrV, MoNbFeCrTi, and MoNbFeVTi High-Entropy Alloys",2019,10.1007/s40195-019-00935-x,http://dx.doi.org/10.1007/s40195-019-00935-x
 234,Precipitation behavior and its impact on mechanical properties in an aged carbon-containing Al0.3Cu0.5CrFeNi2 high-entropy alloy,2019,10.1016/j.matchar.2019.109792,http://dx.doi.org/10.1016/j.matchar.2019.109792
 235,Temperature dependence of elastic moduli in a refractory HfNbTaTiZr high-entropy alloy,2019,10.1016/j.jallcom.2019.05.322,http://dx.doi.org/10.1016/j.jallcom.2019.05.322
@@ -264,12 +262,6 @@ IDENTIFIER: Reference ID,REFERENCE: title,REFERENCE: year,REFERENCE: doi,REFEREN
 261,Altered microstructural evolution and mechanical properties of CoCrFeNiMo0.15 high-entropy alloy by cryogenic rolling,2019,10.1016/j.msea.2019.05.078,http://dx.doi.org/10.1016/j.msea.2019.05.078
 262,Microstructure and properties of a Cu–Ni–Si–Co–Cr alloy with high strength and high conductivity,2019,10.1016/j.msea.2019.05.003,http://dx.doi.org/10.1016/j.msea.2019.05.003
 263,Materials informatics for the screening of multi-principal elements and high-entropy alloys,2019,10.1038/s41467-019-10533-1,http://dx.doi.org/10.1038/s41467-019-10533-1
-264,Composition and phase structure dependence of mechanical and magnetic properties for AlCoCuFeNi  high entropy alloys,2019,10.1016/j.jmst.2018.12.014,http://dx.doi.org/10.1016/j.jmst.2018.12.014
-265,"Microstructures and Mechanical Properties of AlCrFeNiMo
-                    0.5
-                    Ti
-                    
-                      x
-                    
-                    High Entropy Alloys",2018,10.1088/0256-307X/35/3/036102,http://dx.doi.org/10.1088/0256-307x/35/3/036102
+264,Composition and phase structure dependence of mechanical and magnetic properties for AlCoCuFeNihigh entropy alloys,2019,10.1016/j.jmst.2018.12.014,http://dx.doi.org/10.1016/j.jmst.2018.12.014
+265,Microstructures and Mechanical Properties of AlCrFeNiMo 0.5 Ti  x  High Entropy Alloys,2018,10.1088/0256-307X/35/3/036102,http://dx.doi.org/10.1088/0256-307x/35/3/036102
 266,"Phase equilibria, mechanical properties and design of quaternary refractory high entropy alloys",2018,10.1016/j.matdes.2018.06.003,http://dx.doi.org/10.1016/j.matdes.2018.06.003
