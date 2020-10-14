@@ -13,6 +13,7 @@ from utils import *
 def test_categorize_phases():
     assert categorize_phases({'PROPERTY: Type of phases':'BCC'}) =='BCC'
     assert categorize_phases({'PROPERTY: Type of phases':'BCC+FCC'}) =='other'
+
     
     
 def test_remove_uncertainty():
