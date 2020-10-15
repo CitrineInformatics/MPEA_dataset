@@ -77,10 +77,10 @@ J4-79,10.1016/j.actamat.2016.06.063,Co23Cr23Fe23Ni23Mo7,79,10.1016/j.actamat.201
 J4-79,10.1016/j.actamat.2016.06.063,Co23Cr23Fe23Ni23Mo7,79,10.1016/j.actamat.2016.06.063,FCC + $\mu$ + $\sigma$,M,CR + A,1 - 5,,,T,25,815.5,1186.5,18.9,,,,,,not the actual grain size. precipitate sizes currently recorded,
 J4-79,10.1016/j.actamat.2016.06.063,Co23Cr23Fe23Ni23Mo7,79,10.1016/j.actamat.2016.06.063,FCC + $\mu$ + $\sigma$,M,CR + A,0.2 - 6,,,T,25,646.7,1042,32.5,,,,,,,
 J4-79,10.1016/j.actamat.2016.06.063,Co23Cr23Fe23Ni23Mo7,79,10.1016/j.actamat.2016.06.063,FCC + $\mu$ + $\sigma$,M,CR + A,0.2 - 3,,,T,25,683.7,1066.6,30.4,,,,,,,
-J4-38,10.1117/1.JEI.26.4.043022,CoCrFeMnNi,38,10.1117/1.JEI.26.4.043022,FCC,,HF+A,13,,,T,25,243,558,50,,,,,,processing isn't technically as cast because it's forged. so hr ,"Further going back to the original paper, i disagree with their noted elongation. Plus the paper switched two of these (https://www.tandfonline.com/doi/full/10.1080/02670836.2017.1342367?scroll=top&needAccess=true) (ef = 58)"
-J4-38,10.1117/1.JEI.26.4.043022,(CoCrFeMnNi)98C2,38,10.1117/1.JEI.26.4.043022,FCC + Carbide,,HF+A,8,,,T,25,446,723,15,,,,,,processing isn't technically as cast because it's forged. so hr ,"Further going back to the original paper, i disagree with their noted elongation Plus the paper switched two of these (https://www.tandfonline.com/doi/full/10.1080/02670836.2017.1342367?scroll=top&needAccess=true) (ef = 15.5)"
-J4-38,10.1117/1.JEI.26.4.043022,CoCrFeMnNi,38,10.1117/1.JEI.26.4.043022,FCC,,HF+CR+A,7,,,T,25,249,621,41,,,,,,,ef = 47
-J4-38,10.1117/1.JEI.26.4.043022,(CoCrFeMnNi)98C2,38,10.1117/1.JEI.26.4.043022,FCC + Carbide,,HF+CR+A,4,,,T,25,581,857,28,,,,,,fixed grain size ,ef = 35
+J4-38,10.1080/02670836.2017.1342367,CoCrFeMnNi,38,10.1080/02670836.2017.1342367,FCC,,HF+A,13,,,T,25,243,558,50,,,,,,processing isn't technically as cast because it's forged. so hr ,"Further going back to the original paper, i disagree with their noted elongation. Plus the paper switched two of these (https://www.tandfonline.com/doi/full/10.1080/02670836.2017.1342367?scroll=top&needAccess=true) (ef = 58)"
+J4-38,10.1080/02670836.2017.1342367,(CoCrFeMnNi)98C2,38,10.1080/02670836.2017.1342367,FCC + Carbide,,HF+A,8,,,T,25,446,723,15,,,,,,processing isn't technically as cast because it's forged. so hr ,"Further going back to the original paper, i disagree with their noted elongation Plus the paper switched two of these (https://www.tandfonline.com/doi/full/10.1080/02670836.2017.1342367?scroll=top&needAccess=true) (ef = 15.5)"
+J4-38,10.1080/02670836.2017.1342367,CoCrFeMnNi,38,10.1080/02670836.2017.1342367,FCC,,HF+CR+A,7,,,T,25,249,621,41,,,,,,,ef = 47
+J4-38,10.1080/02670836.2017.1342367,(CoCrFeMnNi)98C2,38,10.1080/02670836.2017.1342367,FCC + Carbide,,HF+CR+A,4,,,T,25,581,857,28,,,,,,fixed grain size ,ef = 35
 J4-78,10.1016/j.actamat.2015.08.076,CoCrFeNi,78,10.1016/j.actamat.2015.08.076,FCC,S,A,,,,T,25,190,453,70,,,,,,,
 J4-78,10.1016/j.actamat.2015.08.076,Al4Co24Cr24Fe24Ni24Ti2,78,10.1016/j.actamat.2015.08.076,FCC,S,A,289.7,,,T,25,210,503,70,,,,,,added grain size ,
 J4-78,10.1016/j.actamat.2015.08.076,Al4Co24Cr24Fe24Ni24Ti2,78,10.1016/j.actamat.2015.08.076,FCC + L12 + L21,M,CR + A,15.7,,,T,25,645,1094,39,,,,,,added grain size ,
@@ -907,10 +907,10 @@ J135-18,10.1016/j.matlet.2015.08.099,AlNbTiVZr0.5,,,,,,,5.64,,C,25,1480,,>50,,,,
 J135-19,10.1179/1743284715Y.0000000032,AlNbTiZr,,,,,,,5.79,539.6,C,25,1080,,5.9,,,,,,,
 J135-24,10.1016/j.actamat.2012.11.032,NbTiVZr,,,,,,,6.52,335,C,25,1105,,>50,,,,,,,
 J135-24,10.1016/j.actamat.2012.11.032,CrNbTiZr,,,,,,,6.67,418,C,25,1260,,6,,,,,,,
-new_ref_2,10.1088/0256-307X/35/3/036102,AlCrFeNiMo0.5,,,BCC+B2,M,AC,,,623.7,C,25,1914.1,4023.6,27.9,,,,,,,
-new_ref_2,10.1088/0256-307X/35/3/036102,AlCrFeNiMo0.5Ti0.25,,,BCC+B2,M,AC,,,712,C,25,2161.7,3641.5,14.3,,,,,,,
-new_ref_2,10.1088/0256-307X/35/3/036102,AlCrFeNiMo0.5Ti0.4,,,BCC+B2,M,AC,,,731.9,C,25,2185.1,3673.4,14.8,,,,,,,
-new_ref_2,10.1088/0256-307X/35/3/036102,AlCrFeNiMo0.5Ti0.5,,,BCC+B2,M,AC,,,751.7,C,25,2228.7,3166.2,10.4,,,,,,,
+new_ref_2,10.1088/0256-307X/35/3/036102,AlCrFeNiMo0.5,,,BCC+B2,M,AC,,,623.7,C,25,1914.1,4023.6,,27.9,,,,,,
+new_ref_2,10.1088/0256-307X/35/3/036102,AlCrFeNiMo0.5Ti0.25,,,BCC+B2,M,AC,,,712,C,25,2161.7,3641.5,,14.3,,,,,,
+new_ref_2,10.1088/0256-307X/35/3/036102,AlCrFeNiMo0.5Ti0.4,,,BCC+B2,M,AC,,,731.9,C,25,2185.1,3673.4,,14.8,,,,,,
+new_ref_2,10.1088/0256-307X/35/3/036102,AlCrFeNiMo0.5Ti0.5,,,BCC+B2,M,AC,,,751.7,C,25,2228.7,3166.2,,10.4,,,,,,
 new_ref_2,10.1088/0256-307X/35/3/036102,AlCrFeNiMo0.5Ti0.6,,,BCC+B2,M,AC,,,756.1,C,25,1314.5,1314.5,,,,,,,,
 new_ref_2,10.1088/0256-307X/35/3/036102,AlCrFeNiMo0.5Ti0.75,,,BCC+B2,M,AC,,,766.2,C,25,618.8,618.8,,,,,,,,
 new_ref_4,10.1016/j.matdes.2018.06.003,AlCrMoNb,,,Laves (C14)+A15,M,A,,,,,,,,,,,,,,,
