@@ -1,0 +1,33 @@
+,FORMULA,PROPERTY: Exp. Density (g/cm$^3$)_std
+9,Co1 Cr1 Cu1 Ni1 Zn1,1
+0,Ag1 Al1 Nb1 Ti1 Zn1,0
+17,Hf1 Mo0.5 Nb1 Ti1 V0.5,0
+30,Nb1 Ta1 Ti1 V1 Zr1,0
+29,Nb1 Ta0.3 Ti1 Zr1,0
+28,Nb1 Re0.3 Ti1 Zr1,0
+27,Mo1 Nb1 Ti1 V1 Zr1,0
+26,Mo1 Nb1 Ti1,0
+25,Mo1 Nb1 Ta1 W1,0
+24,Mo1 Nb1 Ta1 V1 W1,0
+23,Mo1 Nb1 Ta1 Ti1 W1,0
+22,Mo1 Nb1 Ta1 Ti1 V1 W1,0
+21,Hf1 Nb1 Ta1 Ti1 Zr1,0
+20,Hf1 Mo1 Ta1 Ti1 Zr1,0
+19,Hf1 Mo1 Nb1 Ti1 Zr1,0
+18,Hf1 Mo1 Nb1 Ta1 Ti1 Zr1,0
+16,Hf1 Mo0.5 Nb1 Si0.7 Ti1 V0.5,0
+1,Al0.24 Nb1 Ti1 V1 Zr1,0
+15,Hf1 Mo0.5 Nb1 Si0.5 Ti1 V0.5,0
+14,Hf1 Mo0.5 Nb1 Si0.3 Ti1 V0.5,0
+13,Cr1 Nb0.333 Ti0.333 Zr0.333,0
+12,Cr1 Mo0.5 Nb1 Ta0.5 Ti1 Zr1,0
+11,Co1 Cr1 Fe1 Ni1 Ti0.2,0
+10,Co1 Cr1 Fe1 Mn1 Ni1,0
+8,C0.1 Co1 Cr1 Fe1 Mn1 Ni1 Ti0.1,0
+7,Al1 Nb1 Ti1 Zr1,0
+6,Al1 Mo1 Nb1 Ti1,0
+5,Al1 Mo0.5 Nb1 Ta0.5 Ti1 Zr1,0
+4,Al1 Cr1 Mo1 Ti1,0
+3,Al1 Cr1 Mo1 Nb1 Ti1,0
+2,Al0.4 Hf0.6 Nb1 Ta1 Ti1 Zr1,0
+31,Nb1 Ti1 Zr1,0
