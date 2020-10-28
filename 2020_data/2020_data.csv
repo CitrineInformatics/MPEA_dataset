@@ -1,0 +1,5 @@
+REFERENCE: tag,REFERENCE: doi,FORMULA,Internal Reference #,Original DOI,PROPERTY: Type of phases,PROPERTY: Single/Multiphase,PROPERTY: synthesis method,PROPERTY: grain size ($\mu$m),PROPERTY: Exp. Density (g/cm$^3$),PROPERTY: HV,PROPERTY: Type of test,PROPERTY: Test temperature ($^\circ$C),PROPERTY: YS (MPa),PROPERTY: UTS (MPa),PROPERTY: Elongation (%),PROPERTY: Elongation plastic (%),PROPERTY: Exp. Young modulus (GPa),PROPERTY: O content (wppm),PROPERTY: N content (wppm),PROPERTY: C content (wppm),REFERENCE: comment
+2020-1,10.1016/j.ijrmhm.2020.105322,Al15Hf15Nb30Ti40,,,B2,single,A,,,,C,25,830,,50,,,,,,
+2020-1,10.1016/j.ijrmhm.2020.105322,Al15Hf15Nb30Ti40,,,BCC + sec,multiphase,A,,,,C,25,1250,,16,,,,,,
+2020-1,10.1016/j.ijrmhm.2020.105322,Al15Hf15Nb30Ti40,,,B2,single,A,,,,C,600,635,,50,,,,,,
+2020-1,10.1016/j.ijrmhm.2020.105322,Al15Hf15Nb30Ti40,,,BCC + sec,multiphase,A,,,,C,600,920,,50,,,,,,
