@@ -749,8 +749,8 @@
 133,J4-42,10.1016/j.msea.2011.11.045,AlCoCrCuFeNi,BCC + FCC1 + FCC2 + $\sigma$,M,HF,,,,T,700.0,63,91,63,,,,,,,tests were all done at 700C; changed processing from AC to F,42.0,10.1016/j.msea.2011.11.045,,,180
 134,J4-114,10.1016/j.jallcom.2009.10.088,Al9Co18Cr18Cu18Fe18Ni18,FCC,S,CR,,,,T,700.0,180,185,5,,,,,,,tests were all done at 700C ,114.0,10.1016/j.jallcom.2009.10.088,,,173
 135,J4-114,10.1016/j.jallcom.2009.10.088,Al9Co18Cr18Cu18Fe18Ni18,FCC1 + FCC2,M,CR + A,,,,T,700.0,160,180,12,,,,,,,tests were all done at 700C ,114.0,10.1016/j.jallcom.2009.10.088,,,173
-136,J5,10.1016/j.actamat.2018.11.049,FeCoNiCrTi0.2,FCC,S,CR + A,51,,,T,25.0,700,1240,36,,,,,,,"missed the ductility values, incorrect processing (from AC to CR + A), grain size to 51",,,4.8,,214
-137,J5,10.1016/j.actamat.2018.11.049,FeCoNiCrTi0.2,FCC,S,CR + A,,,,T,-196.0,860,1580,46,,,,,,,"missed the ductility values, incorrect processing (from AC to CR + A), grain size to 51",,,4.8,,214
+136,J5,10.1016/j.actamat.2018.11.049,FeCoNiCrTi0.2,FCC,S,CR + A,51,,,T,25.0,700,1240,36,,,,,,,"missed the ductility values, incorrect processing (from AC to CR + A), grain size to 51",,,,,214
+137,J5,10.1016/j.actamat.2018.11.049,FeCoNiCrTi0.2,FCC,S,CR + A,,,,T,-196.0,860,1580,46,,,,,,,"missed the ductility values, incorrect processing (from AC to CR + A), grain size to 51",,,,,214
 138,J6,10.1016/j.actamat.2018.12.012,Al0.1CoCrFeNi,FCC,S,CR,20,,,T,25.0,1198 $\pm$ 27,,1.5 $\pm$ 0.3,,,,,,,,,,,,222
 139,J6,10.1016/j.actamat.2018.12.012,Al0.1CoCrFeNi,FCC,S,CR + A,20,,,T,25.0,1403 $\pm$ 20,,1.2 $\pm$ 0.1,,,,,,,"For future reference, any repeated formulat that includes Annealing (A) as synthesis method is assumed to have varying annealing duration and temperatures as the experimental variable",,,,,222
 140,J6,10.1016/j.actamat.2018.12.012,Al0.1CoCrFeNi,FCC,S,CR + A,20,,,T,25.0,711 $\pm$ 40,928 $\pm$ 35,30.3 $\pm$ 3.7,,,,,,,,,,,,222
@@ -1327,8 +1327,8 @@
 711,J90-32,10.1016/j.intermet.2012.03.005,CoCrFeNiAl0.5,FCC + BCC,M,,,,250,,,,,,,,,,,,come from a variety of references,32.0,10.1016/j.intermet.2012.03.005,,,255
 712,J90-32,10.1016/j.intermet.2012.03.005,CoCrFeNiAl,BCC,S,,,,500,,,,,,,,,,,,,32.0,10.1016/j.intermet.2012.03.005,,,255
 713,J90-32,10.1016/j.intermet.2012.03.005,CoCrFeNiAl2,BCC,S,,,,733,,,,,,,,,,,,,32.0,10.1016/j.intermet.2012.03.005,,,255
-714,J90-35,10.1016/j.msea.2013.12.096,CoFeNiAl0.5Ti0.5,FCC,S,,,,733,,,,,,,,,,,,,35.0,10.1016/j.msea.2013.12.096,,,256
-715,J90-35,10.1016/j.msea.2013.12.096,CrCoFeNiAl0.5Ti0.5,FCC + BCC,M,,,,640,,,,,,,,,,,,,35.0,10.1016/j.msea.2013.12.096,,,256
+714,J90-35,10.1016/j.msea.2013.12.096,CoFeNiAl0.5Ti0.5,FCC + BCC,M,,,,733,,,,,,,,,,,,,35.0,10.1016/j.msea.2013.12.096,,,256
+715,J90-35,10.1016/j.msea.2013.12.096,CrCoFeNiAl0.5Ti0.5,FCC,S,,,,640,,,,,,,,,,,,,35.0,10.1016/j.msea.2013.12.096,,,256
 716,J90-36,10.4028/www.scientific.net/MSF.846.13,Al0.5FeCrNiMnCoTa0,,,,,,,,,,,,,,,,,,,36.0,10.4028/www.scientific.net/MSF.846.13,,,257
 717,J90-36,10.4028/www.scientific.net/MSF.846.13,Al0.5FeCrNiMnCoTa0.2,FCC + BCC + laves,M,,,,385,,,,,,,,,,,,,36.0,10.4028/www.scientific.net/MSF.846.13,,,257
 718,J90-36,10.4028/www.scientific.net/MSF.846.13,Al0.5FeCrNiMnCoTa0.4,FCC + BCC + laves,M,,,,486,,,,,,,,,,,,,36.0,10.4028/www.scientific.net/MSF.846.13,,,257
@@ -1440,10 +1440,10 @@
 824,J121,10.1007/s11665-018-3837-1,(CoCrCuFeNi)92V8,FCC + Cu phase,M,AC,,,,C,25.0,307,,50.2,,,,,,,changed to multiphase,,,,,117
 825,J121,10.1007/s11665-018-3837-1,(CoCrCuFeNi)88V12,FCC + Sigma + Cu phase,M,AC,,,,C,25.0,330,,50.2,,,,,,,changed to multiphase,,,,,117
 826,J121,10.1007/s11665-018-3837-1,(CoCrCuFeNi)84V16,FCC + Sigma + Cu phase,M,AC,,,,C,25.0,616,,28,,,,,,,changed to multiphase,,,,,117
-827,J122,10.3390/e21020122,CoCrNiCuZn,FCC,S,SPS,500,,,C,25.0,,,,,,,,,,,,,5.26,,118
-828,J122,10.3390/e21020122,CoCrNiCuZn,FCC,S,SPS,500,,,C,25.0,,,,,,,,,,,,,6.26,,118
-829,J122,10.3390/e21020122,CoCrNiCuZn,FCC,S,SPS,500,,,C,25.0,,,,,,,,,,,,,7.84,,118
-830,J122,10.3390/e21020122,CoCrNiCuZn,FCC,S,SPS,500,,615,C,25.0,,,,,,,,,,,,,7.89,,118
+827,J122,10.3390/e21020122,CoCrNiCuZn,BCC+FCC,M,SPS,500,,,C,25.0,,,,,,,,,,600,,,5.26,,118
+828,J122,10.3390/e21020122,CoCrNiCuZn,BCC+FCC,M,SPS,500,,,C,25.0,,,,,,,,,,700,,,6.26,,118
+829,J122,10.3390/e21020122,CoCrNiCuZn,BCC+FCC,M,SPS,500,,,C,25.0,,,,,,,,,,800,,,7.84,,118
+830,J122,10.3390/e21020122,CoCrNiCuZn,FCC+FCC,M,SPS,500,,615,C,25.0,2121,,,,,,,,,sintered at 900C,,,7.89,,118
 831,J123,10.3390/e21020114,HfNbTaTiZr,BCC,S,AC,500,,359,T,25.0,1155,1212,12.3,,,59,,,,,,,,,119
 832,J123,10.3390/e21020114,NbTaTiZr,BCC,S,AC,500,,358,T,25.0,1144,1205,6.4,,,98,,,,,,,,,119
 833,J123,10.3390/e21020114,NbTaTi,BCC,S,AC,500,,246,T,25.0,620,683,18.5,,,143,,,,,,,,,119
