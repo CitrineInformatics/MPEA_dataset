@@ -656,7 +656,7 @@
 40,J4-63,10.1016/j.jallcom.2013.11.084,Al7Co23Cr23Fe23Ni23,FCC,S,Aged,,,,,,,,,,,,,,,,63.0,10.1016/j.jallcom.2013.11.084,,,186
 41,J4-63,10.1016/j.jallcom.2013.11.084,Al7Co23Cr23Fe23Ni23,FCC,S,Aged,,,,,,,,,,,,,,,,63.0,10.1016/j.jallcom.2013.11.084,,,186
 42,J4-64,10.1016/j.matdes.2016.05.079,Al7Co23Cr23Fe23Ni23,FCC + B2,M,Aged,,,,,,,,,,,,,,,,64.0,10.1016/j.matdes.2016.05.079,,,187
-43,J4-71,10.1016/j.jallcom.2017.03.307,AlCoCrFeNi,BCC + B2,M,AC,,,,T,25.0,395,400,1,,,,,,,I don't like this reference...,71.0,10.1016/j.jallcom.2017.03.307,,,189
+43,J4-72,10.1016/j.msea.2015.08.078,AlCoCrFeNi,BCC + B2,M,AC,,,,T,700.0,395,400,1,,,,,,,I don't like this reference...,72.0,10.1016/j.msea.2015.08.078,,,190
 44,J4-70,10.1016/j.jallcom.2016.05.034,AlCoCrFeNi,BCC + B2,M,AC,,,,C,25.0,1380,,10,,,,,,,,70.0,10.1016/j.jallcom.2016.05.034,,,188
 45,J4-70,10.1016/j.jallcom.2016.05.034,AlCoCrFeNi,BCC + $\sigma$ + B2 + FCC,M,A,,,,C,25.0,1430,,1.6,,,,,,,,70.0,10.1016/j.jallcom.2016.05.034,,,188
 46,J4-70,10.1016/j.jallcom.2016.05.034,AlCoCrFeNi,BCC + B2 + FCC,M,A,,,,C,25.0,1690,,2.7,,,,,,,,70.0,10.1016/j.jallcom.2016.05.034,,,188
@@ -749,19 +749,19 @@
 133,J4-42,10.1016/j.msea.2011.11.045,AlCoCrCuFeNi,BCC + FCC1 + FCC2 + $\sigma$,M,HF,,,,T,700.0,63,91,63,,,,,,,tests were all done at 700C; changed processing from AC to F,42.0,10.1016/j.msea.2011.11.045,,,180
 134,J4-114,10.1016/j.jallcom.2009.10.088,Al9Co18Cr18Cu18Fe18Ni18,FCC,S,CR,,,,T,700.0,180,185,5,,,,,,,tests were all done at 700C ,114.0,10.1016/j.jallcom.2009.10.088,,,173
 135,J4-114,10.1016/j.jallcom.2009.10.088,Al9Co18Cr18Cu18Fe18Ni18,FCC1 + FCC2,M,CR + A,,,,T,700.0,160,180,12,,,,,,,tests were all done at 700C ,114.0,10.1016/j.jallcom.2009.10.088,,,173
-136,J5,10.1016/j.actamat.2018.11.049,FeCoNiCrTi0.2,FCC,S,CR + A,51,,,T,25.0,700,1240,36,,,,,,,"missed the ductility values, incorrect processing (from AC to CR + A), grain size to 51",,,4.8,,214
-137,J5,10.1016/j.actamat.2018.11.049,FeCoNiCrTi0.2,FCC,S,CR + A,,,,T,-196.0,860,1580,46,,,,,,,"missed the ductility values, incorrect processing (from AC to CR + A), grain size to 51",,,4.8,,214
+136,J5,10.1016/j.actamat.2018.11.049,FeCoNiCrTi0.2,FCC,S,CR + A,51,,,T,25.0,700,1240,36,,,,,,,"missed the ductility values, incorrect processing (from AC to CR + A), grain size to 51",,,,,214
+137,J5,10.1016/j.actamat.2018.11.049,FeCoNiCrTi0.2,FCC,S,CR + A,,,,T,-196.0,860,1580,46,,,,,,,"missed the ductility values, incorrect processing (from AC to CR + A), grain size to 51",,,,,214
 138,J6,10.1016/j.actamat.2018.12.012,Al0.1CoCrFeNi,FCC,S,CR,20,,,T,25.0,1198 $\pm$ 27,,1.5 $\pm$ 0.3,,,,,,,,,,,,222
 139,J6,10.1016/j.actamat.2018.12.012,Al0.1CoCrFeNi,FCC,S,CR + A,20,,,T,25.0,1403 $\pm$ 20,,1.2 $\pm$ 0.1,,,,,,,"For future reference, any repeated formulat that includes Annealing (A) as synthesis method is assumed to have varying annealing duration and temperatures as the experimental variable",,,,,222
 140,J6,10.1016/j.actamat.2018.12.012,Al0.1CoCrFeNi,FCC,S,CR + A,20,,,T,25.0,711 $\pm$ 40,928 $\pm$ 35,30.3 $\pm$ 3.7,,,,,,,,,,,,222
 141,J6,10.1016/j.actamat.2018.12.012,Al0.1CoCrFeNi,FCC,S,CR + A,7,,,T,25.0,356 $\pm$ 13,,42.4 $\pm$ 0.6,,,,,,,,,,,,222
 142,J7,10.1016/j.msea.2018.10.094,CoCrFeMnNi,FCC,S,CR + A,0.5,,,T,25.0,1120,,1.1,,,,,,,,,,,,236
 143,J7,10.1016/j.msea.2018.10.094,CoCrFeMnNi,FCC,S,CR + A,,,,T,-196.0,1692,,10.3,,,,,,,,,,,,236
-144,J8,10.1016/j.jallcom.2018.08.176,CrFeNi2Al,FCC + BCC + B2,M,AC,,,,T,25.0,774,1357,6.4,,,,,,,,,,,,246
-145,J8,10.1016/j.jallcom.2018.08.176,CrFeNi2.1Al0.9,FCC + BCC + B2,M,AC,,,,T,25.0,610,1173,9.1,,,,,,,,,,,,246
-146,J8,10.1016/j.jallcom.2018.08.176,CrFeNi2.2Al0.8,FCC + BCC + B2,M,AC,,,,T,25.0,479,956,12.7,,,,,,,,,,,,246
-147,J8,10.1016/j.jallcom.2018.08.176,CrFeNi2.3Al0.7,FCC + BCC + B2,M,AC,,,,T,25.0,461,835,30,,,,,,,,,,,,246
-148,J8,10.1016/j.jallcom.2018.08.176,CrFeNi2.4Al0.6,FCC,S,AC,,,,T,25.0,441,757,45,,,,,,,,,,,,246
+144,J8,10.1016/j.jallcom.2018.08.176,CrFeNi2Al,FCC + BCC + B2,M,AC,,,,T,25.0,774,1357,6.4,,,,,,,,,,,,245
+145,J8,10.1016/j.jallcom.2018.08.176,CrFeNi2.1Al0.9,FCC + BCC + B2,M,AC,,,,T,25.0,610,1173,9.1,,,,,,,,,,,,245
+146,J8,10.1016/j.jallcom.2018.08.176,CrFeNi2.2Al0.8,FCC + BCC + B2,M,AC,,,,T,25.0,479,956,12.7,,,,,,,,,,,,245
+147,J8,10.1016/j.jallcom.2018.08.176,CrFeNi2.3Al0.7,FCC + BCC + B2,M,AC,,,,T,25.0,461,835,30,,,,,,,,,,,,245
+148,J8,10.1016/j.jallcom.2018.08.176,CrFeNi2.4Al0.6,FCC,S,AC,,,,T,25.0,441,757,45,,,,,,,,,,,,245
 149,J10,10.1016/j.actamat.2018.12.015,CrCoNi,FCC,S,CR + A,1.6,,468,T,25.0,1100,,23,,,,,,,changed grain size,,,,,98
 150,J10,10.1016/j.actamat.2018.12.015,CrCoNi,FCC,S,CR + A,2.3,,326,T,25.0,597,,53,,,,,,,new data,,,,,98
 151,J10,10.1016/j.actamat.2018.12.015,CrCoNi,FCC,S,CR + A,24,,223,T,25.0,346,,76,,,,,,,new data,,,,,98
@@ -1036,12 +1036,12 @@
 420,J47,10.1016/j.msea.2019.04.025,FeCrCoMnNi,FCC,S,CR + A,8,,,T,25.0,520,,47,,,,,,,,,,,,211
 421,J47,10.1016/j.msea.2019.04.025,FeCrCoMnNi,FCC,S,CR + A,10,,,T,25.0,320,,59,,,,,,,,,,,,211
 422,J47,10.1016/j.msea.2019.04.025,FeCrCoMnNi,FCC,S,CR + A,20,,,T,25.0,280,,62,,,,,,,,,,,,211
-423,J48,10.1016/j.scriptamat.2019.02.038,CoFeNi2V0.5Mo0.2,FCC,S,AC,,,,T,-196.0,419,,34.6,,,,,,,fracture strength isn't UTS,,,,,212
-424,J48,10.1016/j.scriptamat.2019.02.038,CoFeNi2V0.5Mo0.2,FCC,S,AC,,,,T,-70.0,350,,28.8,,,,,,,fracture strength isn't UTS,,,,,212
-425,J48,10.1016/j.scriptamat.2019.02.038,CoFeNi2V0.5Mo0.2,FCC,S,AC,,,,T,20.0,252,,82.1,,,,,,,fracture strength isn't UTS,,,,,212
-426,J48,10.1016/j.scriptamat.2019.02.038,CoFeNi2V0.5Mo0.2,FCC,S,AC,,,,T,600.0,214,,189.2,,,,,,,fracture strength isn't UTS,,,,,212
-427,J48,10.1016/j.scriptamat.2019.02.038,CoFeNi2V0.5Mo0.2,FCC,S,AC,,,,T,700.0,212,,154.3,,,,,,,fracture strength isn't UTS,,,,,212
-428,J48,10.1016/j.scriptamat.2019.02.038,CoFeNi2V0.5Mo0.2,FCC,S,AC,,,,T,800.0,187,,119.5,,,,,,,fracture strength isn't UTS,,,,,212
+423,J48,10.1016/j.scriptamat.2019.02.038,CoFeNi2V0.5Mo0.2,FCC,S,AC,,,,T,-196.0,419,,,34.6,,,,,,fracture strength isn't UTS,,,,,212
+424,J48,10.1016/j.scriptamat.2019.02.038,CoFeNi2V0.5Mo0.2,FCC,S,AC,,,,T,-70.0,350,,,28.8,,,,,,fracture strength isn't UTS,,,,,212
+425,J48,10.1016/j.scriptamat.2019.02.038,CoFeNi2V0.5Mo0.2,FCC,S,AC,,,,T,20.0,252,,,82.1,,,,,,fracture strength isn't UTS,,,,,212
+426,J48,10.1016/j.scriptamat.2019.02.038,CoFeNi2V0.5Mo0.2,FCC,S,AC,,,,T,600.0,214,,,189.2,,,,,,fracture strength isn't UTS,,,,,212
+427,J48,10.1016/j.scriptamat.2019.02.038,CoFeNi2V0.5Mo0.2,FCC,S,AC,,,,T,700.0,212,,,154.3,,,,,,fracture strength isn't UTS,,,,,212
+428,J48,10.1016/j.scriptamat.2019.02.038,CoFeNi2V0.5Mo0.2,FCC,S,AC,,,,T,800.0,187,,,119.5,,,,,,fracture strength isn't UTS,,,,,212
 429,J49,10.1088/2053-1591/ab0597,Al0.3CoCrFeNi,FCC,S,AC,,,132,C,300.0,,,,,,,,,,,,,,,213
 430,J49,10.1088/2053-1591/ab0597,Al0.3CoCrFeNi,FCC,S,AC,,,147,C,340.0,,,,,,,,,,,,,,,213
 431,J49,10.1088/2053-1591/ab0597,Al0.3CoCrFeNi,FCC,S,AC,,,165,C,430.0,,,,,,,,,,,,,,,213
@@ -1124,10 +1124,10 @@
 508,J65,10.1007/s12598-019-01310-6,NbHfZrTi,BCC,S,AC,,,351,C,25.0,1000,,52,,,,,,,,,,,,231
 509,J65,10.1007/s12598-019-01310-6,NbZrTi,BCC,S,A,300,,,,,,,,,,,,,,,,,,,231
 510,J65,10.1007/s12598-019-01310-6,NbHfZrTi,BCC,S,A,50,,,,,,,,,,,,,,,,,,,231
-511,J65,10.1007/s12598-019-01310-6,NbZrTi,BCC,S,AC,,,,C,1073.0,462,,51,,,,,,,Added total elongation values according to Fig 6,,,,,231
-512,J65,10.1007/s12598-019-01310-6,NbHfZrTi,BCC,S,AC,,,,C,1073.0,303,,51,,,,,,,Added total elongation values according to Fig 6,,,,,231
-513,J65,10.1007/s12598-019-01310-6,NbZrTi,BCC,S,AC,,,,C,1273.0,218,,51,,,,,,,Added total elongation values according to Fig 6,,,,,231
-514,J65,10.1007/s12598-019-01310-6,NbHfZrTi,BCC,S,AC,,,,C,1273.0,154,,51,,,,,,,Added total elongation values according to Fig 6,,,,,231
+511,J65,10.1007/s12598-019-01310-6,NbZrTi,BCC,S,AC,,,,C,800.0,462,,51,,,,,,,Added total elongation values according to Fig 6,,,,,231
+512,J65,10.1007/s12598-019-01310-6,NbHfZrTi,BCC,S,AC,,,,C,800.0,303,,51,,,,,,,Added total elongation values according to Fig 6,,,,,231
+513,J65,10.1007/s12598-019-01310-6,NbZrTi,BCC,S,AC,,,,C,1000.0,218,,51,,,,,,,Added total elongation values according to Fig 6,,,,,231
+514,J65,10.1007/s12598-019-01310-6,NbHfZrTi,BCC,S,AC,,,,C,1000.0,154,,51,,,,,,,Added total elongation values according to Fig 6,,,,,231
 515,J66,10.1016/j.intermet.2019.106550,CoCrFeNi,FCC,S,AC,,,168.9,C,25.0,163,,80,,,,,,,,,,,,232
 516,J66,10.1016/j.intermet.2019.106550,CoCrFeNiW0.2,FCC,S,AC,,,244,C,25.0,335,,52,,,,,,,,,,,,232
 517,J66,10.1016/j.intermet.2019.106550,CoCrFeNiW0.5,FCC + $\mu$,M,AC,,,357.9,C,25.0,556,,35.6,,,,,,,,,,,,232
@@ -1185,367 +1185,362 @@
 569,J70,10.1016/j.msea.2019.138181,Co0.5CrFeNi1.5Ti0.3,FCC,S,HR + A,263,,197,,,,,,,,,,,,added in T dependant data,,,,,237
 570,J70,10.1016/j.msea.2019.138181,Co0.5CrFeNi1.5Ti0.3,FCC,S,A + HR,90,,308,T,25.0,586,875,46,,,,,,,added in T dependant data,,,,,237
 571,J70,10.1016/j.msea.2019.138181,CrFeNi2Ti0.3,FCC,S,A + HR,90,,335,T,25.0,672,982,37,,,,,,,rearranged order of processing; fixed grain size,,,,,237
-572,J70,10.1016/j.msea.2019.138181,CrFeNi2Ti0.3,FCC,S,HR + A,324,,204,,,,,,,,,,,,added in T dependant data,,,,,237
-573,J71,10.1016/j.msea.2019.138140,Nb25Mo25Ta25W25,BCC,S,S ,,,830,,,,,,,,,,,,No mechanical data; original data in GPA,,,,,238
-574,J71,10.1016/j.msea.2019.138140,Nb25Mo25Ta25W25,BCC,S,S + A,,,1450,,,,,,,,,,,,added sintering as a processing type; original data in GPA,,,,,238
-575,J71,10.1016/j.msea.2019.138140,Nb25Mo25Ta25W25,BCC,S,S + A,,,1630,,,,,,,,,,,,original data in GPA,,,,,238
-576,J71,10.1016/j.msea.2019.138140,Nb25Mo25Ta25W25,BCC,S,S + A,,,815,,,,,,,,,,,,original data in GPA,,,,,238
-577,J71,10.1016/j.msea.2019.138140,Nb25Mo25Ta25W25,BCC + Carbide,M,S + A,,,700,,,,,,,,,,,,original data in GPA,,,,,238
-578,J72,10.1016/j.actamat.2019.06.006,NbTaTi,BCC,S,CR + A ,,,,C,20.0,573,,,,,,100.0,<5,,changed processing to CR + A; fixed yield strengths,,,,,239
-579,J72,10.1016/j.actamat.2019.06.006,NbTaTi,BCC,S,CR + A ,,,,C,100.0,486,,,,,,100.0,<5,,changed processing to CR + A; fixed yield strengths,,,,,239
-580,J72,10.1016/j.actamat.2019.06.006,NbTaTi,BCC,S,CR + A ,,,,C,200.0,378,,,,,,100.0,<5,,changed processing to CR + A; fixed yield strengths,,,,,239
-581,J72,10.1016/j.actamat.2019.06.006,NbTaTi,BCC,S,CR + A ,,,,C,300.0,314,,,,,,100.0,<5,,changed processing to CR + A; fixed yield strengths,,,,,239
-582,J72,10.1016/j.actamat.2019.06.006,NbTaTi,BCC,S,CR + A ,,,,C,400.0,232,,,,,,100.0,<5,,changed processing to CR + A; fixed yield strengths,,,,,239
-583,J72,10.1016/j.actamat.2019.06.006,NbTaTi,BCC,S,CR + A ,,,,C,600.0,222,,,,,,100.0,<5,,changed processing to CR + A; fixed yield strengths,,,,,239
-584,J72,10.1016/j.actamat.2019.06.006,NbTaTi,BCC,S,CR + A ,,,,C,800.0,210,,,,,,100.0,<5,,changed processing to CR + A; fixed yield strengths,,,,,239
-585,J72,10.1016/j.actamat.2019.06.006,NbTaTi,BCC,S,CR + A ,,,,C,1000.0,160,,,,,,100.0,<5,,changed processing to CR + A; fixed yield strengths,,,,,239
-586,J72,10.1016/j.actamat.2019.06.006,AlNbTaTi,BCC,S,AC,,,,C,20.0,1152,,,,,,180.0,<5,,fixed yield strengths,,,,,239
-587,J72,10.1016/j.actamat.2019.06.006,AlNbTaTi,BCC,S,AC,,,,C,200.0,740,,,,,,180.0,<5,,fixed yield strengths,,,,,239
-588,J72,10.1016/j.actamat.2019.06.006,AlNbTaTi,BCC,S,AC,,,,C,100.0,740,,,,,,180.0,<5,,fixed yield strengths,,,,,239
-589,J72,10.1016/j.actamat.2019.06.006,MoNbTaTi,BCC,S,A,,,,C,20.0,1210,,,,,,80.0,<5,,fixed yield strengths,,,,,239
-590,J72,10.1016/j.actamat.2019.06.006,MoNbTaTi,BCC,S,A,,,,C,60.0,1071,,,,,,80.0,<5,,fixed yield strengths,,,,,239
-591,J72,10.1016/j.actamat.2019.06.006,MoNbTaTi,BCC,S,A,,,,C,100.0,1029,,,,,,80.0,<5,,fixed yield strengths,,,,,239
-592,J72,10.1016/j.actamat.2019.06.006,MoNbTaTi,BCC,S,A,,,,C,200.0,868,,,,,,80.0,<5,,fixed yield strengths,,,,,239
-593,J72,10.1016/j.actamat.2019.06.006,MoNbTaTi,BCC,S,A,,,,C,300.0,732,,,,,,80.0,<5,,fixed yield strengths,,,,,239
-594,J72,10.1016/j.actamat.2019.06.006,MoNbTaTi,BCC,S,A,,,,C,400.0,685,,,,,,80.0,<5,,fixed yield strengths,,,,,239
-595,J72,10.1016/j.actamat.2019.06.006,MoNbTaTi,BCC,S,A,,,,C,600.0,593,,,,,,80.0,<5,,fixed yield strengths,,,,,239
-596,J72,10.1016/j.actamat.2019.06.006,MoNbTaTi,BCC,S,A,,,,C,800.0,564,,,,,,80.0,<5,,fixed yield strengths,,,,,239
-597,J72,10.1016/j.actamat.2019.06.006,MoNbTaTi,BCC,S,A,,,,C,1000.0,539,,,,,,80.0,<5,,fixed yield strengths,,,,,239
-598,J72,10.1016/j.actamat.2019.06.006,WNbTaTi,BCC,S,A,,,,C,20.0,1054,,,,,,90.0,<5,,fixed yield strengths,,,,,239
-599,J72,10.1016/j.actamat.2019.06.006,WNbTaTi,BCC,S,A,,,,C,100.0,968,,,,,,90.0,<5,,fixed yield strengths,,,,,239
-600,J72,10.1016/j.actamat.2019.06.006,WNbTaTi,BCC,S,A,,,,C,200.0,869,,,,,,90.0,<5,,fixed yield strengths,,,,,239
-601,J72,10.1016/j.actamat.2019.06.006,WNbTaTi,BCC,S,A,,,,C,300.0,754,,,,,,90.0,<5,,fixed yield strengths,,,,,239
-602,J72,10.1016/j.actamat.2019.06.006,WNbTaTi,BCC,S,A,,,,C,400.0,627,,,,,,90.0,<5,,fixed yield strengths,,,,,239
-603,J72,10.1016/j.actamat.2019.06.006,WNbTaTi,BCC,S,A,,,,C,600.0,596,,,,,,90.0,<5,,fixed yield strengths,,,,,239
-604,J72,10.1016/j.actamat.2019.06.006,WNbTaTi,BCC,S,A,,,,C,800.0,564,,,,,,90.0,<5,,fixed yield strengths,,,,,239
-605,J72,10.1016/j.actamat.2019.06.006,WNbTaTi,BCC,S,A,,,,C,1000.0,459,,,,,,90.0,<5,,fixed yield strengths,,,,,239
-606,J72,10.1016/j.actamat.2019.06.006,HfNbTaTi,BCC,S,A,,,,C,20.0,860,,,,,,160.0,<5,,fixed yield strengths,,,,,239
-607,J72,10.1016/j.actamat.2019.06.006,HfNbTaTi,BCC,S,A,,,,C,20.0,834,,,,,,160.0,<5,,fixed yield strengths,,,,,239
-608,J72,10.1016/j.actamat.2019.06.006,HfNbTaTi,BCC,S,A,,,,C,200.0,610,,,,,,160.0,<5,,fixed yield strengths,,,,,239
-609,J72,10.1016/j.actamat.2019.06.006,HfNbTaTi,BCC,S,A,,,,C,600.0,473,,,,,,160.0,<5,,fixed yield strengths,,,,,239
-610,J72,10.1016/j.actamat.2019.06.006,CrNbMoTi,BCC,S,A,,,,C,20.0,1630,,,,,,260.0,<5,,fixed yield strengths,,,,,239
-611,J72,10.1016/j.actamat.2019.06.006,CrNbMoTi,BCC,S,A,,,,C,200.0,1268,,,,,,260.0,<5,,fixed yield strengths,,,,,239
-612,J72,10.1016/j.actamat.2019.06.006,CrNbMoTi,BCC,S,A,,,,C,400.0,1115,,,,,,260.0,<5,,fixed yield strengths,,,,,239
-613,J72,10.1016/j.actamat.2019.06.006,CrNbMoTi,BCC,S,A,,,,C,600.0,1062,,,,,,260.0,<5,,fixed yield strengths,,,,,239
-614,J72,10.1016/j.actamat.2019.06.006,CrNbMoTi,BCC,S,A,,,,C,800.0,1058,,,,,,260.0,<5,,fixed yield strengths,,,,,239
-615,J72,10.1016/j.actamat.2019.06.006,CrMoTaTi,BCC + Laves,M,A,,,,C,20.0,1795,,,,,,200.0,<5,,fixed yield strengths,,,,,239
-616,J72,10.1016/j.actamat.2019.06.006,CrMoTaTi,BCC + Laves,M,A,,,,C,100.0,1506,,,,,,200.0,<5,,fixed yield strengths,,,,,239
-617,J72,10.1016/j.actamat.2019.06.006,CrMoTaTi,BCC + Laves,M,A,,,,C,200.0,1266,,,,,,200.0,<5,,fixed yield strengths,,,,,239
-618,J72,10.1016/j.actamat.2019.06.006,CrMoTaTi,BCC + Laves,M,A,,,,C,300.0,1183,,,,,,200.0,<5,,fixed yield strengths,,,,,239
-619,J72,10.1016/j.actamat.2019.06.006,CrMoTaTi,BCC + Laves,M,A,,,,C,400.0,1175,,,,,,200.0,<5,,fixed yield strengths,,,,,239
-620,J72,10.1016/j.actamat.2019.06.006,CrMoTaTi,BCC + Laves,M,A,,,,C,600.0,1162,,,,,,200.0,<5,,fixed yield strengths,,,,,239
-621,J72,10.1016/j.actamat.2019.06.006,CrMoTaTi,BCC + Laves,M,A,,,,C,800.0,1162,,,,,,200.0,<5,,fixed yield strengths,,,,,239
-622,J72,10.1016/j.actamat.2019.06.006,CrMoTaTi,BCC + Laves,M,A,,,,C,1000.0,1159,,,,,,200.0,<5,,fixed yield strengths,,,,,239
-623,J74,10.1007/s40195-019-00921-3,Ti2ZrHf0.5V,BCC,S,AC,,,338.3,C,25.0,1160,,>50,,,,,,,,,,,,240
-624,J74,10.1007/s40195-019-00921-3,Ti2ZrHf0.5V,BCC,S,AC,,,338.3,C,600.0,405,,>50,,,,,,,added high temperature data,,,,,240
-625,J74,10.1007/s40195-019-00921-3,Ti2ZrHf0.5V,BCC,S,AC,,,338.3,C,800.0,85,,>50,,,,,,,added high temperature data,,,,,240
-626,J74,10.1007/s40195-019-00921-3,Ti2ZrHf0.5VNb0.25,BCC,S,AC,,,332.4,C,25.0,1115,,>50,,,,,,,,,,,,240
-627,J74,10.1007/s40195-019-00921-3,Ti2ZrHf0.5VNb0.5,BCC,S,AC,,,322.5,C,25.0,1065,,>50,,,,,,,,,,,,240
-628,J74,10.1007/s40195-019-00921-3,Ti2ZrHf0.5VNb0.5,BCC,S,AC,,,322.5,C,600.0,718,,>50,,,,,,,added high temperature data,,,,,240
-629,J74,10.1007/s40195-019-00921-3,Ti2ZrHf0.5VNb0.5,BCC,S,AC,,,322.5,C,800.0,135,,>50,,,,,,,added high temperature data,,,,,240
-630,J74,10.1007/s40195-019-00921-3,Ti2ZrHf0.5VNb0.75,BCC,S,AC,,,318.9,C,25.0,1025,,>50,,,,,,,,,,,,240
-631,J74,10.1007/s40195-019-00921-3,Ti2ZrHf0.5VNb,BCC,S,AC,,,310.4,C,25.0,980,,>50,,,,,,,,,,,,240
-632,J74,10.1007/s40195-019-00921-3,Ti2ZrHf0.5VNb,BCC,S,AC,,,310.4,C,600.0,859,,>50,,,,,,,added high temperature data,,,,,240
-633,J74,10.1007/s40195-019-00921-3,Ti2ZrHf0.5VNb,BCC,S,AC,,,310.4,C,800.0,195,,>50,,,,,,,added high temperature data,,,,,240
-634,J75,10.1016/j.matchar.2019.05.043,FeCrCuMnNi,2FCC + BCC,M,CR,,,398,T,25.0,1190,1300,4.3,,,,,,,changed to 2FCC + BCC,,,,,241
-635,J75,10.1016/j.matchar.2019.05.043,FeCrCuMnNi,2FCC + BCC,M,CR + A,1.4,,367,T,25.0,1170,1270,10.7,,,,,,,changed to 2FCC + BCC,,,,,241
-636,J75,10.1016/j.matchar.2019.05.043,FeCrCuMnNi,2FCC + BCC,M,CR + A,1.5,,312,T,25.0,1030,1190,11.4,,,,,,,changed to 2FCC + BCC,,,,,241
-637,J75,10.1016/j.matchar.2019.05.043,FeCrCuMnNi,2FCC + BCC,M,CR + A,1.9,,271,T,25.0,970,1110,12.1,,,,,,,changed to 2FCC + BCC,,,,,241
-638,J75,10.1016/j.matchar.2019.05.043,FeCrCuMnNi,2FCC + BCC,M,CR + A,2.2,,183,T,25.0,850,960,14.3,,,,,,,changed to 2FCC + BCC,,,,,241
-639,J75,10.1016/j.matchar.2019.05.043,FeCrCuMnNi,2FCC + BCC,M,CR + A,6.5,,162,T,25.0,470,640,34.8,,,,,,,changed to 2FCC + BCC,,,,,241
-640,J76,10.1016/j.matlet.2019.04.012,CoCrFeNi2.1Nb0.2,FCC + Laves,M,AC,,,,T,25.0,170,537,32,,,,,,,,,,,,242
-641,J76,10.1016/j.matlet.2019.04.012,CoCrFeNi2.1Nb0.4,FCC + Laves,M,AC,,,,T,25.0,640,840,7,,,,,,,,,,,,242
-642,J76,10.1016/j.matlet.2019.04.012,CoCrFeNi2.1Nb0.2,FCC + Laves + D019,M,A,,,,T,25.0,560,860,19,,,,,,,,,,,,242
-643,J76,10.1016/j.matlet.2019.04.012,CoCrFeNi2.1Nb0.4,FCC + Laves,M,A,,,,T,25.0,,,3,,,,,,,,,,,,242
-644,J77,10.1007/s40195-019-00916-0,(CoCrFeMnNi)95C5,FCC + M23C6,M,A,,,345,C,800.0,,,,,,,,,,,,,,,243
-645,J77,10.1007/s40195-019-00916-0,(CoCrFeMnNi)95C5,FCC + M23C6,M,A,,,285,C,1000.0,,,,,,,,,,,,,,,243
-646,J78,10.1016/j.matchar.2019.05.022,AlCoCrFeNi,BCC + FCC,M,SPS,10.21,,550 $\pm$ 12,C,25.0,1221.1 $\pm$ 15,,30,23.2,,,,,,"changed elongation to total elongation, not plastic",,,,,244
-647,J78,10.1016/j.matchar.2019.05.022,AlCoCrFeNi,BCC + FCC,M,SPS,15.68,,510 $\pm$ 11,C,25.0,1186.7 $\pm$ 16,,33,26.5,,,,,,"changed elongation to total elongation, not plastic",,,,,244
-648,J78,10.1016/j.matchar.2019.05.022,AlCoCrFeNi,BCC + FCC,M,SPS,16.7,,503 $\pm$ 14,C,25.0,1112.9 $\pm$ 20,,30,21.4,,,,,,"changed elongation to total elongation, not plastic",,,,,244
-649,J79,10.1007/s11837-019-03432-9,WMoNbCrTi,BCC + Laves,M,SPS,,,,C,25.0,2500,,10,,,,,,,Experimental Variable was ball milling time. ,,,,,245
-650,J79,10.1007/s11837-019-03432-9,WMoNbCrTi,BCC + Laves,M,SPS,,,,C,25.0,1260,,4.8,,,,,,,Added Total Elongation Data from Fig 6,,,,,245
-651,J79,10.1007/s11837-019-03432-9,WMoNbCrTi,BCC + Laves,M,SPS,,,,C,25.0,1630,,4.85,,,,,,,,,,,,245
-652,J79,10.1007/s11837-019-03432-9,WMoNbCrTi,BCC + Laves,M,SPS,,,,C,25.0,2030,,4.3,,,,,,,,,,,,245
-653,J79,10.1007/s11837-019-03432-9,WMoNbCrTi,BCC + Laves,M,SPS,,,,C,25.0,1920,,5,,,,,,,,,,,,245
-654,J80,10.1088/2053-1591/ab2517,AlCoCrFeNi,BCC + B2,M,SPS,,,,C,25.0,,,,,,,,,,,,,,,247
-655,J80,10.1088/2053-1591/ab2517,AlCoCrFeNi,BCC + B2,M,SPS,,,,C,25.0,,,,,,,,,,,,,,,247
-656,J80,10.1088/2053-1591/ab2517,AlCoCrFeNi,BCC + B2 + FCC,M,SPS,,,,C,25.0,,,,,,,,,,,,,,,247
-657,J80,10.1088/2053-1591/ab2517,AlCoCrFeNi,BCC + B2 + FCC,M,SPS,,,,C,25.0,,,,,,,,,,,,,,,247
-658,J80,10.1088/2053-1591/ab2517,AlCoCrFeNi,BCC + B2 + FCC,M,SPS,,,,C,25.0,520,,,,,,,,,,,,,,247
-659,J80,10.1088/2053-1591/ab2517,AlCoCrFeNi,BCC + B2 + FCC,M,SPS,,,,C,25.0,1150,,,,,,,,,,,,,,247
-660,J80,10.1088/2053-1591/ab2517,AlCoCrFeNi,BCC + B2 + FCC,M,SPS,,,,C,25.0,1287,,,,,,,,,,,,,,247
-661,J80,10.1088/2053-1591/ab2517,AlCoCrFeNi,BCC + B2 + FCC,M,SPS,,,,C,25.0,1286,,,,,,,,,,,,,,247
-662,J80,10.1088/2053-1591/ab2517,AlCoCrFeNi,BCC + B2 + FCC,M,SPS,,,,C,25.0,1390,,,,,,,,,,,,,,247
-663,J80,10.1088/2053-1591/ab2517,AlCoCrFeNi,BCC + B2 + FCC,M,SPS,,,,C,25.0,1626,,,,,,,,,,,,,,247
-664,J81,10.1016/j.jallcom.2019.04.296,CrFeMnNi,FCC,S,,,,,,,,,,,,,,,,Skipped,,,,,248
-665,J82,10.1016/j.msea.2019.138039,Fe40Mn40Co10Cr10,FCC,S,AC,,,,T,25.0,213,471,55.7,,,,,,,Added values for AC and F,,,,,249
-666,J82,10.1016/j.msea.2019.138039,Fe40Mn40Co10Cr10,FCC,S,AC,,,,T,25.0,393,634,26.5,,,,,,,,,,,,249
-667,J82,10.1016/j.msea.2019.138039,Fe40Mn40Co10Cr10,FCC,S,HF,,,,T,25.0,792,1055,22.6,,,,,,,,,,,,249
-668,J82,10.1016/j.msea.2019.138039,Fe40Mn40Co10Cr10,FCC,S,HR + A,18,,,T,25.0,559,1004,33.9,,,,,,,,,,,,249
-669,J82,10.1016/j.msea.2019.138039,Fe40Mn40Co10Cr10,FCC,S,HR + A,32,,,T,25.0,512,978,55.3,,,,,,,,,,,,249
-670,J82,10.1016/j.msea.2019.138039,Fe40Mn40Co10Cr10,FCC,S,HR + A,63,,,T,25.0,476,947,69.4,,,,,,,,,,,,249
-671,J84,10.1016/j.jallcom.2019.04.121,CrMnFeCoNi,FCC,S,CR + A,,,,T,25.0,353,635,,43,,,,,,Fixed with values from summary ,,,,,250
-672,J84,10.1016/j.jallcom.2019.04.121,Cr19.68Mn19.68Fe19.68Co19.68Ni19.68Nb0.8C0.8,FCC + NbC,M,CR + A,,,,T,25.0,732,911,,32,,,,,,,,,,,250
-673,J85,10.1016/j.matlet.2019.03.075,TiNbTa0.5ZrAl0.5,BCC + HCP,M,HF,,,,C,25.0,1500,,6,,,,,,,Changed AC to F,,,,,251
-674,J85,10.1016/j.matlet.2019.03.075,TiNbTa0.5ZrAl0.5,BCC,M,S,,,,,,,,,,,,,,,Added Sintering Data,,,,,251
-675,J85,10.1016/j.matlet.2019.03.075,TiNbTa0.5ZrAl0.5,BCC + HCP,M,HF + A,,,,C,25.0,1200,,8,,,,,,,,,,,,251
-676,J85,10.1016/j.matlet.2019.03.075,TiNbTa0.5ZrAl0.5,BCC + HCP,M,HF + A,,,,C,25.0,2100,,12,,,,,,,,,,,,251
-677,J85,10.1016/j.matlet.2019.03.075,TiNbTa0.5ZrAl0.5,BCC + HCP,M,HF + A,,,,C,25.0,1740,,20,,,,,,,,,,,,251
-678,J85,10.1016/j.matlet.2019.03.075,TiNbTa0.5ZrAl0.5,BCC + HCP,M,HF + A,,,,C,25.0,1630,,12,,,,,,,,,,,,251
-679,J86,10.1007/s10853-019-03567-9,NbTaWMo,BCC,S,SPS,,,504.5,C,25.0,1217,,7.5,3.8,,,,,,Fixed Elongation Values from Fracture Strain to Engineering Strain,,,,,252
-680,J86,10.1007/s10853-019-03567-9,NbTaWMoSi0.25,BCC + Silicide,M,SPS,,,567,C,25.0,1826,,16.5,10.5,,,,,,,,,,,252
-681,J86,10.1007/s10853-019-03567-9,NbTaWMoSi0.5,BCC + Silicide,M,SPS,,,697,C,25.0,1883,,11,5.8,,,,,,,,,,,252
-682,J86,10.1007/s10853-019-03567-9,NbTaWMoSi0.75,BCC + Silicide,M,SPS,,,682.6,C,25.0,2483,,6.2,1.6,,,,,,,,,,,252
-683,J86,10.1007/s10853-019-03567-9,NbTaWMo,BCC,S,SPS,,,420,,200.0,,,,,,,,,,"Tests focused on HV, not mechanical stress",,,,,252
-684,J86,10.1007/s10853-019-03567-9,NbTaWMoSi0.25,BCC + Silicide,M,SPS,,,425,,200.0,,,,,,,,,,,,,,,252
-685,J86,10.1007/s10853-019-03567-9,NbTaWMoSi0.5,BCC + Silicide,M,SPS,,,535,,200.0,,,,,,,,,,,,,,,252
-686,J86,10.1007/s10853-019-03567-9,NbTaWMoSi0.75,BCC + Silicide,M,SPS,,,640,,200.0,,,,,,,,,,,,,,,252
-687,J86,10.1007/s10853-019-03567-9,NbTaWMo,BCC,S,SPS,,,425,,400.0,,,,,,,,,,,,,,,252
-688,J86,10.1007/s10853-019-03567-9,NbTaWMoSi0.25,BCC + Silicide,M,SPS,,,420,,400.0,,,,,,,,,,,,,,,252
-689,J86,10.1007/s10853-019-03567-9,NbTaWMoSi0.5,BCC + Silicide,M,SPS,,,560,,400.0,,,,,,,,,,,,,,,252
-690,J86,10.1007/s10853-019-03567-9,NbTaWMoSi0.75,BCC + Silicide,M,SPS,,,600,,400.0,,,,,,,,,,,,,,,252
-691,J86,10.1007/s10853-019-03567-9,NbTaWMo,BCC,S,SPS,,,340,,600.0,,,,,,,,,,,,,,,252
-692,J86,10.1007/s10853-019-03567-9,NbTaWMoSi0.25,BCC + Silicide,M,SPS,,,425,,600.0,,,,,,,,,,,,,,,252
-693,J86,10.1007/s10853-019-03567-9,NbTaWMoSi0.5,BCC + Silicide,M,SPS,,,540,,600.0,,,,,,,,,,,,,,,252
-694,J86,10.1007/s10853-019-03567-9,NbTaWMoSi0.75,BCC + Silicide,M,SPS,,,650,,600.0,,,,,,,,,,,,,,,252
-695,J86,10.1007/s10853-019-03567-9,NbTaWMo,BCC,S,SPS,,,335.5,,800.0,,,,,,,,,,,,,,,252
-696,J86,10.1007/s10853-019-03567-9,NbTaWMoSi0.25,BCC + Silicide,M,SPS,,,399.2,,800.0,,,,,,,,,,,,,,,252
-697,J86,10.1007/s10853-019-03567-9,NbTaWMoSi0.5,BCC + Silicide,M,SPS,,,550.5,,800.0,,,,,,,,,,,,,,,252
-698,J86,10.1007/s10853-019-03567-9,NbTaWMoSi0.75,BCC + Silicide,M,SPS,,,597.3,,800.0,,,,,,,,,,,,,,,252
-699,J86,10.1007/s10853-019-03567-9,NbTaWMoSi0.75,BCC + Silicide,M,SPS,,,,C,1200.0,960,,22.7,,,,,,,Added Engineering Values from Fig 5,,,,,252
-700,J87,10.1007/s11661-019-05231-y,FeCoCrNiMn,FCC,S,CR,,,,T,25.0,1199.26,1335.35,4.37,,,,,,,,,,,,253
-701,J87,10.1007/s11661-019-05231-y,FeCoCrNiMn,FCC,S,CR + A,,,,T,25.0,1269.23,1366.3,1.16,,,,,,,,,,,,253
-702,J87,10.1007/s11661-019-05231-y,FeCoCrNiMn,FCC,S,CR + A,,,,T,25.0,1371.21,1402.83,1.58,,,,,,,,,,,,253
-703,J87,10.1007/s11661-019-05231-y,FeCoCrNiMn,FCC,S,CR + A,0.166,,,T,25.0,1362.74,1471.05,3.15,,,,,,,,,,,,253
-704,J87,10.1007/s11661-019-05231-y,FeCoCrNiMn,FCC,S,CR + A,0.248,,,T,25.0,1241.81,1325.25,4.31,,,,,,,,,,,,253
-705,J87,10.1007/s11661-019-05231-y,FeCoCrNiMn,FCC,S,CR + A,0.468,,,T,25.0,930.3,1021.32,19.01,,,,,,,,,,,,253
-706,J87,10.1007/s11661-019-05231-y,FeCoCrNiMn,FCC,S,CR + A,1.79,,,T,25.0,729.21,901.74,26.3,,,,,,,,,,,,253
-707,J87,10.1007/s11661-019-05231-y,FeCoCrNiMn,FCC,S,CR + A,4.57,,,T,25.0,494.82,735.6,38.7,,,,,,,,,,,,253
-708,J87,10.1007/s11661-019-05231-y,FeCoCrNiMn,FCC,S,CR + A,13.45,,,T,25.0,366.88,673.25,42.55,,,,,,,,,,,,253
-709,J87,10.1007/s11661-019-05231-y,FeCoCrNiMn,FCC,S,CR + A,22.37,,,T,25.0,290.65,618.51,43.15,,,,,,,,,,,,253
-710,J87,10.1007/s11661-019-05231-y,FeCoCrNiMn,FCC,S,CR + A,30.6,,,T,25.0,258.76,598.75,45.05,,,,,,,,,,,,253
-711,J88,10.1016/j.vacuum.2019.04.043,FeCoCrNiMnTi0.1C0.1,FCC + TiMnO3 + M23C6 + M7C3,M,VHP,,,457 $\pm$ 2,C,25.0,1616 $\pm$ 27,,,4.5 $\pm$ 0.3,,,,,,Vacuum Hot Press Sintering,,,7.5,,254
-712,J88,10.1016/j.vacuum.2019.04.043,FeCoCrNiMnTi0.1C0.1,FCC + TiMnO3 + M23C6 + M7C3,M,VHP,,,461 $\pm$ 3,C,25.0,1652 $\pm$ 16,,,10 $\pm$ 0.5,,,,,,Added HV and Density values from Table 2,,,7.64,,254
-713,J88,10.1016/j.vacuum.2019.04.043,FeCoCrNiMnTi0.1C0.1,FCC + TiMnO3 + M23C6 + M7C3,M,VHP,,,428 $\pm$ 3,C,25.0,1490 $\pm$ 11,,,11.4 $\pm$ 0.5,,,,,,,,,7.66,,254
-714,J88,10.1016/j.vacuum.2019.04.043,FeCoCrNiMnTi0.1C0.1,FCC + TiMnO3 + M23C6 + M7C3,M,VHP,,,378 $\pm$ 4,C,25.0,1194 $\pm$ 9,,,20.1 $\pm$ 0.7,,,,,,,,,7.69,,254
-715,J90-32,10.1016/j.intermet.2012.03.005,CoCrFeNi,FCC,S,,,,,,,,,,,,,,,,"Large list, varied in data points",32.0,10.1016/j.intermet.2012.03.005,,,256
-716,J90-32,10.1016/j.intermet.2012.03.005,CoCrFeNiAl0.5,FCC + BCC,M,,,,250,,,,,,,,,,,,come from a variety of references,32.0,10.1016/j.intermet.2012.03.005,,,256
-717,J90-32,10.1016/j.intermet.2012.03.005,CoCrFeNiAl,BCC,S,,,,500,,,,,,,,,,,,,32.0,10.1016/j.intermet.2012.03.005,,,256
-718,J90-32,10.1016/j.intermet.2012.03.005,CoCrFeNiAl2,BCC,S,,,,733,,,,,,,,,,,,,32.0,10.1016/j.intermet.2012.03.005,,,256
-719,J90-35,10.1016/j.msea.2013.12.096,CoFeNiAl0.5Ti0.5,FCC,S,,,,733,,,,,,,,,,,,,35.0,10.1016/j.msea.2013.12.096,,,257
-720,J90-35,10.1016/j.msea.2013.12.096,CrCoFeNiAl0.5Ti0.5,FCC + BCC,M,,,,640,,,,,,,,,,,,,35.0,10.1016/j.msea.2013.12.096,,,257
-721,J90-36,10.4028/www.scientific.net/MSF.846.13,Al0.5FeCrNiMnCoTa0,,,,,,,,,,,,,,,,,,,36.0,10.4028/www.scientific.net/MSF.846.13,,,258
-722,J90-36,10.4028/www.scientific.net/MSF.846.13,Al0.5FeCrNiMnCoTa0.2,FCC + BCC + laves,M,,,,385,,,,,,,,,,,,,36.0,10.4028/www.scientific.net/MSF.846.13,,,258
-723,J90-36,10.4028/www.scientific.net/MSF.846.13,Al0.5FeCrNiMnCoTa0.4,FCC + BCC + laves,M,,,,486,,,,,,,,,,,,,36.0,10.4028/www.scientific.net/MSF.846.13,,,258
-724,J90-36,10.4028/www.scientific.net/MSF.846.13,Al0.55FeCrNiMnCoTa0.6,FCC + BCC + laves + IM,M,,,,570,,,,,,,,,,,,,36.0,10.4028/www.scientific.net/MSF.846.13,,,258
-725,J90-36,10.4028/www.scientific.net/MSF.846.13,FeCrNiMnCoTa0,FCC + BCC,M,,,,,,,,,,,,,,,,,36.0,10.4028/www.scientific.net/MSF.846.13,,,258
-726,J90-36,10.4028/www.scientific.net/MSF.846.13,FeCrNiMnCoTa0.2,FCC + BCC,M,,,,200,,,,,,,,,,,,,36.0,10.4028/www.scientific.net/MSF.846.13,,,258
-727,J90-36,10.4028/www.scientific.net/MSF.846.13,FeCrNiMnCoTa0.4,FCC + BCC,M,,,,290,,,,,,,,,,,,,36.0,10.4028/www.scientific.net/MSF.846.13,,,258
-728,J90-36,10.4028/www.scientific.net/MSF.846.13,FeCrNiMnCoTa0.6,FCC + BCC,M,,,,345,,,,,,,,,,,,,36.0,10.4028/www.scientific.net/MSF.846.13,,,258
-729,J90-39,10.1016/j.jallcom.2010.02.032,Al0.3CoCrFeNi,FCC,S,,,,160,,,,,,,,,,,,,39.0,10.1016/j.jallcom.2010.02.032,,,259
-730,J90-39,10.1016/j.jallcom.2010.02.032,Al0.3CoCrFeNiMo0.1,FCC,S,,,,200,,,,,,,,,,,,,39.0,10.1016/j.jallcom.2010.02.032,,,259
-731,J90,10.1016/j.msea.2019.05.056,Al5Cr12Fe35Mn28Ni20,FCC,S,AC,,,,T,25.0,280,556,48,48.2,,,,,,actually made by the paper,,This Paper,,,255
-732,J90,10.1016/j.msea.2019.05.056,Al10Cr12Fe35Mn23Ni20,FCC,S,CR,,,,T,25.0,320,625,42.2,42.45,,,,,,,,This Paper,,,255
-733,J90,10.1016/j.msea.2019.05.056,Al5Cr12Fe35Mn28Ni20,FCC,S,AC,,,,T,25.0,1253,1392,6.78,8.2,,,,,,,,This Paper,,,255
-734,J90,10.1016/j.msea.2019.05.056,Al10Cr12Fe35Mn23Ni20,FCC,S,CR,,,,T,25.0,1400,1500,5.83,7.85,,,,,,,,This Paper,,,255
-735,J91,10.1016/j.msea.2019.04.096,CoCuFeMnNi,FCC,S,AC,,,,,800.0,,,,,,,,,,,,,,,260
-736,J91,10.1016/j.msea.2019.04.096,CoCuFeMnNi,FCC,S,AC,,,,,900.0,,,,,,,,,,,,,,,260
-737,J91,10.1016/j.msea.2019.04.096,CoCuFeMnNi,FCC,S,AC,,,,,100.0,,,,,,,,,,,,,,,260
-738,J92,10.1016/j.msea.2019.05.078,CoCrFeNiMo0.15,FCC,S,AC,,,,T,25.0,489 $\pm$ 2,895 $\pm$ 10,,53.6 $\pm$ 0.7,,,,,,,,,,,261
-739,J92,10.1016/j.msea.2019.05.078,CoCrFeNiMo0.15,,,CR+A,,,,T,25.0,873 $\pm$ 27,,,23.4 $\pm$ 1.1,,,,,,CR,,,,,261
-740,J92,10.1016/j.msea.2019.05.078,CoCrFeNiMo0.15,,,CR+A,,,,T,25.0,952 $\pm$ 35,1122 $\pm$ 17,,14.2 $\pm$ 0.5,,,,,,,,,,,261
-741,J92,10.1016/j.msea.2019.05.078,CoCrFeNiMo0.15,FCC,S,CR+A,,,,T,25.0,1136 $\pm$ 3,1245 $\pm$ 0.8,,8.7 $\pm$ 0.7,,,,,,,,,,,261
-742,J92,10.1016/j.msea.2019.05.078,CoCrFeNiMo0.15,FCC,S,CR+A,,,,T,25.0,1301 $\pm$ 28,1493 $\pm$ 30,,7.2 $\pm$ 0.5,,,,,,,,,,,261
-743,J92,10.1016/j.msea.2019.05.078,CoCrFeNiMo0.15,,,CR+A,,,,T,25.0,1311 $\pm$ 14,1421 $\pm$ 27,,5.9 $\pm$ 0.3,,,,,,,,,,,261
-744,J92,10.1016/j.msea.2019.05.078,CoCrFeNiMo0.15,,,CR+A,,,,T,25.0,1273 $\pm$ 16,1458 $\pm$ 28,,5.5 $\pm$ 0.4,,,,,,,,,,,261
-745,J93,10.1016/j.msea.2019.05.003,CuNi1.01Si0.28Co0.14Cr0.45,,M,CR+A,,,142.5,T,25.0,777,810,3.4,,,,,,,added multiphase,,,,,262
-746,J93,10.1016/j.msea.2019.05.003,CuNi1.01Si0.28Co0.14Cr0.45,,M,CR+A,,,147.4,,,,,,,,,,,,added multiphase,,,,,262
-747,J93,10.1016/j.msea.2019.05.003,CuNi1.01Si0.28Co0.14Cr0.45,,M,CR+A,,,155.2,,,,,,,,,,,,added multiphase,,,,,262
-748,J95,10.1038/s41467-019-10533-1,Co33W07Al33Nb24Cr03,,,AC,,,1084,,25.0,,,,,,,,,,,,,,,263
-749,J95,10.1038/s41467-019-10533-1,Ti18Ni24Ta12Cr22Co24,,,AC,,,1011,,25.0,,,,,,,,,,,,,,,263
-750,J95,10.1038/s41467-019-10533-1,Co6W9Al36Mo38Ni11,,,AC,,,725,,25.0,,,,,,,,,,,,,,,263
-751,J95,10.1038/s41467-019-10533-1,Ni47Co02Ta12Ti9Nb30,,,AC,,,815,,25.0,,,,,,,,,,,,,,,263
-752,J95,10.1038/s41467-019-10533-1,Ti44Ni02Nb21Cr21Co12,,,AC,,,422,,25.0,,,,,,,,,,,,,,,263
-753,J95,10.1038/s41467-019-10533-1,Ti32Nb9Ta01Cr19Co39,,,AC,,,856,,25.0,,,,,,,,,,,,,,,263
-754,J95,10.1038/s41467-019-10533-1,Ti39W04Nb31Ta04Co22,,,AC,,,277,,25.0,,,,,,,,,,,,,,,263
-755,J98,10.1016/j.jmst.2018.12.014,AlCoCuFeNi0.5,FCC + BCC + B2,M,AC,,,430.9,C,25.0,929,,13.7,,,,,,,,,,,,264
-756,J98,10.1016/j.jmst.2018.12.014,AlCoCuFeNi0.8,FCC + BCC + B2,M,AC,,,420,C,25.0,1021,,12.3,,,,,,,,,,,,264
-757,J98,10.1016/j.jmst.2018.12.014,AlCoCuFeNi,FCC + BCC + B2,M,AC,,,391.4,C,25.0,994,,24.5,,,,,,,,,,,,264
-758,J98,10.1016/j.jmst.2018.12.014,AlCoCuFeNi1.5,FCC + BCC + B2,M,AC,,,323.8,C,25.0,680,,35.9,,,,,,,,,,,,264
-759,J98,10.1016/j.jmst.2018.12.014,AlCoCuFeNi2,FCC + BCC + B2,M,AC,,,299.2,C,25.0,544,,,,,,,,,,,,,,264
-760,J98,10.1016/j.jmst.2018.12.014,AlCoCuFeNi3,FCC,S,AC,,,279.6,C,25.0,268,,,,,,,,,,,,,,264
-761,J100,10.1016/j.msea.2019.04.104,Al0.5CrFeMnNi,BCC + B2,M,AC,,,353,C,25.0,1091,,50,,,,,,,,,,,,99
-762,J100,10.1016/j.msea.2019.04.104,Al0.6CrFeMnNi,BCC + B2,M,AC,,,361,C,25.0,1130,,53,,,,,,,,,,,,99
-763,J100,10.1016/j.msea.2019.04.104,Al0.7CrFeMnNi,BCC + B2,M,AC,,,375,C,25.0,1170,,55,,,,,,,,,,,,99
-764,J100,10.1016/j.msea.2019.04.104,Al0.8CrFeMnNi,BCC + B2,M,AC,,,386,C,25.0,1200,,55,,,,,,,,,,,,99
-765,J102,10.1016/j.jmmm.2019.01.096,FeCoNiCr0.2Si0.2,FCC,S,AC,,,130.1,T,25.0,225,732,61,,,,,,,,,,,,100
-766,J102,10.1016/j.jmmm.2019.01.096,FeCoNiCr0.2Si0.2,FCC,S,HR,,,318.2,T,25.0,705,1070,10,,,,,,,changed processing to hot rolling,,,,,100
-767,J102,10.1016/j.jmmm.2019.01.096,FeCoNiCr0.2Si0.2,FCC,S,HR + A,,,153.8,T,25.0,320,920,60,,,,,,,changed processing to hot rolling,,,,,100
-768,J105,10.1038/s41598-019-43329-w,Al65Cu5Mg5Si15Zn5Fe5,FCC,S,AC,,,,C,25.0,422 $\pm$ 75,,1,,,88.7 $\pm$ 0.4,,,,,,,3.08,,101
-769,J105,10.1038/s41598-019-43329-w,Al65Cu5Mg5Si15Zn5Ni5,FCC,S,AC,,,,C,25.0,534 $\pm$ 4,,1,,,107.8 $\pm$ 17,,,,,,,3.15,,101
-770,J105,10.1038/s41598-019-43329-w,Al65Cu5Mg5Si15Zn5Cr5,FCC,S,AC,,,,C,25.0,490 $\pm$ 18,,6,,,78.4 $\pm$ 3,,,,,,,3.06,,101
-771,J105,10.1038/s41598-019-43329-w,Al65Cu5Mg5Si15Zn5Mn5,FCC,S,AC,,,,C,25.0,622 $\pm$ 15,,2,,,114.1 $\pm$ 2,,,,,,,2.98,,101
-772,J105,10.1038/s41598-019-43329-w,Al65Cu5Mg5Si15Zn5Zr5,FCC + Laves,M,AC,,,,C,25.0,565 $\pm$ 79,,4,,,105.1 $\pm$ 27,,,,,,,3.06,,101
-773,J106,10.3390/e21050448,CoCrFeNiMo0.2,FCC,S,AC,,,,T,25.0,400,780,53,,,,,,,"For some reason, missing Yield Strength data",,,,,102
-774,J106,10.3390/e21050448,CoCrFeNiMo0.2,FCC,S,A,,,,T,25.0,,838,43,,,,,,,,,,,,102
-775,J106,10.3390/e21050448,CoCrFeNiMo0.2,FCC,S,A,,,,T,25.0,,899,31,,,,,,,,,,,,102
-776,J106,10.3390/e21050448,CoCrFeNiMo0.2,FCC,S,A,,,,T,25.0,,902,29,,,,,,,,,,,,102
-777,J106,10.3390/e21050448,CoCrFeNiMo0.2,FCC,S,A,,,,T,25.0,,811,52,,,,,,,,,,,,102
-778,J106,10.3390/e21050448,CoCrFeNiMo0.2,FCC,S,A,,,,T,25.0,,790,49,,,,,,,,,,,,102
-779,J106,10.3390/e21050448,CoCrFeNiMo0.2,FCC,S,A,,,,T,25.0,,799,47,,,,,,,,,,,,102
-780,J106,10.3390/e21050448,CoCrFeNiMo0.2,FCC,S,A,,,,T,25.0,,802,37,,,,,,,,,,,,102
-781,J106,10.3390/e21050448,CoCrFeNiMo0.2,FCC,S,A,,,,T,25.0,,823,36,,,,,,,,,,,,102
-782,J106,10.3390/e21050448,CoCrFeNiMo0.2,FCC,S,A,,,,T,25.0,,849,34,,,,,,,,,,,,102
-783,J106,10.3390/e21050448,CoCrFeNiMo0.2,FCC,S,A,,,,T,25.0,,895,32,,,,,,,,,,,,102
-784,J107,10.3390/ma12071136,Al19.9Li30Mg35Si10Ca5Y0.1,,M,AC,,,,C,25.0,556,,3,,,,,,,changed to multiphase,,,1.7,,103
-785,J107,10.3390/ma12071136,Al15Li35Mg35Ca10Si5,,M,AC,,,,C,25.0,418,,13,,,,,,,changed to multiphase,,,1.57,,103
-786,J107,10.3390/ma12071136,Al15Li38Mg48Ca1 Si1,,M,AC,,,,C,25.0,360,,9,,,,,,,corrected the name; changed to multiphase,,,1.52,,103
-787,J107,10.3390/ma12071136,Al15Li38Mg45Ca0.5Si1.5,,M,AC,,,,C,25.0,342,,44,,,,,,,changed to multiphase,,,1.5,,103
-788,J107,10.3390/ma12071136,Al15Li39Mg45Ca0.5Si0.5,,M,AC,,,,C,25.0,300,,63,,,,,,,changed to multiphase,,,1.46,,103
-789,J109,10.3390/e21030288,CoCrFeNiPd,FCC,S,AC,,,295,,,,,,,,,,,,,,,,,104
-790,J109,10.3390/e21030288,CoCrFeNiPdMn0.2,FCC + IM,M,AC,,,470,C,25.0,650,,50,,,,,,,changed to multiphase,,,,,104
-791,J109,10.3390/e21030288,CoCrFeNiPdMn0.4,FCC + IM,M,AC,,,380,C,25.0,650,,46,,,,,,,changed to multiphase,,,,,104
-792,J109,10.3390/e21030288,CoCrFeNiPdMn0.6,FCC + IM,M,AC,,,180,C,25.0,650,,42,,,,,,,changed to multiphase,,,,,104
-793,J109,10.3390/e21030288,CoCrFeNiPdMn0.8,FCC + IM,M,AC,,,160,C,25.0,650,,35,,,,,,,changed to multiphase,,,,,104
-794,J110,10.1016/j.scriptamat.2018.12.021,Al0.3CoCrFeMnNi,,,SPS,,,,,,,,,,,,,,,Skipped,,,,,106
-795,J111,10.1557/jmr.2019.40,CrFeNiTi0.2,BCC + FCC,M,AC,,,362.2,C,25.0,2297.94,,5.8,,,,,,,,,,,,107
-796,J111,10.1557/jmr.2019.40,CrFeNiTi0.3,BCC + FCC,M,AC,,,510.3,C,25.0,2364.63,,,,,,,,,corrected elongations,,,,,107
-797,J111,10.1557/jmr.2019.40,CrFeNiTi0.4,BCC,S,AC,,,600.3,C,25.0,2475.41,,6.5,,,,,,,corrected elongations,,,,,107
-798,J111,10.1557/jmr.2019.40,CrFeNiTi0.5,BCC,S,AC,,,709.6,C,25.0,2380.79,,,,,,,,,corrected elongations,,,,,107
-799,J111,10.1557/jmr.2019.40,CrFeNiTi0.6,BCC,S,AC,,,718.2,C,25.0,1923.15,,,,,,,,,corrected elongations,,,,,107
-800,J112,10.1557/jmr.2019.18,AlCuCrFeMn,sigma + FeMn,M,SPS,,,633,C,25.0,1010,,,,,,,,,fixed strength,,,,,108
-801,J112,10.1557/jmr.2019.18,AlCuCrFeMnW0.05,BCC + sigma + FeMn,M,SPS,,,680,C,25.0,1120,,,,,,,,,fixed strength,,,,,108
-802,J112,10.1557/jmr.2019.18,AlCuCrFeMnW0.1,BCC + sigma + FeMn,M,SPS,,,705,C,25.0,1250,,,,,,,,,fixed strength,,,,,108
-803,J112,10.1557/jmr.2019.18,AlCuCrFeMnW0.5,BCC + sigma + FeMn,M,SPS,,,780,C,25.0,1510,,,,,,,,,fixed strength,,,,,108
-804,J113,10.1557/jmr.2019.36,FeCoNiCuNb0.5,FCC + Laves,M,HR,,,,,,,,,,,,,,,No data for FeCoNiCuNb0.5,,,,,109
-805,J113,10.1557/jmr.2019.36,FeCoNiCuNb5,FCC + Laves,M,HR,,,,C,25.0,1498,,37.6,,,,,,,fixed processing to HR,,,,,109
-806,J113,10.1557/jmr.2019.36,FeCoNiCuNb7.5,FCC + Laves,M,HR,,,,C,25.0,1635,,31.7,,,,,,,fixed processing to HR,,,,,109
-807,J113,10.1557/jmr.2019.36,FeCoNiCuNb11.6,FCC + Laves,M,HR,,,,C,25.0,1703,,18.3,,,,,,,fixed processing to HR,,,,,109
-808,J113,10.1557/jmr.2019.36,FeCoNiCuNb15,FCC + Laves,M,HR,,,,C,25.0,1415,,12.6,,,,,,,fixed processing to HR,,,,,109
-809,J115,10.1016/j.msea.2019.01.088,Fe50Mn30Co10Cr10,FCC + BCP,M,AC,,,296 $\pm$ 24,,,,,,,,,,,,No mechanical data,,,,,110
-810,J115,10.1016/j.msea.2019.01.088,Fe49.7Mn30Co10Cr10B0.3,FCC + BCP,M,AC,,,282 $\pm$ 15,,,,,,,,,,,,,,,,,110
-811,J115,10.1016/j.msea.2019.01.088,Fe49.4Mn30Co10Cr10B0.6,FCC + BCP,M,AC,,,306 $\pm$ 24,,,,,,,,,,,,,,,,,110
-812,J115,10.1016/j.msea.2019.01.088,Fe48.3Mn30Co10Cr10B1.7,FCC + BCP,M,AC,,,452 $\pm$ 51,,,,,,,,,,,,,,,,,110
-813,J116,10.1016/j.msea.2019.01.083,Fe40.4Ni11.3Mn34.8Al7.5Cr6,,,AC,,,,T,25.0,159 $\pm$ 11,535 $\pm$ 21,,40.8 $\pm$ 3,,,,,,,,,,,111
-814,J116,10.1016/j.msea.2019.01.083,Fe40.4Ni11.3Mn34.8Al7.5Cr6,,M,A,,,,T,25.0,409 $\pm$ 12,584 $\pm$ 26,,10.5 $\pm$ 3,,,,,,marked as multiphase,,,,,111
-815,J116,10.1016/j.msea.2019.01.083,(Fe40.4Ni11.3Mn34.8Al7.5Cr6)98.9C1.1,,,AC,,,,T,25.0,355 $\pm$ 7,1174 $\pm$ 19,,49.5 $\pm$ 0.6,,,,,,,,,,,111
-816,J116,10.1016/j.msea.2019.01.083,(Fe40.4Ni11.3Mn34.8Al7.5Cr6)98.9C1.1,,M,A,,,,T,25.0,954 $\pm$ 49,978 $\pm$ 39,,2 $\pm$ 0.2,,,,,,marked as multiphase,,,,,111
-817,J117,10.1007/s00339-019-2484-1,TiZrHf,2HCP,M,AC,,,211,C,25.0,773,,17,,,,,,,changed to two HCP phases,,,,,112
-818,J117,10.1007/s00339-019-2484-1,TiZrHfSc,2HCP,M,AC,,,233,C,25.0,1001,,21.9,,,,,,,changed to two HCP phases,,,,,112
-819,J117,10.1007/s00339-019-2484-1,TiZrHfY,2HCP,M,AC,,,241,C,25.0,554,,17.7,,,,,,,changed to two HCP phases,,,,,112
-820,J117,10.1007/s00339-019-2484-1,TiZrHfScY,2HCP,M,AC,,,256,C,25.0,793,,15.7,,,,,,,changed to two HCP phases,,,,,112
-821,J118,10.1007/s10853-018-03196-8,NiCoFeCrGa,FCC + BCC,M,AC,,,,,,,,,,,,,,,Induction Melting,,,,,113
-822,J119,10.1007/s00339-019-2506-z,Co30Cr10Fe10Al18Ni32,FCC + BCC,M,AC,,,305.4 $\pm$ 6.1,C,25.0,1129.4,,16.7,,,,,,,,,,,,114
-823,J119,10.1007/s00339-019-2506-z,Co30Cr10Fe10Al18Ni31Mo1,FCC + BCC,M,AC,,,357.3 $\pm$ 9.4,C,25.0,1159.7,,18.2,,,,,,,,,,,,114
-824,J119,10.1007/s00339-019-2506-z,Co30Cr10Fe10Al18Ni30Mo2,FCC + BCC,M,AC,,,362.6 $\pm$ 8.2,C,25.0,1250.8,,14.7,,,,,,,,,,,,114
-825,J119,10.1007/s00339-019-2506-z,Co30Cr10Fe10Al18Ni29Mo3,FCC + BCC,M,AC,,,359.7 $\pm$ 4.7,C,25.0,1198.3,,14.5,,,,,,,,,,,,114
-826,J120,10.3390/met9030351,Fe24.1Co24.1Cr24.1Ni24.1Mo3.6,FCC + sigma,M,SPS,,,210,,,,,,,,,,,,"No mechanical data, changed to multiphase",,,,,116
-827,J121,10.1007/s11665-018-3837-1,CoCrCuFeNi,FCC,S,AC,,,,C,25.0,300,,50.2,,,,,,,,,,,,117
-828,J121,10.1007/s11665-018-3837-1,(CoCrCuFeNi)96V4,FCC + Cu phase,M,AC,,,,C,25.0,303,,50.2,,,,,,,changed to multiphase,,,,,117
-829,J121,10.1007/s11665-018-3837-1,(CoCrCuFeNi)92V8,FCC + Cu phase,M,AC,,,,C,25.0,307,,50.2,,,,,,,changed to multiphase,,,,,117
-830,J121,10.1007/s11665-018-3837-1,(CoCrCuFeNi)88V12,FCC + Sigma + Cu phase,M,AC,,,,C,25.0,330,,50.2,,,,,,,changed to multiphase,,,,,117
-831,J121,10.1007/s11665-018-3837-1,(CoCrCuFeNi)84V16,FCC + Sigma + Cu phase,M,AC,,,,C,25.0,616,,28,,,,,,,changed to multiphase,,,,,117
-832,J122,10.3390/e21020122,CoCrNiCuZn,FCC,S,SPS,500,,,C,25.0,,,,,,,,,,,,,5.26,,118
-833,J122,10.3390/e21020122,CoCrNiCuZn,FCC,S,SPS,500,,,C,25.0,,,,,,,,,,,,,6.26,,118
-834,J122,10.3390/e21020122,CoCrNiCuZn,FCC,S,SPS,500,,,C,25.0,,,,,,,,,,,,,7.84,,118
-835,J122,10.3390/e21020122,CoCrNiCuZn,FCC,S,SPS,500,,615,C,25.0,,,,,,,,,,,,,7.89,,118
-836,J123,10.3390/e21020114,HfNbTaTiZr,BCC,S,AC,500,,359,T,25.0,1155,1212,12.3,,,59,,,,,,,,,119
-837,J123,10.3390/e21020114,NbTaTiZr,BCC,S,AC,500,,358,T,25.0,1144,1205,6.4,,,98,,,,,,,,,119
-838,J123,10.3390/e21020114,NbTaTi,BCC,S,AC,500,,246,T,25.0,620,683,18.5,,,143,,,,,,,,,119
-839,J123,10.3390/e21020114,TaTiZr,BCC + ,M,AC,500,,485,T,25.0,,284,0,,,157,,,,changed to multiphase,,,,,119
-840,J123,10.3390/e21020114,NbTiZr,BCC,S,AC,500,,295,T,25.0,956,991,14.2,,,88,,,,,,,,,119
-841,J123,10.3390/e21020114,Nb1.5TaTiZr0.5,BCC + ,M,AC,500,,294,T,25.0,822,852,0.33,,,127,,,,changed to multiphase,,,,,119
-842,J123,10.3390/e21020114,Nb0.5TaTiZr1.5,BCC + ,M,AC,500,,489,T,25.0,,843,0,,,93,,,,changed to multiphase,,,,,119
-843,J124,10.1016/j.msea.2018.12.020,AgAlNbTiZn,,M,A,,,,,,,,,,,,,,,changed to multiphase,,,4.75,,120
-844,J124,10.1016/j.msea.2018.12.020,AgAlNbTiZn,,M,A,,,,,,,,,,,,,,,changed to multiphase,,,5.78,,120
-845,J124,10.1016/j.msea.2018.12.020,AgAlNbTiZn,,M,A,,,,,,,,,,,,,,,changed to multiphase,,,5.79,,120
-846,J124,10.1016/j.msea.2018.12.020,AgAlNbTiZn,,M,A,,,,,,,,,,,,,,,changed to multiphase,,,5.51,,120
-847,J124,10.1016/j.msea.2018.12.020,AgAlNbTiZn,,M,A,,,,,,,,,,,,,,,changed to multiphase,,,,,120
-848,J125,10.1155/2019/2157592,Fe31Mn28 Ni15Al24,,,AC,,,310,,,,,,,,,,,,,,,,,121
-849,J125,10.1155/2019/2157592,Fe31Mn28 Ni15Al24Ti0.8,,,AC,,,330,,,,,,,,,,,,,,,,,121
-850,J125,10.1155/2019/2157592,Fe31Mn28 Ni15Al24Ti3,,,AC,,,500,,,,,,,,,,,,,,,,,121
-851,J125,10.1155/2019/2157592,Fe31Mn28 Ni15Al24,,,A,,,340,,,,,,,,,,,,,,,,,121
-852,J125,10.1155/2019/2157592,Fe31Mn28 Ni15Al24Ti0.8,,,A,,,410,,,,,,,,,,,,,,,,,121
-853,J125,10.1155/2019/2157592,Fe31Mn28 Ni15Al24Ti3,,,A,,,495,,,,,,,,,,,,,,,,,121
-854,J125,10.1155/2019/2157592,Fe31Mn28 Ni15Al24,,,A,,,330,,,,,,,,,,,,,,,,,121
-855,J125,10.1155/2019/2157592,Fe31Mn28 Ni15Al24Ti0.8,,,A,,,330,,,,,,,,,,,,,,,,,121
-856,J125,10.1155/2019/2157592,Fe31Mn28 Ni15Al24Ti3,,,A,,,490,,,,,,,,,,,,,,,,,121
-857,J126,10.1080/00325899.2019.1576389,AlCrFeNiCoC,FCC + BCC,M,SPS,,,,,,,,,,,,,,,,,,,,122
-858,J128,10.1007/s11106-019-00012-z,CrFeNiCuTi,FCC + BCC,M,AC,,,,,,,,,,,,,,,No Mechanical Data,,,,,123
-859,J128,10.1007/s11106-019-00012-z,CrFeNiCuTi,FCC + BCC,M,HF + A,,,,,,,,,,,,,,,,,,,,123
-860,J128,10.1007/s11106-019-00012-z,CrFeNiCuTi,FCC + BCC,M,HF + A,,,,,,,,,,,,,,,,,,,,123
-861,J128,10.1007/s11106-019-00012-z,CrFeNiCuTi,FCC + BCC,M,HF + A,,,,,,,,,,,,,,,,,,,,123
-862,J129,10.1080/00325899.2018.1554834,CrMnFeCoNi,FCC  ,S,SPS,0.03,,435 $\pm$ 25,C,25.0,1100,,47,,,,,,,,,,7.753,,124
-863,J130,10.1007/s11665-018-3822-8,CuCrFeNiAl0.5,FCC,S,AC,,,226,,,,,,,,,,,,,,,,,126
-864,J130,10.1007/s11665-018-3822-8,CuCrFeNiAl0.5,FCC,S,CR + A,,,287,,,,,,,,,,,,,,,,,126
-865,J131,10.3390/e21010015,HfMoNbTaTiZr,BCC,S,AC,,,,C,25.0,1512,,12,,,,,,,,,,,,127
-866,J131,10.3390/e21010015,HfMoTaTiZr,BCC,S,AC,,,,C,25.0,1600,,4,,,,,,,,,,,,127
-867,J131,10.3390/e21010015,HfMoNbTiZr,BCC,S,AC,,,,C,25.0,1351,,20,,,,,,,,,,,,127
-868,J131,10.3390/e21010015,HfMoNbTaZr,BCC,S,AC,,,,C,25.0,1524,,16,,,,,,,,,,,,127
-869,J131,10.3390/e21010015,HfMoNbTaTi ,BCC,S,AC,,,,C,25.0,1369,,27,,,,,,,,,,,,127
-870,J131,10.3390/e21010015,HfMoNbTaTiZr,BCC,S,AC,,,,C,800.0,1007,,,,,,,,,,,,,,127
-871,J131,10.3390/e21010015,HfMoTaTiZr,BCC,S,AC,,,,C,800.0,1045,,,,,,,,,,,,,,127
-872,J131,10.3390/e21010015,HfMoNbTiZr,BCC,S,AC,,,,C,800.0,829,,,,,,,,,,,,,,127
-873,J131,10.3390/e21010015,HfMoNbTaZr,BCC,S,AC,,,,C,800.0,1005,,,,,,,,,,,,,,127
-874,J131,10.3390/e21010015,HfMoNbTaTi ,BCC,S,AC,,,,C,800.0,822,,,,,,,,,,,,,,127
-875,J131,10.3390/e21010015,HfMoNbTaTiZr,BCC,S,AC,,,,C,1000.0,814,,,,,,,,,,,,,,127
-876,J131,10.3390/e21010015,HfMoTaTiZr,BCC,S,AC,,,,C,1000.0,855,,,,,,,,,,,,,,127
-877,J131,10.3390/e21010015,HfMoNbTiZr,BCC,S,AC,,,,C,1000.0,721,,,,,,,,,,,,,,127
-878,J131,10.3390/e21010015,HfMoNbTaZr,BCC,S,AC,,,,C,1000.0,927,,,,,,,,,,,,,,127
-879,J131,10.3390/e21010015,HfMoNbTaTi ,BCC,S,AC,,,,C,1000.0,778,,,,,,,,,,,,,,127
-880,J131,10.3390/e21010015,HfMoNbTaTiZr,BCC,S,AC,,,,C,1200.0,556,,,,,,,,,,,,,,127
-881,J131,10.3390/e21010015,HfMoTaTiZr,BCC,S,AC,,,,C,1200.0,404,,,,,,,,,,,,,,127
-882,J131,10.3390/e21010015,HfMoNbTiZr,BCC,S,AC,,,,C,1200.0,301,,,,,,,,,,,,,,127
-883,J131,10.3390/e21010015,HfMoNbTaZr,BCC,S,AC,,,,C,1200.0,694,,,,,,,,,,,,,,127
-884,J131,10.3390/e21010015,HfMoNbTaTi ,BCC,S,AC,,,,C,1200.0,699,,,,,,,,,,,,,,127
-885,J131,10.3390/e21010015,HfMoNbTaZr,BCC,S,AC,,,,C,1400.0,278,,,,,,,,,,,,,,127
-886,J131,10.3390/e21010015,HfMoNbTaTi ,BCC,S,AC,,,,C,1400.0,367,,,,,,,,,,,,,,127
-887,J132,10.3390/coatings9010016,CoCrFeNi,FCC,S,VHP,0.0276,,,,,,,,,,,,,,,,,,,128
-888,J132,10.3390/coatings9010016,(CoCrFeNi)0.9(WC)0.1,FCC,S,VHP,0.0189,,475,,,,,,,,,,,,,,,7.24 $\pm$ 0.02,,128
-889,J132,10.3390/coatings9010016,(CoCrFeNi)0.7(WC)0.3,FCC,S,VHP,0.0182,,531,,,,,,,,,,,,,,,8.39 $\pm$ 0.03,,128
-890,J133,10.5755/j01.ms.25.3.19452,Al0.4FeCrCo1.5NiTi0.3,FCC + BCC,M,SPS,,,515 $\pm$ 16,C,25.0,2012 $\pm$ 20,,,17.52 $\pm$ 0.5,,,,,,,,,,,129
-891,J134,10.1007/s11661-018-4646-8,HfNbTaTiZr,BCC,S,AC,,,,T,25.0,1438,,,,,91.5,,,,Hot Isostatically Pressed,,,,,130
-892,J134,10.1007/s11661-018-4646-8,HfNbTaTiZr,BCC,S,HIP + CR + A,,,,T,25.0,1159,,,,,99.2,,,,these are true strains elongation and UTS were removed,,,,,130
-893,J134,10.1007/s11661-018-4646-8,HfNbTaTiZr,BCC,S,HIP + CR + A,,,,T,25.0,1134,,,,,109.1,,,,,,,,,130
-894,J134,10.1007/s11661-018-4646-8,HfNbTaTiZr,BCC,S,HIP + CR + A,,,,T,25.0,1094,,,,,105.3,,,,,,,,,130
-895,J134,10.1007/s11661-018-4646-8,HfNbTaTiZr,BCC,S,HIP + CR + A,,,,T,25.0,1071,,,,,91.6,,,,,,,,,130
-896,J134,10.1007/s11661-018-4646-8,HfNbTaTiZr,BCC,S,HIP + CR + A,24.4,,,T,25.0,1107,,,,,92.6,,,,,,,,,130
-897,J134,10.1007/s11661-018-4646-8,HfNbTaTiZr,BCC,S,HIP + CR + A,31.3,,,T,25.0,1115,,,,,92.6,,,,,,,,,130
-898,J134,10.1007/s11661-018-4646-8,HfNbTaTiZr,BCC,S,HIP + CR + A,38.4,,,T,25.0,1114,,,,,101.3,,,,,,,,,130
-899,J134,10.1007/s11661-018-4646-8,HfNbTaTiZr,BCC,S,HIP + CR + A,50.1,,,,,,,,,,,,,,,,,,,130
-900,J134,10.1007/s11661-018-4646-8,HfNbTaTiZr,BCC,S,HIP + CR + A,21.9,,,,,,,,,,,,,,,,,,,130
-901,J134,10.1007/s11661-018-4646-8,HfNbTaTiZr,BCC,S,HIP + CR + A,75.5,,,,,,,,,,,,,,,,,,,130
-902,J135,10.1080/02670836.2018.1446267,AlNbTiZr,B2,S,AC,250,,422 $\pm$ 15,C,25.0,1509,,8.6,,,,,,,,,,5.85,,131
-903,J135,10.1080/02670836.2018.1446267,AlNbTiZr,B2 + Zr5Al3,M,A,,,418 $\pm$ 15,C,25.0,1579,,17.8,,,,,,,,,,,,131
-904,J135-18,10.1016/j.matlet.2015.08.099,AlNbTiVZr0.5,,,,,,,C,25.0,1480,,>50,,,,,,,,,,5.64,,132
-905,J135-19,10.1179/1743284715Y.0000000032,AlNbTiZr,,,,,,539.6,C,25.0,1080,,5.9,,,,,,,,,,5.79,,133
-906,J135-24,10.1016/j.actamat.2012.11.032,NbTiVZr,,,,,,335,C,25.0,1105,,>50,,,,,,,,,,6.52,,134
-907,J135-24,10.1016/j.actamat.2012.11.032,CrNbTiZr,,,,,,418,C,25.0,1260,,6,,,,,,,,,,6.67,,134
-908,new_ref_2,10.1088/0256-307X/35/3/036102,AlCrFeNiMo0.5,BCC+B2,M,AC,,,623.7,C,25.0,1914.1,4023.6,,27.9,,,,,,,,,,,265
-909,new_ref_2,10.1088/0256-307X/35/3/036102,AlCrFeNiMo0.5Ti0.25,BCC+B2,M,AC,,,712,C,25.0,2161.7,3641.5,,14.3,,,,,,,,,,,265
-910,new_ref_2,10.1088/0256-307X/35/3/036102,AlCrFeNiMo0.5Ti0.4,BCC+B2,M,AC,,,731.9,C,25.0,2185.1,3673.4,,14.8,,,,,,,,,,,265
-911,new_ref_2,10.1088/0256-307X/35/3/036102,AlCrFeNiMo0.5Ti0.5,BCC+B2,M,AC,,,751.7,C,25.0,2228.7,3166.2,,10.4,,,,,,,,,,,265
-912,new_ref_2,10.1088/0256-307X/35/3/036102,AlCrFeNiMo0.5Ti0.6,BCC+B2,M,AC,,,756.1,C,25.0,1314.5,1314.5,,,,,,,,,,,,,265
-913,new_ref_2,10.1088/0256-307X/35/3/036102,AlCrFeNiMo0.5Ti0.75,BCC+B2,M,AC,,,766.2,C,25.0,618.8,618.8,,,,,,,,,,,,,265
-914,new_ref_4,10.1016/j.matdes.2018.06.003,AlCrMoNb,Laves (C14)+A15,M,A,,,,,,,,,,,,,,,,,,,,266
-915,new_ref_4,10.1016/j.matdes.2018.06.003,AlCrMoNb,Laves (C14)+A15,M,AC,,,,,,,,,,,,,,,,,,,,266
-916,new_ref_4,10.1016/j.matdes.2018.06.003,AlHfNbTi,B2,S,A,,,,,,,,,,,,,,,,,,,,266
-917,new_ref_4,10.1016/j.matdes.2018.06.003,AlHfNbTi,B2,S,AC,,,,,,,,,,,,,,,,,,,,266
-918,new_ref_4,10.1016/j.matdes.2018.06.003,AlHfTaTi,B2,S,A,,,,,,,,,,,,,,,,,,,,266
-919,new_ref_4,10.1016/j.matdes.2018.06.003,AlHfTaTi,B2,S,AC,,,,,,,,,,,,,,,,,,,,266
-920,new_ref_4,10.1016/j.matdes.2018.06.003,AlMoNbTi,BCC+A15,M,A,,,,,,,,,,,,,,,,,,,,266
-921,new_ref_4,10.1016/j.matdes.2018.06.003,AlMoNbTi,BCC,S,AC,,,509 $\pm$ 18,,,,,,,,,,,,,,,,,266
-922,new_ref_4,10.1016/j.matdes.2018.06.003,AlNbTaTi,BCC+A15,M,A,,,,,,,,,,,,,,,,,,,,266
-923,new_ref_4,10.1016/j.matdes.2018.06.003,AlNbTaTi,BCC,S,AC,,,458 $\pm$ 10,,,,,,,,,,,,,,,,,266
-924,new_ref_4,10.1016/j.matdes.2018.06.003,CrMoTaTi,BCC,S,A,,,555 $\pm$ 24,,,,,,,,,,,,,,,,,266
-925,new_ref_4,10.1016/j.matdes.2018.06.003,CrMoTaTi,BCC,S,AC,,,539 $\pm$ 32,,,,,,,,,,,,,,,,,266
-926,new_ref_4,10.1016/j.matdes.2018.06.003,CrNbTaTi,BCC+Laves (C15),M,A,,,,,,,,,,,,,,,,,,,,266
-927,new_ref_4,10.1016/j.matdes.2018.06.003,CrNbTaTi,BCC,S,AC,,,495 $\pm$ 26,,,,,,,,,,,,,,,,,266
-928,new_ref_4,10.1016/j.matdes.2018.06.003,CrNbTiW,BCC+Laves (C15),M,A,,,630 $\pm$ 28,,,,,,,,,,,,,,,,,266
-929,new_ref_4,10.1016/j.matdes.2018.06.003,CrNbTiW,BCC,S,AC,,,630 $\pm$ 24,,,,,,,,,,,,,,,,,266
-930,new_ref_4,10.1016/j.matdes.2018.06.003,HfNbTaTi,BCC,S,A,,,280 $\pm$ 10,,,,,,,,,,,,,,,,,266
-931,new_ref_4,10.1016/j.matdes.2018.06.003,HfNbTaTi,BCC,S,AC,,,270 $\pm$ 5,,,,,,,,,,,,,,,,,266
-932,new_ref_4,10.1016/j.matdes.2018.06.003,MoNbTaTiW,BCC,S,A,,,482 $\pm$ 10,,,,,,,,,,,,,,,,,266
-933,new_ref_4,10.1016/j.matdes.2018.06.003,MoNbTaTiW,BCC,S,AC,,,446 $\pm$ 32,,,,,,,,,,,,,,,,,266
-934,new_ref_4,10.1016/j.matdes.2018.06.003,MoNbTaTi,BCC,S,A,,,407 $\pm$ 17,,,,,,,,,,,,,,,,,266
-935,new_ref_4,10.1016/j.matdes.2018.06.003,MoNbTaTi,BCC,S,AC,,,431 $\pm$ 7,,,,,,,,,,,,,,,,,266
+572,J70,10.1016/j.msea.2019.138181,CrFeNi2Ti0.3,FCC,S,HR + A,324,,204,,,,,,,,,,,,"added in T dependant data, rec actual comp instead of nominal",,,,,237
+573,J72,10.1016/j.actamat.2019.06.006,NbTaTi,BCC,S,CR + A ,,,,C,20.0,573,,,,,,100.0,<5,,changed processing to CR + A; fixed yield strengths,,,,,238
+574,J72,10.1016/j.actamat.2019.06.006,NbTaTi,BCC,S,CR + A ,,,,C,100.0,486,,,,,,100.0,<5,,changed processing to CR + A; fixed yield strengths,,,,,238
+575,J72,10.1016/j.actamat.2019.06.006,NbTaTi,BCC,S,CR + A ,,,,C,200.0,378,,,,,,100.0,<5,,changed processing to CR + A; fixed yield strengths,,,,,238
+576,J72,10.1016/j.actamat.2019.06.006,NbTaTi,BCC,S,CR + A ,,,,C,300.0,314,,,,,,100.0,<5,,changed processing to CR + A; fixed yield strengths,,,,,238
+577,J72,10.1016/j.actamat.2019.06.006,NbTaTi,BCC,S,CR + A ,,,,C,400.0,232,,,,,,100.0,<5,,changed processing to CR + A; fixed yield strengths,,,,,238
+578,J72,10.1016/j.actamat.2019.06.006,NbTaTi,BCC,S,CR + A ,,,,C,600.0,222,,,,,,100.0,<5,,changed processing to CR + A; fixed yield strengths,,,,,238
+579,J72,10.1016/j.actamat.2019.06.006,NbTaTi,BCC,S,CR + A ,,,,C,800.0,210,,,,,,100.0,<5,,changed processing to CR + A; fixed yield strengths,,,,,238
+580,J72,10.1016/j.actamat.2019.06.006,NbTaTi,BCC,S,CR + A ,,,,C,1000.0,160,,,,,,100.0,<5,,changed processing to CR + A; fixed yield strengths,,,,,238
+581,J72,10.1016/j.actamat.2019.06.006,AlNbTaTi,BCC,S,AC,,,,C,20.0,1152,,,,,,180.0,<5,,fixed yield strengths,,,,,238
+582,J72,10.1016/j.actamat.2019.06.006,AlNbTaTi,BCC,S,AC,,,,C,200.0,740,,,,,,180.0,<5,,fixed yield strengths,,,,,238
+583,J72,10.1016/j.actamat.2019.06.006,AlNbTaTi,BCC,S,AC,,,,C,100.0,740,,,,,,180.0,<5,,fixed yield strengths,,,,,238
+584,J72,10.1016/j.actamat.2019.06.006,MoNbTaTi,BCC,S,A,,,,C,20.0,1210,,,,,,80.0,<5,,fixed yield strengths,,,,,238
+585,J72,10.1016/j.actamat.2019.06.006,MoNbTaTi,BCC,S,A,,,,C,60.0,1071,,,,,,80.0,<5,,fixed yield strengths,,,,,238
+586,J72,10.1016/j.actamat.2019.06.006,MoNbTaTi,BCC,S,A,,,,C,100.0,1029,,,,,,80.0,<5,,fixed yield strengths,,,,,238
+587,J72,10.1016/j.actamat.2019.06.006,MoNbTaTi,BCC,S,A,,,,C,200.0,868,,,,,,80.0,<5,,fixed yield strengths,,,,,238
+588,J72,10.1016/j.actamat.2019.06.006,MoNbTaTi,BCC,S,A,,,,C,300.0,732,,,,,,80.0,<5,,fixed yield strengths,,,,,238
+589,J72,10.1016/j.actamat.2019.06.006,MoNbTaTi,BCC,S,A,,,,C,400.0,685,,,,,,80.0,<5,,fixed yield strengths,,,,,238
+590,J72,10.1016/j.actamat.2019.06.006,MoNbTaTi,BCC,S,A,,,,C,600.0,593,,,,,,80.0,<5,,fixed yield strengths,,,,,238
+591,J72,10.1016/j.actamat.2019.06.006,MoNbTaTi,BCC,S,A,,,,C,800.0,564,,,,,,80.0,<5,,fixed yield strengths,,,,,238
+592,J72,10.1016/j.actamat.2019.06.006,MoNbTaTi,BCC,S,A,,,,C,1000.0,539,,,,,,80.0,<5,,fixed yield strengths,,,,,238
+593,J72,10.1016/j.actamat.2019.06.006,WNbTaTi,BCC,S,A,,,,C,20.0,1054,,,,,,90.0,<5,,fixed yield strengths,,,,,238
+594,J72,10.1016/j.actamat.2019.06.006,WNbTaTi,BCC,S,A,,,,C,100.0,968,,,,,,90.0,<5,,fixed yield strengths,,,,,238
+595,J72,10.1016/j.actamat.2019.06.006,WNbTaTi,BCC,S,A,,,,C,200.0,869,,,,,,90.0,<5,,fixed yield strengths,,,,,238
+596,J72,10.1016/j.actamat.2019.06.006,WNbTaTi,BCC,S,A,,,,C,300.0,754,,,,,,90.0,<5,,fixed yield strengths,,,,,238
+597,J72,10.1016/j.actamat.2019.06.006,WNbTaTi,BCC,S,A,,,,C,400.0,627,,,,,,90.0,<5,,fixed yield strengths,,,,,238
+598,J72,10.1016/j.actamat.2019.06.006,WNbTaTi,BCC,S,A,,,,C,600.0,596,,,,,,90.0,<5,,fixed yield strengths,,,,,238
+599,J72,10.1016/j.actamat.2019.06.006,WNbTaTi,BCC,S,A,,,,C,800.0,564,,,,,,90.0,<5,,fixed yield strengths,,,,,238
+600,J72,10.1016/j.actamat.2019.06.006,WNbTaTi,BCC,S,A,,,,C,1000.0,459,,,,,,90.0,<5,,fixed yield strengths,,,,,238
+601,J72,10.1016/j.actamat.2019.06.006,HfNbTaTi,BCC,S,A,,,,C,20.0,860,,,,,,160.0,<5,,fixed yield strengths,,,,,238
+602,J72,10.1016/j.actamat.2019.06.006,HfNbTaTi,BCC,S,A,,,,C,20.0,834,,,,,,160.0,<5,,fixed yield strengths,,,,,238
+603,J72,10.1016/j.actamat.2019.06.006,HfNbTaTi,BCC,S,A,,,,C,200.0,610,,,,,,160.0,<5,,fixed yield strengths,,,,,238
+604,J72,10.1016/j.actamat.2019.06.006,HfNbTaTi,BCC,S,A,,,,C,600.0,473,,,,,,160.0,<5,,fixed yield strengths,,,,,238
+605,J72,10.1016/j.actamat.2019.06.006,CrNbMoTi,BCC,S,A,,,,C,20.0,1630,,,,,,260.0,<5,,fixed yield strengths,,,,,238
+606,J72,10.1016/j.actamat.2019.06.006,CrNbMoTi,BCC,S,A,,,,C,200.0,1268,,,,,,260.0,<5,,fixed yield strengths,,,,,238
+607,J72,10.1016/j.actamat.2019.06.006,CrNbMoTi,BCC,S,A,,,,C,400.0,1115,,,,,,260.0,<5,,fixed yield strengths,,,,,238
+608,J72,10.1016/j.actamat.2019.06.006,CrNbMoTi,BCC,S,A,,,,C,600.0,1062,,,,,,260.0,<5,,fixed yield strengths,,,,,238
+609,J72,10.1016/j.actamat.2019.06.006,CrNbMoTi,BCC,S,A,,,,C,800.0,1058,,,,,,260.0,<5,,fixed yield strengths,,,,,238
+610,J72,10.1016/j.actamat.2019.06.006,CrMoTaTi,BCC + Laves,M,A,,,,C,20.0,1795,,,,,,200.0,<5,,fixed yield strengths,,,,,238
+611,J72,10.1016/j.actamat.2019.06.006,CrMoTaTi,BCC + Laves,M,A,,,,C,100.0,1506,,,,,,200.0,<5,,fixed yield strengths,,,,,238
+612,J72,10.1016/j.actamat.2019.06.006,CrMoTaTi,BCC + Laves,M,A,,,,C,200.0,1266,,,,,,200.0,<5,,fixed yield strengths,,,,,238
+613,J72,10.1016/j.actamat.2019.06.006,CrMoTaTi,BCC + Laves,M,A,,,,C,300.0,1183,,,,,,200.0,<5,,fixed yield strengths,,,,,238
+614,J72,10.1016/j.actamat.2019.06.006,CrMoTaTi,BCC + Laves,M,A,,,,C,400.0,1175,,,,,,200.0,<5,,fixed yield strengths,,,,,238
+615,J72,10.1016/j.actamat.2019.06.006,CrMoTaTi,BCC + Laves,M,A,,,,C,600.0,1162,,,,,,200.0,<5,,fixed yield strengths,,,,,238
+616,J72,10.1016/j.actamat.2019.06.006,CrMoTaTi,BCC + Laves,M,A,,,,C,800.0,1162,,,,,,200.0,<5,,fixed yield strengths,,,,,238
+617,J72,10.1016/j.actamat.2019.06.006,CrMoTaTi,BCC + Laves,M,A,,,,C,1000.0,1159,,,,,,200.0,<5,,fixed yield strengths,,,,,238
+618,J74,10.1007/s40195-019-00921-3,Ti2ZrHf0.5V,BCC,S,AC,,,338.3,C,25.0,1160,,>50,,,,,,,,,,,,239
+619,J74,10.1007/s40195-019-00921-3,Ti2ZrHf0.5V,BCC,S,AC,,,338.3,C,600.0,405,,>50,,,,,,,added high temperature data,,,,,239
+620,J74,10.1007/s40195-019-00921-3,Ti2ZrHf0.5V,BCC,S,AC,,,338.3,C,800.0,85,,>50,,,,,,,added high temperature data,,,,,239
+621,J74,10.1007/s40195-019-00921-3,Ti2ZrHf0.5VNb0.25,BCC,S,AC,,,332.4,C,25.0,1115,,>50,,,,,,,,,,,,239
+622,J74,10.1007/s40195-019-00921-3,Ti2ZrHf0.5VNb0.5,BCC,S,AC,,,322.5,C,25.0,1065,,>50,,,,,,,,,,,,239
+623,J74,10.1007/s40195-019-00921-3,Ti2ZrHf0.5VNb0.5,BCC,S,AC,,,322.5,C,600.0,718,,>50,,,,,,,added high temperature data,,,,,239
+624,J74,10.1007/s40195-019-00921-3,Ti2ZrHf0.5VNb0.5,BCC,S,AC,,,322.5,C,800.0,135,,>50,,,,,,,added high temperature data,,,,,239
+625,J74,10.1007/s40195-019-00921-3,Ti2ZrHf0.5VNb0.75,BCC,S,AC,,,318.9,C,25.0,1025,,>50,,,,,,,,,,,,239
+626,J74,10.1007/s40195-019-00921-3,Ti2ZrHf0.5VNb,BCC,S,AC,,,310.4,C,25.0,980,,>50,,,,,,,,,,,,239
+627,J74,10.1007/s40195-019-00921-3,Ti2ZrHf0.5VNb,BCC,S,AC,,,310.4,C,600.0,859,,>50,,,,,,,added high temperature data,,,,,239
+628,J74,10.1007/s40195-019-00921-3,Ti2ZrHf0.5VNb,BCC,S,AC,,,310.4,C,800.0,195,,>50,,,,,,,added high temperature data,,,,,239
+629,J75,10.1016/j.matchar.2019.05.043,FeCrCuMnNi,2FCC + BCC,M,CR,,,398,T,25.0,1190,1300,4.3,,,,,,,changed to 2FCC + BCC,,,,,240
+630,J75,10.1016/j.matchar.2019.05.043,FeCrCuMnNi,2FCC + BCC,M,CR + A,1.4,,367,T,25.0,1170,1270,10.7,,,,,,,changed to 2FCC + BCC,,,,,240
+631,J75,10.1016/j.matchar.2019.05.043,FeCrCuMnNi,2FCC + BCC,M,CR + A,1.5,,312,T,25.0,1030,1190,11.4,,,,,,,changed to 2FCC + BCC,,,,,240
+632,J75,10.1016/j.matchar.2019.05.043,FeCrCuMnNi,2FCC + BCC,M,CR + A,1.9,,271,T,25.0,970,1110,12.1,,,,,,,changed to 2FCC + BCC,,,,,240
+633,J75,10.1016/j.matchar.2019.05.043,FeCrCuMnNi,2FCC + BCC,M,CR + A,2.2,,183,T,25.0,850,960,14.3,,,,,,,changed to 2FCC + BCC,,,,,240
+634,J75,10.1016/j.matchar.2019.05.043,FeCrCuMnNi,2FCC + BCC,M,CR + A,6.5,,162,T,25.0,470,640,34.8,,,,,,,changed to 2FCC + BCC,,,,,240
+635,J76,10.1016/j.matlet.2019.04.012,CoCrFeNi2.1Nb0.2,FCC + Laves,M,AC,,,,T,25.0,170,537,32,,,,,,,,,,,,241
+636,J76,10.1016/j.matlet.2019.04.012,CoCrFeNi2.1Nb0.4,FCC + Laves,M,AC,,,,T,25.0,640,840,7,,,,,,,,,,,,241
+637,J76,10.1016/j.matlet.2019.04.012,CoCrFeNi2.1Nb0.2,FCC + Laves + D019,M,A,,,,T,25.0,560,860,19,,,,,,,,,,,,241
+638,J76,10.1016/j.matlet.2019.04.012,CoCrFeNi2.1Nb0.4,FCC + Laves,M,A,,,,T,25.0,,,3,,,,,,,,,,,,241
+639,J77,10.1007/s40195-019-00916-0,(CoCrFeMnNi)95C5,FCC + M23C6,M,A,,,345,C,800.0,,,,,,,,,,,,,,,242
+640,J77,10.1007/s40195-019-00916-0,(CoCrFeMnNi)95C5,FCC + M23C6,M,A,,,285,C,1000.0,,,,,,,,,,,,,,,242
+641,J78,10.1016/j.matchar.2019.05.022,AlCoCrFeNi,BCC + FCC,M,SPS,10.21,,550 $\pm$ 12,C,25.0,1221.1 $\pm$ 15,,30,23.2,,,,,,"changed elongation to total elongation, not plastic",,,,,243
+642,J78,10.1016/j.matchar.2019.05.022,AlCoCrFeNi,BCC + FCC,M,SPS,15.68,,510 $\pm$ 11,C,25.0,1186.7 $\pm$ 16,,33,26.5,,,,,,"changed elongation to total elongation, not plastic",,,,,243
+643,J78,10.1016/j.matchar.2019.05.022,AlCoCrFeNi,BCC + FCC,M,SPS,16.7,,503 $\pm$ 14,C,25.0,1112.9 $\pm$ 20,,30,21.4,,,,,,"changed elongation to total elongation, not plastic",,,,,243
+644,J79,10.1007/s11837-019-03432-9,WMoNbCrTi,BCC + Laves,M,SPS,,,,C,25.0,2500,,10,,,,,,,Experimental Variable was ball milling time. ,,,,,244
+645,J79,10.1007/s11837-019-03432-9,WMoNbCrTi,BCC + Laves,M,SPS,,,,C,25.0,1260,,4.8,,,,,,,Added Total Elongation Data from Fig 6,,,,,244
+646,J79,10.1007/s11837-019-03432-9,WMoNbCrTi,BCC + Laves,M,SPS,,,,C,25.0,1630,,4.85,,,,,,,,,,,,244
+647,J79,10.1007/s11837-019-03432-9,WMoNbCrTi,BCC + Laves,M,SPS,,,,C,25.0,2030,,4.3,,,,,,,,,,,,244
+648,J79,10.1007/s11837-019-03432-9,WMoNbCrTi,BCC + Laves,M,SPS,,,,C,25.0,1920,,5,,,,,,,,,,,,244
+649,J80,10.1088/2053-1591/ab2517,AlCoCrFeNi,BCC + B2,M,SPS,,,,C,25.0,,,,,,,,,,,,,,,246
+650,J80,10.1088/2053-1591/ab2517,AlCoCrFeNi,BCC + B2,M,SPS,,,,C,25.0,,,,,,,,,,,,,,,246
+651,J80,10.1088/2053-1591/ab2517,AlCoCrFeNi,BCC + B2 + FCC,M,SPS,,,,C,25.0,,,,,,,,,,,,,,,246
+652,J80,10.1088/2053-1591/ab2517,AlCoCrFeNi,BCC + B2 + FCC,M,SPS,,,,C,25.0,,,,,,,,,,,,,,,246
+653,J80,10.1088/2053-1591/ab2517,AlCoCrFeNi,BCC + B2 + FCC,M,SPS,,,,C,25.0,520,,,,,,,,,,,,,,246
+654,J80,10.1088/2053-1591/ab2517,AlCoCrFeNi,BCC + B2 + FCC,M,SPS,,,,C,25.0,1150,,,,,,,,,,,,,,246
+655,J80,10.1088/2053-1591/ab2517,AlCoCrFeNi,BCC + B2 + FCC,M,SPS,,,,C,25.0,1287,,,,,,,,,,,,,,246
+656,J80,10.1088/2053-1591/ab2517,AlCoCrFeNi,BCC + B2 + FCC,M,SPS,,,,C,25.0,1286,,,,,,,,,,,,,,246
+657,J80,10.1088/2053-1591/ab2517,AlCoCrFeNi,BCC + B2 + FCC,M,SPS,,,,C,25.0,1390,,,,,,,,,,,,,,246
+658,J80,10.1088/2053-1591/ab2517,AlCoCrFeNi,BCC + B2 + FCC,M,SPS,,,,C,25.0,1626,,,,,,,,,,,,,,246
+659,J81,10.1016/j.jallcom.2019.04.296,CrFeMnNi,FCC,S,,,,,,,,,,,,,,,,Skipped,,,,,247
+660,J82,10.1016/j.msea.2019.138039,Fe40Mn40Co10Cr10,FCC,S,AC,,,,T,25.0,213,471,55.7,,,,,,,Added values for AC and F,,,,,248
+661,J82,10.1016/j.msea.2019.138039,Fe40Mn40Co10Cr10,FCC,S,AC,,,,T,25.0,393,634,26.5,,,,,,,,,,,,248
+662,J82,10.1016/j.msea.2019.138039,Fe40Mn40Co10Cr10,FCC,S,HF,,,,T,25.0,792,1055,22.6,,,,,,,,,,,,248
+663,J82,10.1016/j.msea.2019.138039,Fe40Mn40Co10Cr10,FCC,S,HR + A,18,,,T,25.0,559,1004,33.9,,,,,,,,,,,,248
+664,J82,10.1016/j.msea.2019.138039,Fe40Mn40Co10Cr10,FCC,S,HR + A,32,,,T,25.0,512,978,55.3,,,,,,,,,,,,248
+665,J82,10.1016/j.msea.2019.138039,Fe40Mn40Co10Cr10,FCC,S,HR + A,63,,,T,25.0,476,947,69.4,,,,,,,,,,,,248
+666,J84,10.1016/j.jallcom.2019.04.121,CrMnFeCoNi,FCC,S,CR + A,,,,T,25.0,353,635,,43,,,,,,Fixed with values from summary ,,,,,249
+667,J84,10.1016/j.jallcom.2019.04.121,Cr19.68Mn19.68Fe19.68Co19.68Ni19.68Nb0.8C0.8,FCC + NbC,M,CR + A,,,,T,25.0,732,911,,32,,,,,,,,,,,249
+668,J85,10.1016/j.matlet.2019.03.075,TiNbTa0.5ZrAl0.5,BCC + HCP,M,HF,,,,C,25.0,1500,,6,,,,,,,Changed AC to F,,,,,250
+669,J85,10.1016/j.matlet.2019.03.075,TiNbTa0.5ZrAl0.5,BCC,M,S,,,,,,,,,,,,,,,Added Sintering Data,,,,,250
+670,J85,10.1016/j.matlet.2019.03.075,TiNbTa0.5ZrAl0.5,BCC + HCP,M,HF + A,,,,C,25.0,1200,,8,,,,,,,,,,,,250
+671,J85,10.1016/j.matlet.2019.03.075,TiNbTa0.5ZrAl0.5,BCC + HCP,M,HF + A,,,,C,25.0,2100,,12,,,,,,,,,,,,250
+672,J85,10.1016/j.matlet.2019.03.075,TiNbTa0.5ZrAl0.5,BCC + HCP,M,HF + A,,,,C,25.0,1740,,20,,,,,,,,,,,,250
+673,J85,10.1016/j.matlet.2019.03.075,TiNbTa0.5ZrAl0.5,BCC + HCP,M,HF + A,,,,C,25.0,1630,,12,,,,,,,,,,,,250
+674,J86,10.1007/s10853-019-03567-9,NbTaWMo,BCC,S,SPS,,,504.5,C,25.0,1217,,7.5,3.8,,,,,,Fixed Elongation Values from Fracture Strain to Engineering Strain,,,,,251
+675,J86,10.1007/s10853-019-03567-9,NbTaWMoSi0.25,BCC + Silicide,M,SPS,,,567,C,25.0,1826,,16.5,10.5,,,,,,,,,,,251
+676,J86,10.1007/s10853-019-03567-9,NbTaWMoSi0.5,BCC + Silicide,M,SPS,,,697,C,25.0,1883,,11,5.8,,,,,,,,,,,251
+677,J86,10.1007/s10853-019-03567-9,NbTaWMoSi0.75,BCC + Silicide,M,SPS,,,682.6,C,25.0,2483,,6.2,1.6,,,,,,,,,,,251
+678,J86,10.1007/s10853-019-03567-9,NbTaWMo,BCC,S,SPS,,,420,,200.0,,,,,,,,,,"Tests focused on HV, not mechanical stress",,,,,251
+679,J86,10.1007/s10853-019-03567-9,NbTaWMoSi0.25,BCC + Silicide,M,SPS,,,425,,200.0,,,,,,,,,,,,,,,251
+680,J86,10.1007/s10853-019-03567-9,NbTaWMoSi0.5,BCC + Silicide,M,SPS,,,535,,200.0,,,,,,,,,,,,,,,251
+681,J86,10.1007/s10853-019-03567-9,NbTaWMoSi0.75,BCC + Silicide,M,SPS,,,640,,200.0,,,,,,,,,,,,,,,251
+682,J86,10.1007/s10853-019-03567-9,NbTaWMo,BCC,S,SPS,,,425,,400.0,,,,,,,,,,,,,,,251
+683,J86,10.1007/s10853-019-03567-9,NbTaWMoSi0.25,BCC + Silicide,M,SPS,,,420,,400.0,,,,,,,,,,,,,,,251
+684,J86,10.1007/s10853-019-03567-9,NbTaWMoSi0.5,BCC + Silicide,M,SPS,,,560,,400.0,,,,,,,,,,,,,,,251
+685,J86,10.1007/s10853-019-03567-9,NbTaWMoSi0.75,BCC + Silicide,M,SPS,,,600,,400.0,,,,,,,,,,,,,,,251
+686,J86,10.1007/s10853-019-03567-9,NbTaWMo,BCC,S,SPS,,,340,,600.0,,,,,,,,,,,,,,,251
+687,J86,10.1007/s10853-019-03567-9,NbTaWMoSi0.25,BCC + Silicide,M,SPS,,,425,,600.0,,,,,,,,,,,,,,,251
+688,J86,10.1007/s10853-019-03567-9,NbTaWMoSi0.5,BCC + Silicide,M,SPS,,,540,,600.0,,,,,,,,,,,,,,,251
+689,J86,10.1007/s10853-019-03567-9,NbTaWMoSi0.75,BCC + Silicide,M,SPS,,,650,,600.0,,,,,,,,,,,,,,,251
+690,J86,10.1007/s10853-019-03567-9,NbTaWMo,BCC,S,SPS,,,335.5,,800.0,,,,,,,,,,,,,,,251
+691,J86,10.1007/s10853-019-03567-9,NbTaWMoSi0.25,BCC + Silicide,M,SPS,,,399.2,,800.0,,,,,,,,,,,,,,,251
+692,J86,10.1007/s10853-019-03567-9,NbTaWMoSi0.5,BCC + Silicide,M,SPS,,,550.5,,800.0,,,,,,,,,,,,,,,251
+693,J86,10.1007/s10853-019-03567-9,NbTaWMoSi0.75,BCC + Silicide,M,SPS,,,597.3,,800.0,,,,,,,,,,,,,,,251
+694,J86,10.1007/s10853-019-03567-9,NbTaWMoSi0.75,BCC + Silicide,M,SPS,,,,C,1200.0,960,,22.7,,,,,,,Added Engineering Values from Fig 5,,,,,251
+695,J87,10.1007/s11661-019-05231-y,FeCoCrNiMn,FCC,S,CR,,,,T,25.0,1199.26,1335.35,4.37,,,,,,,,,,,,252
+696,J87,10.1007/s11661-019-05231-y,FeCoCrNiMn,FCC,S,CR + A,,,,T,25.0,1269.23,1366.3,1.16,,,,,,,,,,,,252
+697,J87,10.1007/s11661-019-05231-y,FeCoCrNiMn,FCC,S,CR + A,,,,T,25.0,1371.21,1402.83,1.58,,,,,,,,,,,,252
+698,J87,10.1007/s11661-019-05231-y,FeCoCrNiMn,FCC,S,CR + A,0.166,,,T,25.0,1362.74,1471.05,3.15,,,,,,,,,,,,252
+699,J87,10.1007/s11661-019-05231-y,FeCoCrNiMn,FCC,S,CR + A,0.248,,,T,25.0,1241.81,1325.25,4.31,,,,,,,,,,,,252
+700,J87,10.1007/s11661-019-05231-y,FeCoCrNiMn,FCC,S,CR + A,0.468,,,T,25.0,930.3,1021.32,19.01,,,,,,,,,,,,252
+701,J87,10.1007/s11661-019-05231-y,FeCoCrNiMn,FCC,S,CR + A,1.79,,,T,25.0,729.21,901.74,26.3,,,,,,,,,,,,252
+702,J87,10.1007/s11661-019-05231-y,FeCoCrNiMn,FCC,S,CR + A,4.57,,,T,25.0,494.82,735.6,38.7,,,,,,,,,,,,252
+703,J87,10.1007/s11661-019-05231-y,FeCoCrNiMn,FCC,S,CR + A,13.45,,,T,25.0,366.88,673.25,42.55,,,,,,,,,,,,252
+704,J87,10.1007/s11661-019-05231-y,FeCoCrNiMn,FCC,S,CR + A,22.37,,,T,25.0,290.65,618.51,43.15,,,,,,,,,,,,252
+705,J87,10.1007/s11661-019-05231-y,FeCoCrNiMn,FCC,S,CR + A,30.6,,,T,25.0,258.76,598.75,45.05,,,,,,,,,,,,252
+706,J88,10.1016/j.vacuum.2019.04.043,FeCoCrNiMnTi0.1C0.1,FCC + TiMnO3 + M23C6 + M7C3,M,VHP,,,457 $\pm$ 2,C,25.0,1616 $\pm$ 27,,,4.5 $\pm$ 0.3,,,,,,Vacuum Hot Press Sintering,,,7.5,,253
+707,J88,10.1016/j.vacuum.2019.04.043,FeCoCrNiMnTi0.1C0.1,FCC + TiMnO3 + M23C6 + M7C3,M,VHP,,,461 $\pm$ 3,C,25.0,1652 $\pm$ 16,,,10 $\pm$ 0.5,,,,,,Added HV and Density values from Table 2,,,7.64,,253
+708,J88,10.1016/j.vacuum.2019.04.043,FeCoCrNiMnTi0.1C0.1,FCC + TiMnO3 + M23C6 + M7C3,M,VHP,,,428 $\pm$ 3,C,25.0,1490 $\pm$ 11,,,11.4 $\pm$ 0.5,,,,,,,,,7.66,,253
+709,J88,10.1016/j.vacuum.2019.04.043,FeCoCrNiMnTi0.1C0.1,FCC + TiMnO3 + M23C6 + M7C3,M,VHP,,,378 $\pm$ 4,C,25.0,1194 $\pm$ 9,,,20.1 $\pm$ 0.7,,,,,,,,,7.69,,253
+710,J90-32,10.1016/j.intermet.2012.03.005,CoCrFeNi,FCC,S,,,,,,,,,,,,,,,,"Large list, varied in data points",32.0,10.1016/j.intermet.2012.03.005,,,255
+711,J90-32,10.1016/j.intermet.2012.03.005,CoCrFeNiAl0.5,FCC + BCC,M,,,,250,,,,,,,,,,,,come from a variety of references,32.0,10.1016/j.intermet.2012.03.005,,,255
+712,J90-32,10.1016/j.intermet.2012.03.005,CoCrFeNiAl,BCC,S,,,,500,,,,,,,,,,,,,32.0,10.1016/j.intermet.2012.03.005,,,255
+713,J90-32,10.1016/j.intermet.2012.03.005,CoCrFeNiAl2,BCC,S,,,,733,,,,,,,,,,,,,32.0,10.1016/j.intermet.2012.03.005,,,255
+714,J90-35,10.1016/j.msea.2013.12.096,CoFeNiAl0.5Ti0.5,FCC + BCC,M,,,,733,,,,,,,,,,,,,35.0,10.1016/j.msea.2013.12.096,,,256
+715,J90-35,10.1016/j.msea.2013.12.096,CrCoFeNiAl0.5Ti0.5,FCC + FCC,M,,,,640,,,,,,,,,,,,,35.0,10.1016/j.msea.2013.12.096,,,256
+716,J90-36,10.4028/www.scientific.net/MSF.846.13,Al0.5FeCrNiMnCoTa0,,,,,,,,,,,,,,,,,,,36.0,10.4028/www.scientific.net/MSF.846.13,,,257
+717,J90-36,10.4028/www.scientific.net/MSF.846.13,Al0.5FeCrNiMnCoTa0.2,FCC + BCC + laves,M,,,,385,,,,,,,,,,,,,36.0,10.4028/www.scientific.net/MSF.846.13,,,257
+718,J90-36,10.4028/www.scientific.net/MSF.846.13,Al0.5FeCrNiMnCoTa0.4,FCC + BCC + laves,M,,,,486,,,,,,,,,,,,,36.0,10.4028/www.scientific.net/MSF.846.13,,,257
+719,J90-36,10.4028/www.scientific.net/MSF.846.13,Al0.55FeCrNiMnCoTa0.6,FCC + BCC + laves + IM,M,,,,570,,,,,,,,,,,,,36.0,10.4028/www.scientific.net/MSF.846.13,,,257
+720,J90-36,10.4028/www.scientific.net/MSF.846.13,FeCrNiMnCoTa0,FCC + BCC,M,,,,,,,,,,,,,,,,,36.0,10.4028/www.scientific.net/MSF.846.13,,,257
+721,J90-36,10.4028/www.scientific.net/MSF.846.13,FeCrNiMnCoTa0.2,FCC + BCC,M,,,,200,,,,,,,,,,,,,36.0,10.4028/www.scientific.net/MSF.846.13,,,257
+722,J90-36,10.4028/www.scientific.net/MSF.846.13,FeCrNiMnCoTa0.4,FCC + BCC,M,,,,290,,,,,,,,,,,,,36.0,10.4028/www.scientific.net/MSF.846.13,,,257
+723,J90-36,10.4028/www.scientific.net/MSF.846.13,FeCrNiMnCoTa0.6,FCC + BCC,M,,,,345,,,,,,,,,,,,,36.0,10.4028/www.scientific.net/MSF.846.13,,,257
+724,J90-39,10.1016/j.jallcom.2010.02.032,Al0.3CoCrFeNi,FCC,S,,,,160,,,,,,,,,,,,,39.0,10.1016/j.jallcom.2010.02.032,,,258
+725,J90-39,10.1016/j.jallcom.2010.02.032,Al0.3CoCrFeNiMo0.1,FCC,S,,,,200,,,,,,,,,,,,,39.0,10.1016/j.jallcom.2010.02.032,,,258
+726,J90,10.1016/j.msea.2019.05.056,Al5Cr12Fe35Mn28Ni20,FCC,S,AC,,,,T,25.0,280,556,48,48.2,,,,,,actually made by the paper,,This Paper,,,254
+727,J90,10.1016/j.msea.2019.05.056,Al10Cr12Fe35Mn23Ni20,FCC,S,CR,,,,T,25.0,320,625,42.2,42.45,,,,,,,,This Paper,,,254
+728,J90,10.1016/j.msea.2019.05.056,Al5Cr12Fe35Mn28Ni20,FCC,S,AC,,,,T,25.0,1253,1392,6.78,8.2,,,,,,,,This Paper,,,254
+729,J90,10.1016/j.msea.2019.05.056,Al10Cr12Fe35Mn23Ni20,FCC,S,CR,,,,T,25.0,1400,1500,5.83,7.85,,,,,,,,This Paper,,,254
+730,J91,10.1016/j.msea.2019.04.096,CoCuFeMnNi,FCC,S,AC,,,,,800.0,,,,,,,,,,,,,,,259
+731,J91,10.1016/j.msea.2019.04.096,CoCuFeMnNi,FCC,S,AC,,,,,900.0,,,,,,,,,,,,,,,259
+732,J91,10.1016/j.msea.2019.04.096,CoCuFeMnNi,FCC,S,AC,,,,,100.0,,,,,,,,,,,,,,,259
+733,J92,10.1016/j.msea.2019.05.078,CoCrFeNiMo0.15,FCC,S,AC,,,,T,25.0,489 $\pm$ 2,895 $\pm$ 10,,53.6 $\pm$ 0.7,,,,,,,,,,,260
+734,J92,10.1016/j.msea.2019.05.078,CoCrFeNiMo0.15,,,CR+A,,,,T,25.0,873 $\pm$ 27,,,23.4 $\pm$ 1.1,,,,,,CR,,,,,260
+735,J92,10.1016/j.msea.2019.05.078,CoCrFeNiMo0.15,,,CR+A,,,,T,25.0,952 $\pm$ 35,1122 $\pm$ 17,,14.2 $\pm$ 0.5,,,,,,,,,,,260
+736,J92,10.1016/j.msea.2019.05.078,CoCrFeNiMo0.15,FCC,S,CR+A,,,,T,25.0,1136 $\pm$ 3,1245 $\pm$ 0.8,,8.7 $\pm$ 0.7,,,,,,,,,,,260
+737,J92,10.1016/j.msea.2019.05.078,CoCrFeNiMo0.15,FCC,S,CR+A,,,,T,25.0,1301 $\pm$ 28,1493 $\pm$ 30,,7.2 $\pm$ 0.5,,,,,,,,,,,260
+738,J92,10.1016/j.msea.2019.05.078,CoCrFeNiMo0.15,,,CR+A,,,,T,25.0,1311 $\pm$ 14,1421 $\pm$ 27,,5.9 $\pm$ 0.3,,,,,,,,,,,260
+739,J92,10.1016/j.msea.2019.05.078,CoCrFeNiMo0.15,,,CR+A,,,,T,25.0,1273 $\pm$ 16,1458 $\pm$ 28,,5.5 $\pm$ 0.4,,,,,,,,,,,260
+740,J93,10.1016/j.msea.2019.05.003,CuNi1.01Si0.28Co0.14Cr0.45,,M,CR+A,,,142.5,T,25.0,777,810,3.4,,,,,,,added multiphase,,,,,261
+741,J93,10.1016/j.msea.2019.05.003,CuNi1.01Si0.28Co0.14Cr0.45,,M,CR+A,,,147.4,,,,,,,,,,,,added multiphase,,,,,261
+742,J93,10.1016/j.msea.2019.05.003,CuNi1.01Si0.28Co0.14Cr0.45,,M,CR+A,,,155.2,,,,,,,,,,,,added multiphase,,,,,261
+743,J95,10.1038/s41467-019-10533-1,Co33W07Al33Nb24Cr03,,,AC,,,1084,,25.0,,,,,,,,,,,,,,,262
+744,J95,10.1038/s41467-019-10533-1,Ti18Ni24Ta12Cr22Co24,,,AC,,,1011,,25.0,,,,,,,,,,,,,,,262
+745,J95,10.1038/s41467-019-10533-1,Co6W9Al36Mo38Ni11,,,AC,,,725,,25.0,,,,,,,,,,,,,,,262
+746,J95,10.1038/s41467-019-10533-1,Ni47Co02Ta12Ti9Nb30,,,AC,,,815,,25.0,,,,,,,,,,,,,,,262
+747,J95,10.1038/s41467-019-10533-1,Ti44Ni02Nb21Cr21Co12,,,AC,,,422,,25.0,,,,,,,,,,,,,,,262
+748,J95,10.1038/s41467-019-10533-1,Ti32Nb9Ta01Cr19Co39,,,AC,,,856,,25.0,,,,,,,,,,,,,,,262
+749,J95,10.1038/s41467-019-10533-1,Ti39W04Nb31Ta04Co22,,,AC,,,277,,25.0,,,,,,,,,,,,,,,262
+750,J98,10.1016/j.jmst.2018.12.014,AlCoCuFeNi0.5,FCC + BCC + B2,M,AC,,,430.9,C,25.0,929,,13.7,,,,,,,,,,,,263
+751,J98,10.1016/j.jmst.2018.12.014,AlCoCuFeNi0.8,FCC + BCC + B2,M,AC,,,420,C,25.0,1021,,12.3,,,,,,,,,,,,263
+752,J98,10.1016/j.jmst.2018.12.014,AlCoCuFeNi,FCC + BCC + B2,M,AC,,,391.4,C,25.0,994,,24.5,,,,,,,,,,,,263
+753,J98,10.1016/j.jmst.2018.12.014,AlCoCuFeNi1.5,FCC + BCC + B2,M,AC,,,323.8,C,25.0,680,,35.9,,,,,,,,,,,,263
+754,J98,10.1016/j.jmst.2018.12.014,AlCoCuFeNi2,FCC + BCC + B2,M,AC,,,299.2,C,25.0,544,,,,,,,,,,,,,,263
+755,J98,10.1016/j.jmst.2018.12.014,AlCoCuFeNi3,FCC,S,AC,,,279.6,C,25.0,268,,,,,,,,,,,,,,263
+756,J100,10.1016/j.msea.2019.04.104,Al0.5CrFeMnNi,BCC + B2,M,AC,,,353,C,25.0,1091,,50,,,,,,,,,,,,99
+757,J100,10.1016/j.msea.2019.04.104,Al0.6CrFeMnNi,BCC + B2,M,AC,,,361,C,25.0,1130,,53,,,,,,,,,,,,99
+758,J100,10.1016/j.msea.2019.04.104,Al0.7CrFeMnNi,BCC + B2,M,AC,,,375,C,25.0,1170,,55,,,,,,,,,,,,99
+759,J100,10.1016/j.msea.2019.04.104,Al0.8CrFeMnNi,BCC + B2,M,AC,,,386,C,25.0,1200,,55,,,,,,,,,,,,99
+760,J102,10.1016/j.jmmm.2019.01.096,FeCoNiCr0.2Si0.2,FCC,S,AC,,,130.1,T,25.0,225,732,61,,,,,,,,,,,,100
+761,J102,10.1016/j.jmmm.2019.01.096,FeCoNiCr0.2Si0.2,FCC,S,HR,,,318.2,T,25.0,705,1070,10,,,,,,,changed processing to hot rolling,,,,,100
+762,J102,10.1016/j.jmmm.2019.01.096,FeCoNiCr0.2Si0.2,FCC,S,HR + A,,,153.8,T,25.0,320,920,60,,,,,,,changed processing to hot rolling,,,,,100
+763,J105,10.1038/s41598-019-43329-w,Al65Cu5Mg5Si15Zn5Fe5,FCC,S,AC,,,,C,25.0,422 $\pm$ 75,,1,,,88.7 $\pm$ 0.4,,,,,,,3.08,,101
+764,J105,10.1038/s41598-019-43329-w,Al65Cu5Mg5Si15Zn5Ni5,FCC,S,AC,,,,C,25.0,534 $\pm$ 4,,1,,,107.8 $\pm$ 17,,,,,,,3.15,,101
+765,J105,10.1038/s41598-019-43329-w,Al65Cu5Mg5Si15Zn5Cr5,FCC,S,AC,,,,C,25.0,490 $\pm$ 18,,6,,,78.4 $\pm$ 3,,,,,,,3.06,,101
+766,J105,10.1038/s41598-019-43329-w,Al65Cu5Mg5Si15Zn5Mn5,FCC,S,AC,,,,C,25.0,622 $\pm$ 15,,2,,,114.1 $\pm$ 2,,,,,,,2.98,,101
+767,J105,10.1038/s41598-019-43329-w,Al65Cu5Mg5Si15Zn5Zr5,FCC + Laves,M,AC,,,,C,25.0,565 $\pm$ 79,,4,,,105.1 $\pm$ 27,,,,,,,3.06,,101
+768,J106,10.3390/e21050448,CoCrFeNiMo0.2,FCC,S,AC,,,,T,25.0,400,780,53,,,,,,,"For some reason, missing Yield Strength data",,,,,102
+769,J106,10.3390/e21050448,CoCrFeNiMo0.2,FCC,S,A,,,,T,25.0,,838,43,,,,,,,,,,,,102
+770,J106,10.3390/e21050448,CoCrFeNiMo0.2,FCC,S,A,,,,T,25.0,,899,31,,,,,,,,,,,,102
+771,J106,10.3390/e21050448,CoCrFeNiMo0.2,FCC,S,A,,,,T,25.0,,902,29,,,,,,,,,,,,102
+772,J106,10.3390/e21050448,CoCrFeNiMo0.2,FCC,S,A,,,,T,25.0,,811,52,,,,,,,,,,,,102
+773,J106,10.3390/e21050448,CoCrFeNiMo0.2,FCC,S,A,,,,T,25.0,,790,49,,,,,,,,,,,,102
+774,J106,10.3390/e21050448,CoCrFeNiMo0.2,FCC,S,A,,,,T,25.0,,799,47,,,,,,,,,,,,102
+775,J106,10.3390/e21050448,CoCrFeNiMo0.2,FCC,S,A,,,,T,25.0,,802,37,,,,,,,,,,,,102
+776,J106,10.3390/e21050448,CoCrFeNiMo0.2,FCC,S,A,,,,T,25.0,,823,36,,,,,,,,,,,,102
+777,J106,10.3390/e21050448,CoCrFeNiMo0.2,FCC,S,A,,,,T,25.0,,849,34,,,,,,,,,,,,102
+778,J106,10.3390/e21050448,CoCrFeNiMo0.2,FCC,S,A,,,,T,25.0,,895,32,,,,,,,,,,,,102
+779,J107,10.3390/ma12071136,Al19.9Li30Mg35Si10Ca5Y0.1,,M,AC,,,,C,25.0,556,,3,,,,,,,changed to multiphase,,,1.7,,103
+780,J107,10.3390/ma12071136,Al15Li35Mg35Ca10Si5,,M,AC,,,,C,25.0,418,,13,,,,,,,changed to multiphase,,,1.57,,103
+781,J107,10.3390/ma12071136,Al15Li38Mg48Ca1 Si1,,M,AC,,,,C,25.0,360,,9,,,,,,,corrected the name; changed to multiphase,,,1.52,,103
+782,J107,10.3390/ma12071136,Al15Li38Mg45Ca0.5Si1.5,,M,AC,,,,C,25.0,342,,44,,,,,,,changed to multiphase,,,1.5,,103
+783,J107,10.3390/ma12071136,Al15Li39Mg45Ca0.5Si0.5,,M,AC,,,,C,25.0,300,,63,,,,,,,changed to multiphase,,,1.46,,103
+784,J109,10.3390/e21030288,CoCrFeNiPd,FCC,S,AC,,,295,,,,,,,,,,,,,,,,,104
+785,J109,10.3390/e21030288,CoCrFeNiPdMn0.2,FCC + IM,M,AC,,,470,C,25.0,650,,50,,,,,,,changed to multiphase,,,,,104
+786,J109,10.3390/e21030288,CoCrFeNiPdMn0.4,FCC + IM,M,AC,,,380,C,25.0,650,,46,,,,,,,changed to multiphase,,,,,104
+787,J109,10.3390/e21030288,CoCrFeNiPdMn0.6,FCC + IM,M,AC,,,180,C,25.0,650,,42,,,,,,,changed to multiphase,,,,,104
+788,J109,10.3390/e21030288,CoCrFeNiPdMn0.8,FCC + IM,M,AC,,,160,C,25.0,650,,35,,,,,,,changed to multiphase,,,,,104
+789,J110,10.1016/j.scriptamat.2018.12.021,Al0.3CoCrFeMnNi,,,SPS,,,,,,,,,,,,,,,Skipped,,,,,106
+790,J111,10.1557/jmr.2019.40,CrFeNiTi0.2,BCC + FCC,M,AC,,,362.2,C,25.0,2297.94,,5.8,,,,,,,,,,,,107
+791,J111,10.1557/jmr.2019.40,CrFeNiTi0.3,BCC + FCC,M,AC,,,510.3,C,25.0,2364.63,,,,,,,,,corrected elongations,,,,,107
+792,J111,10.1557/jmr.2019.40,CrFeNiTi0.4,BCC,S,AC,,,600.3,C,25.0,2475.41,,6.5,,,,,,,corrected elongations,,,,,107
+793,J111,10.1557/jmr.2019.40,CrFeNiTi0.5,BCC,S,AC,,,709.6,C,25.0,2380.79,,,,,,,,,corrected elongations,,,,,107
+794,J111,10.1557/jmr.2019.40,CrFeNiTi0.6,BCC,S,AC,,,718.2,C,25.0,1923.15,,,,,,,,,corrected elongations,,,,,107
+795,J112,10.1557/jmr.2019.18,AlCuCrFeMn,sigma + FeMn,M,SPS,,,633,C,25.0,1010,,,,,,,,,fixed strength,,,,,108
+796,J112,10.1557/jmr.2019.18,AlCuCrFeMnW0.05,BCC + sigma + FeMn,M,SPS,,,680,C,25.0,1120,,,,,,,,,fixed strength,,,,,108
+797,J112,10.1557/jmr.2019.18,AlCuCrFeMnW0.1,BCC + sigma + FeMn,M,SPS,,,705,C,25.0,1250,,,,,,,,,fixed strength,,,,,108
+798,J112,10.1557/jmr.2019.18,AlCuCrFeMnW0.5,BCC + sigma + FeMn,M,SPS,,,780,C,25.0,1510,,,,,,,,,fixed strength,,,,,108
+799,J113,10.1557/jmr.2019.36,FeCoNiCuNb0.5,FCC + Laves,M,HR,,,,,,,,,,,,,,,No data for FeCoNiCuNb0.5,,,,,109
+800,J113,10.1557/jmr.2019.36,FeCoNiCuNb5,FCC + Laves,M,HR,,,,C,25.0,1498,,37.6,,,,,,,fixed processing to HR,,,,,109
+801,J113,10.1557/jmr.2019.36,FeCoNiCuNb7.5,FCC + Laves,M,HR,,,,C,25.0,1635,,31.7,,,,,,,fixed processing to HR,,,,,109
+802,J113,10.1557/jmr.2019.36,FeCoNiCuNb11.6,FCC + Laves,M,HR,,,,C,25.0,1703,,18.3,,,,,,,fixed processing to HR,,,,,109
+803,J113,10.1557/jmr.2019.36,FeCoNiCuNb15,FCC + Laves,M,HR,,,,C,25.0,1415,,12.6,,,,,,,fixed processing to HR,,,,,109
+804,J115,10.1016/j.msea.2019.01.088,Fe50Mn30Co10Cr10,FCC + BCP,M,AC,,,296 $\pm$ 24,,,,,,,,,,,,No mechanical data,,,,,110
+805,J115,10.1016/j.msea.2019.01.088,Fe49.7Mn30Co10Cr10B0.3,FCC + BCP,M,AC,,,282 $\pm$ 15,,,,,,,,,,,,,,,,,110
+806,J115,10.1016/j.msea.2019.01.088,Fe49.4Mn30Co10Cr10B0.6,FCC + BCP,M,AC,,,306 $\pm$ 24,,,,,,,,,,,,,,,,,110
+807,J115,10.1016/j.msea.2019.01.088,Fe48.3Mn30Co10Cr10B1.7,FCC + BCP,M,AC,,,452 $\pm$ 51,,,,,,,,,,,,,,,,,110
+808,J116,10.1016/j.msea.2019.01.083,Fe40.4Ni11.3Mn34.8Al7.5Cr6,,,AC,,,,T,25.0,159 $\pm$ 11,535 $\pm$ 21,,40.8 $\pm$ 3,,,,,,,,,,,111
+809,J116,10.1016/j.msea.2019.01.083,Fe40.4Ni11.3Mn34.8Al7.5Cr6,,M,A,,,,T,25.0,409 $\pm$ 12,584 $\pm$ 26,,10.5 $\pm$ 3,,,,,,marked as multiphase,,,,,111
+810,J116,10.1016/j.msea.2019.01.083,(Fe40.4Ni11.3Mn34.8Al7.5Cr6)98.9C1.1,,,AC,,,,T,25.0,355 $\pm$ 7,1174 $\pm$ 19,,49.5 $\pm$ 0.6,,,,,,,,,,,111
+811,J116,10.1016/j.msea.2019.01.083,(Fe40.4Ni11.3Mn34.8Al7.5Cr6)98.9C1.1,,M,A,,,,T,25.0,954 $\pm$ 49,978 $\pm$ 39,,2 $\pm$ 0.2,,,,,,marked as multiphase,,,,,111
+812,J117,10.1007/s00339-019-2484-1,TiZrHf,2HCP,M,AC,,,211,C,25.0,773,,17,,,,,,,changed to two HCP phases,,,,,112
+813,J117,10.1007/s00339-019-2484-1,TiZrHfSc,2HCP,M,AC,,,233,C,25.0,1001,,21.9,,,,,,,changed to two HCP phases,,,,,112
+814,J117,10.1007/s00339-019-2484-1,TiZrHfY,2HCP,M,AC,,,241,C,25.0,554,,17.7,,,,,,,changed to two HCP phases,,,,,112
+815,J117,10.1007/s00339-019-2484-1,TiZrHfScY,2HCP,M,AC,,,256,C,25.0,793,,15.7,,,,,,,changed to two HCP phases,,,,,112
+816,J118,10.1007/s10853-018-03196-8,NiCoFeCrGa,FCC + BCC,M,AC,,,,,,,,,,,,,,,Induction Melting,,,,,113
+817,J119,10.1007/s00339-019-2506-z,Co30Cr10Fe10Al18Ni32,FCC + BCC,M,AC,,,305.4 $\pm$ 6.1,C,25.0,1129.4,,16.7,,,,,,,,,,,,114
+818,J119,10.1007/s00339-019-2506-z,Co30Cr10Fe10Al18Ni31Mo1,FCC + BCC,M,AC,,,357.3 $\pm$ 9.4,C,25.0,1159.7,,18.2,,,,,,,,,,,,114
+819,J119,10.1007/s00339-019-2506-z,Co30Cr10Fe10Al18Ni30Mo2,FCC + BCC,M,AC,,,362.6 $\pm$ 8.2,C,25.0,1250.8,,14.7,,,,,,,,,,,,114
+820,J119,10.1007/s00339-019-2506-z,Co30Cr10Fe10Al18Ni29Mo3,FCC + BCC,M,AC,,,359.7 $\pm$ 4.7,C,25.0,1198.3,,14.5,,,,,,,,,,,,114
+821,J120,10.3390/met9030351,Fe24.1Co24.1Cr24.1Ni24.1Mo3.6,FCC + sigma,M,SPS,,,210,,,,,,,,,,,,"No mechanical data, changed to multiphase",,,,,116
+822,J121,10.1007/s11665-018-3837-1,CoCrCuFeNi,FCC,S,AC,,,,C,25.0,300,,50.2,,,,,,,,,,,,117
+823,J121,10.1007/s11665-018-3837-1,(CoCrCuFeNi)96V4,FCC + Cu phase,M,AC,,,,C,25.0,303,,50.2,,,,,,,changed to multiphase,,,,,117
+824,J121,10.1007/s11665-018-3837-1,(CoCrCuFeNi)92V8,FCC + Cu phase,M,AC,,,,C,25.0,307,,50.2,,,,,,,changed to multiphase,,,,,117
+825,J121,10.1007/s11665-018-3837-1,(CoCrCuFeNi)88V12,FCC + Sigma + Cu phase,M,AC,,,,C,25.0,330,,50.2,,,,,,,changed to multiphase,,,,,117
+826,J121,10.1007/s11665-018-3837-1,(CoCrCuFeNi)84V16,FCC + Sigma + Cu phase,M,AC,,,,C,25.0,616,,28,,,,,,,changed to multiphase,,,,,117
+827,J122,10.3390/e21020122,CoCrNiCuZn,BCC+FCC,M,SPS,500,,,C,25.0,,,,,,,,,,600,,,5.26,,118
+828,J122,10.3390/e21020122,CoCrNiCuZn,BCC+FCC,M,SPS,500,,,C,25.0,,,,,,,,,,700,,,6.26,,118
+829,J122,10.3390/e21020122,CoCrNiCuZn,BCC+FCC,M,SPS,500,,,C,25.0,,,,,,,,,,800,,,7.84,,118
+830,J122,10.3390/e21020122,CoCrNiCuZn,FCC+FCC,M,SPS,500,,615,C,25.0,2121,,,,,,,,,sintered at 900C,,,7.89,,118
+831,J123,10.3390/e21020114,HfNbTaTiZr,BCC,S,AC,500,,359,T,25.0,1155,1212,12.3,,,59,,,,,,,,,119
+832,J123,10.3390/e21020114,NbTaTiZr,BCC,S,AC,500,,358,T,25.0,1144,1205,6.4,,,98,,,,,,,,,119
+833,J123,10.3390/e21020114,NbTaTi,BCC,S,AC,500,,246,T,25.0,620,683,18.5,,,143,,,,,,,,,119
+834,J123,10.3390/e21020114,TaTiZr,BCC + ,M,AC,500,,485,T,25.0,,284,0,,,157,,,,changed to multiphase,,,,,119
+835,J123,10.3390/e21020114,NbTiZr,BCC,S,AC,500,,295,T,25.0,956,991,14.2,,,88,,,,,,,,,119
+836,J123,10.3390/e21020114,Nb1.5TaTiZr0.5,BCC + ,M,AC,500,,294,T,25.0,822,852,0.33,,,127,,,,changed to multiphase,,,,,119
+837,J123,10.3390/e21020114,Nb0.5TaTiZr1.5,BCC + ,M,AC,500,,489,T,25.0,,843,0,,,93,,,,changed to multiphase,,,,,119
+838,J124,10.1016/j.msea.2018.12.020,AgAlNbTiZn,,M,A,,,,,,,,,,,,,,,changed to multiphase,,,4.75,,120
+839,J124,10.1016/j.msea.2018.12.020,AgAlNbTiZn,,M,A,,,,,,,,,,,,,,,changed to multiphase,,,5.78,,120
+840,J124,10.1016/j.msea.2018.12.020,AgAlNbTiZn,,M,A,,,,,,,,,,,,,,,changed to multiphase,,,5.79,,120
+841,J124,10.1016/j.msea.2018.12.020,AgAlNbTiZn,,M,A,,,,,,,,,,,,,,,changed to multiphase,,,5.51,,120
+842,J124,10.1016/j.msea.2018.12.020,AgAlNbTiZn,,M,A,,,,,,,,,,,,,,,changed to multiphase,,,,,120
+843,J125,10.1155/2019/2157592,Fe31Mn28 Ni15Al24,,,AC,,,310,,,,,,,,,,,,,,,,,121
+844,J125,10.1155/2019/2157592,Fe31Mn28 Ni15Al24Ti0.8,,,AC,,,330,,,,,,,,,,,,,,,,,121
+845,J125,10.1155/2019/2157592,Fe31Mn28 Ni15Al24Ti3,,,AC,,,500,,,,,,,,,,,,,,,,,121
+846,J125,10.1155/2019/2157592,Fe31Mn28 Ni15Al24,,,A,,,340,,,,,,,,,,,,,,,,,121
+847,J125,10.1155/2019/2157592,Fe31Mn28 Ni15Al24Ti0.8,,,A,,,410,,,,,,,,,,,,,,,,,121
+848,J125,10.1155/2019/2157592,Fe31Mn28 Ni15Al24Ti3,,,A,,,495,,,,,,,,,,,,,,,,,121
+849,J125,10.1155/2019/2157592,Fe31Mn28 Ni15Al24,,,A,,,330,,,,,,,,,,,,,,,,,121
+850,J125,10.1155/2019/2157592,Fe31Mn28 Ni15Al24Ti0.8,,,A,,,330,,,,,,,,,,,,,,,,,121
+851,J125,10.1155/2019/2157592,Fe31Mn28 Ni15Al24Ti3,,,A,,,490,,,,,,,,,,,,,,,,,121
+852,J126,10.1080/00325899.2019.1576389,AlCrFeNiCoC,FCC + BCC,M,SPS,,,,,,,,,,,,,,,,,,,,122
+853,J128,10.1007/s11106-019-00012-z,CrFeNiCuTi,FCC + BCC,M,AC,,,,,,,,,,,,,,,No Mechanical Data,,,,,123
+854,J128,10.1007/s11106-019-00012-z,CrFeNiCuTi,FCC + BCC,M,HF + A,,,,,,,,,,,,,,,,,,,,123
+855,J128,10.1007/s11106-019-00012-z,CrFeNiCuTi,FCC + BCC,M,HF + A,,,,,,,,,,,,,,,,,,,,123
+856,J128,10.1007/s11106-019-00012-z,CrFeNiCuTi,FCC + BCC,M,HF + A,,,,,,,,,,,,,,,,,,,,123
+857,J129,10.1080/00325899.2018.1554834,CrMnFeCoNi,FCC  ,S,SPS,0.03,,435 $\pm$ 25,C,25.0,1100,,47,,,,,,,,,,7.753,,124
+858,J130,10.1007/s11665-018-3822-8,CuCrFeNiAl0.5,FCC,S,AC,,,226,,,,,,,,,,,,,,,,,126
+859,J130,10.1007/s11665-018-3822-8,CuCrFeNiAl0.5,FCC,S,CR + A,,,287,,,,,,,,,,,,,,,,,126
+860,J131,10.3390/e21010015,HfMoNbTaTiZr,BCC,S,AC,,,,C,25.0,1512,,12,,,,,,,,,,,,127
+861,J131,10.3390/e21010015,HfMoTaTiZr,BCC,S,AC,,,,C,25.0,1600,,4,,,,,,,,,,,,127
+862,J131,10.3390/e21010015,HfMoNbTiZr,BCC,S,AC,,,,C,25.0,1351,,20,,,,,,,,,,,,127
+863,J131,10.3390/e21010015,HfMoNbTaZr,BCC,S,AC,,,,C,25.0,1524,,16,,,,,,,,,,,,127
+864,J131,10.3390/e21010015,HfMoNbTaTi ,BCC,S,AC,,,,C,25.0,1369,,27,,,,,,,,,,,,127
+865,J131,10.3390/e21010015,HfMoNbTaTiZr,BCC,S,AC,,,,C,800.0,1007,,,,,,,,,,,,,,127
+866,J131,10.3390/e21010015,HfMoTaTiZr,BCC,S,AC,,,,C,800.0,1045,,,,,,,,,,,,,,127
+867,J131,10.3390/e21010015,HfMoNbTiZr,BCC,S,AC,,,,C,800.0,829,,,,,,,,,,,,,,127
+868,J131,10.3390/e21010015,HfMoNbTaZr,BCC,S,AC,,,,C,800.0,1005,,,,,,,,,,,,,,127
+869,J131,10.3390/e21010015,HfMoNbTaTi ,BCC,S,AC,,,,C,800.0,822,,,,,,,,,,,,,,127
+870,J131,10.3390/e21010015,HfMoNbTaTiZr,BCC,S,AC,,,,C,1000.0,814,,,,,,,,,,,,,,127
+871,J131,10.3390/e21010015,HfMoTaTiZr,BCC,S,AC,,,,C,1000.0,855,,,,,,,,,,,,,,127
+872,J131,10.3390/e21010015,HfMoNbTiZr,BCC,S,AC,,,,C,1000.0,721,,,,,,,,,,,,,,127
+873,J131,10.3390/e21010015,HfMoNbTaZr,BCC,S,AC,,,,C,1000.0,927,,,,,,,,,,,,,,127
+874,J131,10.3390/e21010015,HfMoNbTaTi ,BCC,S,AC,,,,C,1000.0,778,,,,,,,,,,,,,,127
+875,J131,10.3390/e21010015,HfMoNbTaTiZr,BCC,S,AC,,,,C,1200.0,556,,,,,,,,,,,,,,127
+876,J131,10.3390/e21010015,HfMoTaTiZr,BCC,S,AC,,,,C,1200.0,404,,,,,,,,,,,,,,127
+877,J131,10.3390/e21010015,HfMoNbTiZr,BCC,S,AC,,,,C,1200.0,301,,,,,,,,,,,,,,127
+878,J131,10.3390/e21010015,HfMoNbTaZr,BCC,S,AC,,,,C,1200.0,694,,,,,,,,,,,,,,127
+879,J131,10.3390/e21010015,HfMoNbTaTi ,BCC,S,AC,,,,C,1200.0,699,,,,,,,,,,,,,,127
+880,J131,10.3390/e21010015,HfMoNbTaZr,BCC,S,AC,,,,C,1400.0,278,,,,,,,,,,,,,,127
+881,J131,10.3390/e21010015,HfMoNbTaTi ,BCC,S,AC,,,,C,1400.0,367,,,,,,,,,,,,,,127
+882,J132,10.3390/coatings9010016,CoCrFeNi,FCC,S,VHP,0.0276,,,,,,,,,,,,,,,,,,,128
+883,J132,10.3390/coatings9010016,(CoCrFeNi)0.9(WC)0.1,FCC,S,VHP,0.0189,,475,,,,,,,,,,,,,,,7.24 $\pm$ 0.02,,128
+884,J132,10.3390/coatings9010016,(CoCrFeNi)0.7(WC)0.3,FCC,S,VHP,0.0182,,531,,,,,,,,,,,,,,,8.39 $\pm$ 0.03,,128
+885,J133,10.5755/j01.ms.25.3.19452,Al0.4FeCrCo1.5NiTi0.3,FCC + BCC,M,SPS,,,515 $\pm$ 16,C,25.0,2012 $\pm$ 20,,,17.52 $\pm$ 0.5,,,,,,,,,,,129
+886,J134,10.1007/s11661-018-4646-8,HfNbTaTiZr,BCC,S,HIP + CR,,,,T,25.0,1438,,,,,91.5,,,,"Hot Isostatically Pressed, reffered to as ""as-rolled""",,,,,130
+887,J134,10.1007/s11661-018-4646-8,HfNbTaTiZr,BCC,S,HIP + CR + A,,,,T,25.0,1159,,,,,99.2,,,,these are true strains elongation and UTS were removed,,,,,130
+888,J134,10.1007/s11661-018-4646-8,HfNbTaTiZr,BCC,S,HIP + CR + A,,,,T,25.0,1134,,,,,109.1,,,,,,,,,130
+889,J134,10.1007/s11661-018-4646-8,HfNbTaTiZr,BCC,S,HIP + CR + A,,,,T,25.0,1094,,,,,105.3,,,,,,,,,130
+890,J134,10.1007/s11661-018-4646-8,HfNbTaTiZr,BCC,S,HIP + CR + A,,,,T,25.0,1071,,,,,91.6,,,,,,,,,130
+891,J134,10.1007/s11661-018-4646-8,HfNbTaTiZr,BCC,S,HIP + CR + A,24.4,,,T,25.0,1107,,,,,92.6,,,,,,,,,130
+892,J134,10.1007/s11661-018-4646-8,HfNbTaTiZr,BCC,S,HIP + CR + A,31.3,,,T,25.0,1115,,,,,92.6,,,,,,,,,130
+893,J134,10.1007/s11661-018-4646-8,HfNbTaTiZr,BCC,S,HIP + CR + A,38.4,,,T,25.0,1114,,,,,101.3,,,,,,,,,130
+894,J134,10.1007/s11661-018-4646-8,HfNbTaTiZr,BCC,S,HIP + CR + A,50.1,,,,,,,,,,,,,,,,,,,130
+895,J134,10.1007/s11661-018-4646-8,HfNbTaTiZr,BCC,S,HIP + CR + A,21.9,,,,,,,,,,,,,,,,,,,130
+896,J134,10.1007/s11661-018-4646-8,HfNbTaTiZr,BCC,S,HIP + CR + A,75.5,,,,,,,,,,,,,,,,,,,130
+897,J135,10.1080/02670836.2018.1446267,AlNbTiZr,B2,S,AC,250,,422 $\pm$ 15,C,25.0,1509,,8.6,,,,,,,,,,5.85,,131
+898,J135,10.1080/02670836.2018.1446267,AlNbTiZr,B2 + Zr5Al3,M,A,,,418 $\pm$ 15,C,25.0,1579,,17.8,,,,,,,,,,,,131
+899,J135-18,10.1016/j.matlet.2015.08.099,AlNbTiVZr0.5,,,,,,,C,25.0,1480,,>50,,,,,,,,,,5.64,,132
+900,J135-19,10.1179/1743284715Y.0000000032,AlNbTiZr,,,,,,539.6,C,25.0,1080,,5.9,,,,,,,,,,5.79,,133
+901,J135-24,10.1016/j.actamat.2012.11.032,NbTiVZr,,,,,,335,C,25.0,1105,,>50,,,,,,,,,,6.52,,134
+902,J135-24,10.1016/j.actamat.2012.11.032,CrNbTiZr,,,,,,418,C,25.0,1260,,6,,,,,,,,,,6.67,,134
+903,new_ref_2,10.1088/0256-307X/35/3/036102,AlCrFeNiMo0.5,BCC+B2,M,AC,,,623.7,C,25.0,1914.1,4023.6,,27.9,,,,,,,,,,,264
+904,new_ref_2,10.1088/0256-307X/35/3/036102,AlCrFeNiMo0.5Ti0.25,BCC+B2,M,AC,,,712,C,25.0,2161.7,3641.5,,14.3,,,,,,,,,,,264
+905,new_ref_2,10.1088/0256-307X/35/3/036102,AlCrFeNiMo0.5Ti0.4,BCC+B2,M,AC,,,731.9,C,25.0,2185.1,3673.4,,14.8,,,,,,,,,,,264
+906,new_ref_2,10.1088/0256-307X/35/3/036102,AlCrFeNiMo0.5Ti0.5,BCC+B2,M,AC,,,751.7,C,25.0,2228.7,3166.2,,10.4,,,,,,,,,,,264
+907,new_ref_2,10.1088/0256-307X/35/3/036102,AlCrFeNiMo0.5Ti0.6,BCC+B2,M,AC,,,756.1,C,25.0,1314.5,1314.5,,,,,,,,,,,,,264
+908,new_ref_2,10.1088/0256-307X/35/3/036102,AlCrFeNiMo0.5Ti0.75,BCC+B2,M,AC,,,766.2,C,25.0,618.8,618.8,,,,,,,,,,,,,264
+909,new_ref_4,10.1016/j.matdes.2018.06.003,AlCrMoNb,Laves (C14)+A15,M,A,,,,,,,,,,,,,,,,,,,,265
+910,new_ref_4,10.1016/j.matdes.2018.06.003,AlCrMoNb,Laves (C14)+A15,M,AC,,,,,,,,,,,,,,,,,,,,265
+911,new_ref_4,10.1016/j.matdes.2018.06.003,AlHfNbTi,B2,S,A,,,,,,,,,,,,,,,,,,,,265
+912,new_ref_4,10.1016/j.matdes.2018.06.003,AlHfNbTi,B2,S,AC,,,,,,,,,,,,,,,,,,,,265
+913,new_ref_4,10.1016/j.matdes.2018.06.003,AlHfTaTi,B2,S,A,,,,,,,,,,,,,,,,,,,,265
+914,new_ref_4,10.1016/j.matdes.2018.06.003,AlHfTaTi,B2,S,AC,,,,,,,,,,,,,,,,,,,,265
+915,new_ref_4,10.1016/j.matdes.2018.06.003,AlMoNbTi,BCC+A15,M,A,,,,,,,,,,,,,,,,,,,,265
+916,new_ref_4,10.1016/j.matdes.2018.06.003,AlMoNbTi,BCC,S,AC,,,509 $\pm$ 18,,,,,,,,,,,,,,,,,265
+917,new_ref_4,10.1016/j.matdes.2018.06.003,AlNbTaTi,BCC+A15,M,A,,,,,,,,,,,,,,,,,,,,265
+918,new_ref_4,10.1016/j.matdes.2018.06.003,AlNbTaTi,BCC,S,AC,,,458 $\pm$ 10,,,,,,,,,,,,,,,,,265
+919,new_ref_4,10.1016/j.matdes.2018.06.003,CrMoTaTi,BCC,S,A,,,555 $\pm$ 24,,,,,,,,,,,,,,,,,265
+920,new_ref_4,10.1016/j.matdes.2018.06.003,CrMoTaTi,BCC,S,AC,,,539 $\pm$ 32,,,,,,,,,,,,,,,,,265
+921,new_ref_4,10.1016/j.matdes.2018.06.003,CrNbTaTi,BCC+Laves (C15),M,A,,,,,,,,,,,,,,,,,,,,265
+922,new_ref_4,10.1016/j.matdes.2018.06.003,CrNbTaTi,BCC,S,AC,,,495 $\pm$ 26,,,,,,,,,,,,,,,,,265
+923,new_ref_4,10.1016/j.matdes.2018.06.003,CrNbTiW,BCC+Laves (C15),M,A,,,630 $\pm$ 28,,,,,,,,,,,,,,,,,265
+924,new_ref_4,10.1016/j.matdes.2018.06.003,CrNbTiW,BCC,S,AC,,,630 $\pm$ 24,,,,,,,,,,,,,,,,,265
+925,new_ref_4,10.1016/j.matdes.2018.06.003,HfNbTaTi,BCC,S,A,,,280 $\pm$ 10,,,,,,,,,,,,,,,,,265
+926,new_ref_4,10.1016/j.matdes.2018.06.003,HfNbTaTi,BCC,S,AC,,,270 $\pm$ 5,,,,,,,,,,,,,,,,,265
+927,new_ref_4,10.1016/j.matdes.2018.06.003,MoNbTaTiW,BCC,S,A,,,482 $\pm$ 10,,,,,,,,,,,,,,,,,265
+928,new_ref_4,10.1016/j.matdes.2018.06.003,MoNbTaTiW,BCC,S,AC,,,446 $\pm$ 32,,,,,,,,,,,,,,,,,265
+929,new_ref_4,10.1016/j.matdes.2018.06.003,MoNbTaTi,BCC,S,A,,,407 $\pm$ 17,,,,,,,,,,,,,,,,,265
+930,new_ref_4,10.1016/j.matdes.2018.06.003,MoNbTaTi,BCC,S,AC,,,431 $\pm$ 7,,,,,,,,,,,,,,,,,265
