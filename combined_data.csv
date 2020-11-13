@@ -1328,7 +1328,7 @@
 712,J90-32,10.1016/j.intermet.2012.03.005,CoCrFeNiAl,BCC,S,,,,500,,,,,,,,,,,,,32.0,10.1016/j.intermet.2012.03.005,,,255
 713,J90-32,10.1016/j.intermet.2012.03.005,CoCrFeNiAl2,BCC,S,,,,733,,,,,,,,,,,,,32.0,10.1016/j.intermet.2012.03.005,,,255
 714,J90-35,10.1016/j.msea.2013.12.096,CoFeNiAl0.5Ti0.5,FCC + BCC,M,,,,733,,,,,,,,,,,,,35.0,10.1016/j.msea.2013.12.096,,,256
-715,J90-35,10.1016/j.msea.2013.12.096,CrCoFeNiAl0.5Ti0.5,FCC,S,,,,640,,,,,,,,,,,,,35.0,10.1016/j.msea.2013.12.096,,,256
+715,J90-35,10.1016/j.msea.2013.12.096,CrCoFeNiAl0.5Ti0.5,FCC + FCC,M,,,,640,,,,,,,,,,,,,35.0,10.1016/j.msea.2013.12.096,,,256
 716,J90-36,10.4028/www.scientific.net/MSF.846.13,Al0.5FeCrNiMnCoTa0,,,,,,,,,,,,,,,,,,,36.0,10.4028/www.scientific.net/MSF.846.13,,,257
 717,J90-36,10.4028/www.scientific.net/MSF.846.13,Al0.5FeCrNiMnCoTa0.2,FCC + BCC + laves,M,,,,385,,,,,,,,,,,,,36.0,10.4028/www.scientific.net/MSF.846.13,,,257
 718,J90-36,10.4028/www.scientific.net/MSF.846.13,Al0.5FeCrNiMnCoTa0.4,FCC + BCC + laves,M,,,,486,,,,,,,,,,,,,36.0,10.4028/www.scientific.net/MSF.846.13,,,257

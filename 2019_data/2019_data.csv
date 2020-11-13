@@ -714,7 +714,7 @@ J90-32,10.1016/j.intermet.2012.03.005,CoCrFeNiAl0.5,32,10.1016/j.intermet.2012.0
 J90-32,10.1016/j.intermet.2012.03.005,CoCrFeNiAl,32,10.1016/j.intermet.2012.03.005,BCC,S,,,,500,,,,,,,,,,,,
 J90-32,10.1016/j.intermet.2012.03.005,CoCrFeNiAl2,32,10.1016/j.intermet.2012.03.005,BCC,S,,,,733,,,,,,,,,,,,
 J90-35,10.1016/j.msea.2013.12.096,CoFeNiAl0.5Ti0.5,35,10.1016/j.msea.2013.12.096,FCC + BCC,M,,,,733,,,,,,,,,,,,
-J90-35,10.1016/j.msea.2013.12.096,CrCoFeNiAl0.5Ti0.5,35,10.1016/j.msea.2013.12.096,FCC,S,,,,640,,,,,,,,,,,,
+J90-35,10.1016/j.msea.2013.12.096,CrCoFeNiAl0.5Ti0.5,35,10.1016/j.msea.2013.12.096,FCC + FCC,M,,,,640,,,,,,,,,,,,
 J90-36,10.4028/www.scientific.net/MSF.846.13,Al0.5FeCrNiMnCoTa0,36,10.4028/www.scientific.net/MSF.846.13,,,,,,,,,,,,,,,,,,
 J90-36,10.4028/www.scientific.net/MSF.846.13,Al0.5FeCrNiMnCoTa0.2,36,10.4028/www.scientific.net/MSF.846.13,FCC + BCC + laves,M,,,,385,,,,,,,,,,,,
 J90-36,10.4028/www.scientific.net/MSF.846.13,Al0.5FeCrNiMnCoTa0.4,36,10.4028/www.scientific.net/MSF.846.13,FCC + BCC + laves,M,,,,486,,,,,,,,,,,,
