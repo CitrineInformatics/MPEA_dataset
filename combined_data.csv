@@ -1134,10 +1134,10 @@
 518,J67,10.1007/s40195-019-00935-x,MoNbFeCrV,BCC + Laves,M,AC,,,826,C,25.0,2663,,2.7,,,,,,,added hardness vickers from text,,,,,233
 519,J67,10.1007/s40195-019-00935-x,MoNbFeCrTi,BCC + Laves,M,AC,,,792,C,25.0,1647,,0.9,,,,,,,added hardness vickers from text,,,,,233
 520,J67,10.1007/s40195-019-00935-x,MoNbFeVTi,BCC + B2,M,AC,,,699,C,25.0,1707,,1.7,,,,,,,added hardness vickers from text,,,,,233
-521,J68,10.1016/j.matchar.2019.109792,Al0.3Cu0.5FeCrNi2,FCC,S,CR + A,,,107,T,62.0,169,,98,,,16.6,,,,,,,,,234
-522,J68,10.1016/j.matchar.2019.109792,Al0.3Cu0.5FeCrNi2,FCC + L12,M,CR + A,,,209,T,350.0,642,,73,,,47,,,,,,,,,234
-523,J68,10.1016/j.matchar.2019.109792,Al0.3Cu0.5FeCrNi2,FCC + L12 + M23C6,M,CR + A,,,321,T,535.0,904,,39,,,35.2,,,,,,,,,234
-524,J68,10.1016/j.matchar.2019.109792,Al0.3Cu0.5FeCrNi2,FCC + L12 + M23C6,M,CR + A,,,159,T,255.0,584,,88,,,51.4,,,,,,,,,234
+521,J68,10.1016/j.matchar.2019.109792,Al0.3Cu0.5FeCrNi2,FCC,S,CR + A,,,107,T,25.0,62,169,98,,,16.6,,,,,,,,,234
+522,J68,10.1016/j.matchar.2019.109792,Al0.3Cu0.5FeCrNi2,FCC + L12,M,CR + A,,,209,T,25.0,350,642,73,,,47,,,,,,,,,234
+523,J68,10.1016/j.matchar.2019.109792,Al0.3Cu0.5FeCrNi2,FCC + L12 + M23C6,M,CR + A,,,321,T,25.0,535,904,39,,,35.2,,,,,,,,,234
+524,J68,10.1016/j.matchar.2019.109792,Al0.3Cu0.5FeCrNi2,FCC + L12 + M23C6,M,CR + A,,,159,T,25.0,255,584,88,,,51.4,,,,,,,,,234
 525,J69,10.1016/j.jallcom.2019.05.322,HfNbTaTiZr,BCC,S,CR + A,60,,,,20.0,,,,,,88.9,,,,Paper focused on Young's Modulus,,,,,235
 526,J69,10.1016/j.jallcom.2019.05.322,HfNbTaTiZr,BCC,S,CR + A,,,,,40.0,,,,,,88.6,,,,,,,,,235
 527,J69,10.1016/j.jallcom.2019.05.322,HfNbTaTiZr,BCC,S,CR + A,,,,,60.0,,,,,,88.4,,,,,,,,,235
